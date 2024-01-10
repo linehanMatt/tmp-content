@@ -5,7 +5,7 @@ description: "Narrative's data collaboration platform revolutionizes patient car
 ::feature-callout{title="Comprehensive Data Integration" description="Centralize patient, operational, and research data within a secure, compliant framework."}
 ::
 
-::feature-callout{title="Protected Health Information (PHI) Security" description="Benefit from our unwavering commitment to patient data protection with robust encryption and compliance measures."}
+::feature-callout{title="Protected Health Information (PHI) Security" description="Benefit from our unwavering commitment to patient data protection with robust encryption and compliance measures." prompt="Tell me about Diabetes!"}
 ::
 
 ::feature-callout{title="Data Collaboration at Scale" description="Manage large-scale collaborations across healthcare networks to share insights while maintaining data sovereignty."}

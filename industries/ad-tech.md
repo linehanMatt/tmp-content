@@ -17,5 +17,5 @@ description: "Narrative's Ad Tech solutions empower companies to harness vast-sc
 ::feature-callout{title="Data Clean Room Solutions" description="Leverage secure, privacy-compliant environments to analyze sensitive data and unlock powerful insights."}
 ::
 
-::feature-callout{title="Scalability and Flexibility" description="Our platform scales with your data demands, offering the flexibility needed for dynamic ad tech environments."}
+::feature-callout{title="Scalability and Flexibility" description="Our platform scales with your data demands, offering the flexibility needed for dynamic ad tech environments." prompt="Help me!"}
 ::
