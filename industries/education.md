@@ -1,6 +1,8 @@
 ---
 title: 'Education'
 description: 'Narrative powers educational institutions with scalable data collaboration tools for student success and research advancement.'
+primaryColor: "#00ff00"
+colorMode: 'neon'
 ---
 ::feature-callout{title="Student Data Empowerment" description="Improve student outcomes with detailed analytics at both the individual and cohort levels."}
 ::
