@@ -1,6 +1,7 @@
 ---
 title: 'Finance'
 description: "Empower your financial institution with Narrative's expansive data collaboration and unparalleled scalability to transform decision-making and compliance processes."
+theme: 'digital-horizon'
 ---
 
 ::feature-callout{title="Enhanced Data Access" description="Unlock access to a vast ecosystem of data sources for comprehensive financial analysis and market insights." prompt="Tell me more about how I can access finance data."}

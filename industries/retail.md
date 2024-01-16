@@ -1,6 +1,7 @@
 ---
 title: 'Retail'
 description: "Drive retail innovation and customer engagement with Narrative's cutting-edge data collaboration platform, designed for scalability and user-friendly experiences."
+theme: 'purple-prodigy'
 ---
 ::feature-callout{title="Unified Customer View" description="Achieve a 360-degree view of customer interactions and preferences with our extensive data integration capabilities."}
 ::
