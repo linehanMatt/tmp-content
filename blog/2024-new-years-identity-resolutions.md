@@ -3,6 +3,11 @@ title: 'Your 2024 New Year’s Identity Resolutions'
 description: 'Digital Identity will change in 2024. Here are some resolutions to help you prepare.'
 publishDate: '2021-12-19'
 author: 'Frank Campanella'
+ogImage:
+  component: BlogOgImage
+  props:
+    image: /img/blog/2024-identity.png
+    readingMins: 3
 ---
 
 As we venture into 2024, the digital marketing landscape continues to evolve. The long-promised demise of third-party cookies is becoming a reality with Google’s latest Chrome feature release set for January 4th. At the same time, the regulatory environment around privacy and user consent will continue to heat up with 12 states (and counting) that have already passed legislation. 
@@ -24,6 +29,9 @@ There is no silver bullet in the post-cookie world.  An effective identity mappi
 
 ## Ensure Compliance and Protection of PII
 In this new era, protecting Personally Identifiable Information (PII) and adherence to privacy standards is non-negotiable. Any identity mapping strategy must include robust measures for data security and privacy. This includes compliance with data protection regulations, data encryption, and strict access controls.
+
+::image{:src="ogImage.props.image" alt="2024 New Year's Identity Resolutions" width="75%"}
+::
 
 ## Select the Right Data Suppliers
 Without third-party cookies, the importance of choosing the right data suppliers cannot be overstated. Beyond price, your list of criteria should include quality, compliance, and interoperability with your tech stack and systems. Like any supply chain, you should be careful not to be over-reliant on just one source.
