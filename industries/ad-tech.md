@@ -3,7 +3,7 @@ title: 'Ad Tech'
 description: "Narrative's Ad Tech solutions empower companies to harness vast-scale data collaboration, driving targeted advertising and maximizing return on ad spend."
 theme: 'miami-vice'
 ---
-::feature-callout{title="Granular Audience Targeting" description="Utilize Narrative's extensive data to create precise audience segments for hyper-targeted advertising campaigns." prompt="Tell me about how Narrative can help be build audiences."}
+::feature-callout{title="Granular Audience Targeting" description="Utilize Narrative's extensive data to create precise audience segments for hyper-targeted advertising campaigns." prompt="Tell me about how Narrative can help me build audiences."}
 ::
 
 ::feature-callout{title="Seamless Data Integration" description="Effortlessly merge data from various sources to build a more complete picture of customer behavior and preferences." prompt="How does Narrative streamline the integration of diverse data sources for a comprehensive view of customer behavior?"}
