@@ -1,14 +1,12 @@
 ---
 title: 'Your 2024 New Year’s Identity Resolutions'
 description: 'Digital Identity will change in 2024. Here are some resolutions to help you prepare.'
-publishDate: '2021-12-19'
+publishDate: '2023-12-19'
 author: 'Frank Campanella'
-ogImage:
-  component: BlogOgImage
-  props:
-    image: /img/blog/2024-identity.png
-    readingMins: 3
+ogImage: /img/blog/2023/12/2024-identity.png
+image: /img/blog/2023/12/2024-identity.png
 tags: ['identity']
+author_slug: 'frank-campanella'
 ---
 
 As we venture into 2024, the digital marketing landscape continues to evolve. The long-promised demise of third-party cookies is becoming a reality with Google’s latest Chrome feature release set for January 4th. At the same time, the regulatory environment around privacy and user consent will continue to heat up with 12 states (and counting) that have already passed legislation. 
