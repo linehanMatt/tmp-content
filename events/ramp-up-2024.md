@@ -1,13 +1,13 @@
 ---
-title: Join Narrative at the 2024 IAB Annual Leadership Meeting
-shortTitle: IAB ALM 2024
-startDate: 2024-01-28
-endDate: 2024-01-30
-dates: January 28-30, 2024
-location: Marco Island, FL
-subtitle: Explore the future of data collaboration and how Narrative can help you thrive in a cookieless future, achieve better identify resolution, fuel AI models, and much more.
-image: /img/events/2024/iab-alm-2024.png
-attendees: [scott-bender]
+title: Join Narrative at Ramp Up 2024
+shortTitle: Ramp Up 2024
+startDate: 2024-02-27
+endDate: 2024-02-29
+dates: February 27-29, 2024
+location: San Francisco, CA
+subtitle: Join us to celebrate Narrative's leadership in data collaboration and discover how we're revolutionizing how the world works with data.
+image: /img/events/2024/ramp-up-2023.png
+attendees: [tim-mahlman, nick-jordan, andrew-slome, scott-bender]
 ---
 
 Explore the future of data collaboration and how Narrative can help you thrive in a cookieless future, achieve better identify resolution, fuel AI models, and much more.
