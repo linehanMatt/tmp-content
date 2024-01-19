@@ -31,9 +31,6 @@ There is no silver bullet in the post-cookie world.  An effective identity mappi
 ## Ensure Compliance and Protection of PII
 In this new era, protecting Personally Identifiable Information (PII) and adherence to privacy standards is non-negotiable. Any identity mapping strategy must include robust measures for data security and privacy. This includes compliance with data protection regulations, data encryption, and strict access controls.
 
-::image{:src="ogImage.props.image" alt="2024 New Year's Identity Resolutions" width="75%"}
-::
-
 ## Select the Right Data Suppliers
 Without third-party cookies, the importance of choosing the right data suppliers cannot be overstated. Beyond price, your list of criteria should include quality, compliance, and interoperability with your tech stack and systems. Like any supply chain, you should be careful not to be over-reliant on just one source.
 
