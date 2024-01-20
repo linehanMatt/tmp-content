@@ -5,7 +5,7 @@ publishDate: '2023-12-23'
 author: 'Frank Campanella'
 image: '/img/blog/2023/12/manufacturing_blog.png'
 ogImage: '/img/blog/2023/12/manufacturing_blog.png'
-author_slug: 'frank-campanella'
+authorSlug: 'frank-campanella'
 ---
 
 The race to stay ahead of the curve is never-ending in the fast-paced manufacturing world. Amidst this high-stakes game, a silent revolution is underway – one that hinges on the transformative power of data interoperability and collaboration platforms. These platforms are not just tools but catalysts for an industry-wide metamorphosis.

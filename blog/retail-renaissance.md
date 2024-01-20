@@ -5,7 +5,7 @@ publishDate: '2023-12-05'
 author: 'Frank Campanella'
 image: '/img/blog/2023/12/retail_blog.png'
 ogImage: '/img/blog/2023/12/retail_blog.png'
-author_slug: 'frank-campanella'
+authorSlug: 'frank-campanella'
 ---
 
 The retail industry, pulsating with diverse data streams from e-commerce platforms, supply chains, and customer interactions, is at a pivotal transformation point. Data interoperability, the seamless integration and exchange of data, is the beacon of this revolution. With the advent of user-friendly software and AI assistants, the barriers of technical expertise are crumbling, offering a fertile ground for innovation and efficiency.

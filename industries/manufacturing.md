@@ -1,7 +1,7 @@
 ---
 title: 'Manufacturing'
 description: "Modernize manufacturing through strategic data collaboration with Narrative's scalable platform, designed to streamline processes and enhance product innovation."
-theme: 'minted-precision'
+theme: 'jungle-fever'
 ---
 ::feature-callout{title="Supply Chain Integration" description="Synchronize and optimize your supply chain activities with integrated data flow across all stakeholders."}
 ::
