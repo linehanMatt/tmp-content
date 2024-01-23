@@ -5,7 +5,7 @@ email: tm@narrative.io
 department: Leadership
 image: /img/team/headshots/tim-mahlman.jpeg
 linkedin: https://www.linkedin.com/in/tim-mahlman-a7203820/
-bio: lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+bio: Tim Mahlman is a renowned figure in the technology and media industry.
 ---
 Tim Mahlman is a renowned figure in the technology and media industry, currently serving as the Chief Executive Officer at Narrative I/O, based in the New York City Metropolitan Area. With a tenure starting in 2023, Mahlman brings to the role a wealth of experience in driving innovation and growth. His leadership at Narrative I/O is marked by a focus on strategic development and fostering cutting-edge solutions in the digital landscape. 
 
