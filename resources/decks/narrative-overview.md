@@ -1,11 +1,14 @@
 ---
-title: Which Tastes Better Cookies or Garbage?
+title: Narrative Overview
+description: Narrative's data collaboration platform enables organizations to build and manage data products that are secure, compliant, and easy to use.
+type: deck
+image: /img/resources/narrative_overview.png
 private: false
 ---
 
-::deck 
-    ::title-slide{:headline="title"}
-    ::
+::deck
+::title-slide{:headline="title"}
+::
 
     ::text-left-image-right{headline="Coookies Taste Good" imagePath="https://i.pinimg.com/originals/01/2b/19/012b1955c13ba291b9e5985d5cf60871.jpg" message="By 2025, cookies will taste so good you'll do some nasty shit to get ahold of them."}
     ::
