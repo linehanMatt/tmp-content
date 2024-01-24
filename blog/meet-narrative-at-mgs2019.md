@@ -7,6 +7,7 @@ ogImage: '/img/blog/2019/01/020719-1_mobile_growth_summit.jpg'
 image: '/img/blog/2019/01/020719-1_mobile_growth_summit.jpg'
 tags: ['conferences']
 authorSlug: 'eric-del-balso'
+status: 'archived'
 ---
 ### Meet with the team to catch up on the latest with data enrichment for your mobile growth objectives
 
@@ -15,6 +16,3 @@ authorSlug: 'eric-del-balso'
 Narrative will be attending, our first time ever, and we’re excited to hear from all of the thought leaders that will be present. Since our inception we’ve built solutions to help growth marketers achieve their goals and we’d love to find time to meet with folks on the ground to discuss their pain points and brainstorm on possible solutions.  
   
 [Click here to schedule some time with us.](https://narrative.io/get-started)
-
-**By Eric Del Balso  
-**Head of West Coast Operations, Narrative

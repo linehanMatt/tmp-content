@@ -7,6 +7,7 @@ ogImage: '/img/blog/2019/02/021119_rampup.jpg'
 image: '/img/blog/2019/02/021119_rampup.jpg'
 tags: ['conferences']
 authorSlug: 'nick-jordan'
+status: 'archived'
 ---
 ### Let our data acquisition and data monetization experts help you reevaluate your data strategy
 
@@ -24,6 +25,3 @@ If you fall into one of the following categories we should setup some time to ta
 *   Folks who understand how important a cogent data strategy is, but are frustrated by how hard it can be to execute on.
 
 If you fall into one of those categories or if there are some that you think we missed schedule some time with the Narrative team by clicking [here](https://narrative.io/get-started).  
-  
-**By Andrew Slome  
-**Global Head of Revenue, Narrative
