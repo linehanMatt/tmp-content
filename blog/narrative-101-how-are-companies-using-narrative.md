@@ -8,7 +8,7 @@ image: '/img/blog/2019/07/narrative-101-pt-2.png'
 tags: ['insights']
 authorSlug: 'narrative'
 ---
-### Learn how companies are leveraging Narrative to power their data strategies.
+### Learn how companies are leveraging Narrative to power their data strategies
 
 Welcome back to class, students.
 
@@ -16,12 +16,8 @@ In our second installment of our "Narrative 101" series ([here's part one](/narr
 
 Watch the video or read the interview below to learn:
 
-*   [How are companies using the Acquire platform?](#Acquire)
-*   [How are companies using the Distribute platform?](#Distribute)
-
-  
-
-  
+* [How are companies using the Acquire platform?](#Acquire)
+* [How are companies using the Distribute platform?](#Distribute)
 
 ### How are companies using the Acquire platform?
 

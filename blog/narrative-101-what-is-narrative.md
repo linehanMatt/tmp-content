@@ -8,7 +8,7 @@ image: '/img/blog/2019/07/narrative-101-pt-1.png'
 tags: ['insights']
 authorSlug: 'narrative'
 ---
-### Learn what Narrative does and how it's changing the way data is transacted.
+### Learn what Narrative does and how it's changing the way data is transacted
 
 What is Narrative? How are businesses using Narrative? And what's next for Narrative?
 
@@ -16,14 +16,12 @@ What is Narrative? How are businesses using Narrative? And what's next for Narra
 
 In the first video of the series, Narrative founder and CEO Nick Jordan sits down with Joe Apprendi, General Partner at [Revel](http://www.revelpartners.com/), a Narrative investor, to discuss what Narrative does and his impetus for starting the company. Watch the video or read the interview below for answers to the following questions:
 
-*   [What is Narrative?](#q1)
-*   [What gap in the market is Narrative filling?](#q2)
-*   [What type of company can benefit from using Narrative?](#q3)
-*   [What's the difference between the software and marketplace aspects of the product?](#q4)
+* [What is Narrative?](#q1)
+* [What gap in the market is Narrative filling?](#q2)
+* [What type of company can benefit from using Narrative?](#q3)
+* [What's the difference between the software and marketplace aspects of the product?](#q4)
 
 Class is now in session.
-
-  
 
 ### What is Narrative?
 

@@ -30,25 +30,19 @@ Narrative's Rosetta Stone Attribute technology are what really sets NQL apart. I
 
 To showcase the power of NQL, let's execute a query that filters data sourced from multiple suppliers on the platform based on gender and a specific event timestamp, while also considering cost control.
 
-{% module\_block module "widget\_1687369202612" %}{% module\_attribute "change\_image\_image\_1" is\_json="true" %}{% raw %}{"alt":"Screenshot 2023-10-24 at 6.50.47 PM-1","height":522,"src":"https://solutions.narrative.io/hubfs/Screenshot%202023-10-24%20at%206.50.47%20PM-1.png","width":1150}{% endraw %}{% end\_module\_attribute %}{% module\_attribute "change\_image\_image\_2" is\_json="true" %}{% raw %}{"src":""}{% endraw %}{% end\_module\_attribute %}{% module\_attribute "change\_image\_link" is\_json="true" %}{% raw %}""{% endraw %}{% end\_module\_attribute %}{% module\_attribute "change\_image\_link\_new\_tab" is\_json="true" %}{% raw %}true{% endraw %}{% end\_module\_attribute %}{% module\_attribute "child\_css" is\_json="true" %}{% raw %}{}{% endraw %}{% end\_module\_attribute %}{% module\_attribute "css" is\_json="true" %}{% raw %}{}{% endraw %}{% end\_module\_attribute %}{% module\_attribute "definition\_id" is\_json="true" %}{% raw %}null{% endraw %}{% end\_module\_attribute %}{% module\_attribute "field\_types" is\_json="true" %}{% raw %}{"change\_image\_link\_new\_tab":"boolean","change\_image\_link\_class":"text","change\_image\_link\_title":"text","change\_image\_link":"text","change\_image\_category":"text","change\_image\_image\_1":"image","change\_image\_image\_2":"image","change\_image\_custom\_class":"text","change\_image\_link\_text":"text"}{% endraw %}{% end\_module\_attribute %}{% module\_attribute "label" is\_json="true" %}{% raw %}null{% endraw %}{% end\_module\_attribute %}{% module\_attribute "module\_id" is\_json="true" %}{% raw %}26006061910{% endraw %}{% end\_module\_attribute %}{% module\_attribute "path" is\_json="true" %}{% raw %}"/Marketplace/Neambo/Act21/Custom\_Modules/Act21 Change Image"{% endraw %}{% end\_module\_attribute %}{% module\_attribute "schema\_version" is\_json="true" %}{% raw %}2{% endraw %}{% end\_module\_attribute %}{% module\_attribute "smart\_objects" is\_json="true" %}{% raw %}null{% endraw %}{% end\_module\_attribute %}{% module\_attribute "smart\_type" is\_json="true" %}{% raw %}"NOT\_SMART"{% endraw %}{% end\_module\_attribute %}{% module\_attribute "tag" is\_json="true" %}{% raw %}"module"{% endraw %}{% end\_module\_attribute %}{% module\_attribute "type" is\_json="true" %}{% raw %}"module"{% endraw %}{% end\_module\_attribute %}{% module\_attribute "wrap\_field\_tag" is\_json="true" %}{% raw %}"div"{% endraw %}{% end\_module\_attribute %}{% end\_module\_block %}
-
-### In this query, we:
+### In this query, we
 
 Rosetta offers a plethora of benefits. Here are several that stand out:
 
-1.  Use \`EXPLAIN\` to forecast the query's cost and data.  
-      
-    
-2.  Select the "unique\_id" and "gender" attributes from the narrative.rosetta\_stone table, which represents any dataset on the platform that has been mapped to these attributes.  
-      
-    
-3.  Filter the results to include only records with a gender value of 'female'.  
-      
-    
-4.  Further filter by events that occurred after October 1, 2023.  
-      
-    
-5.  Limit cost by specifying a maximum CPM of 2.0 USD.
+1. Use \`EXPLAIN\` to forecast the query's cost and data.  
+
+2. Select the "unique\_id" and "gender" attributes from the narrative.rosetta\_stone table, which represents any dataset on the platform that has been mapped to these attributes.  
+
+3. Filter the results to include only records with a gender value of 'female'.  
+
+4. Further filter by events that occurred after October 1, 2023.  
+
+5. Limit cost by specifying a maximum CPM of 2.0 USD.
 
 By leveraging Rosetta Stone Attributes, we can streamline complex queries and make data collaboration simple and efficient.
 

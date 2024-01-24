@@ -24,9 +24,9 @@ At my previous company, we participated as sellers in several bake offs. We dedi
 
 Data acquisition is a complicated process, and data buyers use bake offs for a few reasons:
 
-*   Contracts are a time-consuming hassle that require involvement from legal and business development leads
-*   Optimizing a data portfolio across multiple supply sources is complicated by problems such as duplication and data that doesn’t provide signal
-*   Integrating each data set is a time suck for both product and engineering, taking away from time spent completing more valuable roadmap work
+* Contracts are a time-consuming hassle that require involvement from legal and business development leads
+* Optimizing a data portfolio across multiple supply sources is complicated by problems such as duplication and data that doesn’t provide signal
+* Integrating each data set is a time suck for both product and engineering, taking away from time spent completing more valuable roadmap work
 
 In theory, a bake off lets the data buyer save time and money by selecting a partner from all the bake-off participants. They’d “make do” with the data the selected partner provided. The other three or four data providers lose access to any revenue opportunity, leaving some of the smaller players with great data behind with nothing
 
@@ -50,9 +50,9 @@ A data collaboration platform allows buyers to select the data they need from a 
 
 Here’s how it works:
 
-*   The hassle of striking a contract with each seller is now easier because you only need paperwork with the data collaboration platform.
-*   You can acquire data on a per record or per event basis — no need to make the huge investment of buying the firehose from everyone.
-*   You can do one integration and have access to everyone on the platform.
+* The hassle of striking a contract with each seller is now easier because you only need paperwork with the data collaboration platform.
+* You can acquire data on a per record or per event basis — no need to make the huge investment of buying the firehose from everyone.
+* You can do one integration and have access to everyone on the platform.
 
 Just as buyers have greater opportunity with the platform, sellers have new and easier revenue opportunities available to them under this model. The data collaboration platform gives sellers the opportunity to sell data to a large pool of buyers that may only want some of their data.
 

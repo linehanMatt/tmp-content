@@ -11,7 +11,7 @@ authorSlug: 'narrative'
 Buyers can now automatically create Custom Audiences in Facebook Ads Manager from data purchased with Narrative
 ===============================================================================================================
 
-The [Facebook Connector](https://app.narrative.io/app/facebook-connector) is now live as a [brand new app](https://app.narrative.io/app/facebook-connector). This connector will serve as a new endpoint for users who want to push data to Facebook's Custom Ad Audience to target individuals from their Facebook seat. The app's high-level flow works very similarly to our [S3 connector](https://app.narrative.io/app/s3-connector). Users can install the app, set up a profile as a specific destination, and then select that destination during checkout. 
+The [Facebook Connector](https://app.narrative.io/app/facebook-connector) is now live as a [brand new app](https://app.narrative.io/app/facebook-connector). This connector will serve as a new endpoint for users who want to push data to Facebook's Custom Ad Audience to target individuals from their Facebook seat. The app's high-level flow works very similarly to our [S3 connector](https://app.narrative.io/app/s3-connector). Users can install the app, set up a profile as a specific destination, and then select that destination during checkout.
 
 Using Facebook Custom Audiences with Narrative simplifies the audience creation and uploading process. Users can automatically create Custom Audiences from data purchased through Narrative without having to download any large files to local storage. Users can then target that audience with ads, exclude them from campaigns, or generate lookalike audiences.
 

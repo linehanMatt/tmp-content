@@ -13,7 +13,7 @@ The new data economy is a feast of information and organizations are not only hu
 **What Is a Data Exchange?**
 ============================
 
-Data exchanges are marketplaces stocked with data assets where data providers and data consumers are able to connect and exchange data in a seamless and secure manner. These exchanges simplify the acquisition and integration of data by minimizing traditional barriers and creating a frictionless experience for their participants. A quality data exchange provides those in the data economy with transparency, trust, quality, security, and integration. 
+Data exchanges are marketplaces stocked with data assets where data providers and data consumers are able to connect and exchange data in a seamless and secure manner. These exchanges simplify the acquisition and integration of data by minimizing traditional barriers and creating a frictionless experience for their participants. A quality data exchange provides those in the data economy with transparency, trust, quality, security, and integration.
 
 **Why are companies using data exchanges?**
 ===========================================
@@ -22,15 +22,15 @@ A quality data exchange is useful because companies will always need more than j
 
 For data consumers, data exchanges are a treasure trove that can’t be overlooked. With access to an endless supply of data points, companies can use data exchanges to [acquire data](/how-to-find-and-buy-the-data-you-need-to-succeed) that will fill in gaps of information that only [second-party and third-party data](https://blog.narrative.io/first-party-second-party-third-party-data) can. For data distributors, data exchanges are an untapped revenue source. Companies can take the data they’ve collected and spin it into gold. Organizations that properly utilize a data exchange have a huge advantage; they gain access to multiple sources of accurate and current information while simultaneously monetizing their own data assets.
 
-**What are the benefits of using a data exchange?** 
+**What are the benefits of using a data exchange?**
 ====================================================
 
-**They simplify how companies buy and sell data** 
+**They simplify how companies buy and sell data**
 --------------------------------------------------
 
-Sharing data between organizations has been a traditionally difficult endeavor. Many companies have endured the painstaking process of finding a suitable source of data, evaluating that data, negotiating a price for that data, and integrating that data with their internal systems. It’s a time-consuming undertaking that generally does not go smoothly and is often not worth the effort. Data exchanges make it easy to purchase data directly from several suppliers at once without having to go through the old-fashioned steps. 
+Sharing data between organizations has been a traditionally difficult endeavor. Many companies have endured the painstaking process of finding a suitable source of data, evaluating that data, negotiating a price for that data, and integrating that data with their internal systems. It’s a time-consuming undertaking that generally does not go smoothly and is often not worth the effort. Data exchanges make it easy to purchase data directly from several suppliers at once without having to go through the old-fashioned steps.
 
-**They provide more accurate insight** 
+**They provide more accurate insight**
 ---------------------------------------
 
 The wealth of data that is shared within data exchanges gives companies better clarity when it comes to making business decisions and strategizing. With the data available to them in data exchanges, organizations can enrich their statistical and machine learning models, enhance analyses and forecasts, create more in-depth profiles of their customers, and much more.
@@ -38,9 +38,9 @@ The wealth of data that is shared within data exchanges gives companies better c
 **They give companies control**
 -------------------------------
 
-Data exchanges give companies the power to purchase and monetize data on their own terms. By using exciting new technology and providing an easily accessible platform, data exchanges eliminate the need to use middlemen which would drain valuable time and resources. 
+Data exchanges give companies the power to purchase and monetize data on their own terms. By using exciting new technology and providing an easily accessible platform, data exchanges eliminate the need to use middlemen which would drain valuable time and resources.
 
-**They facilitate the commercialization of data** 
+**They facilitate the commercialization of data**
 --------------------------------------------------
 
 Data exchanges create a two-way data ecosystem that is highly valuable to both data originators and data acquirers. The data that saturates these exchanges provides value to a brand’s suppliers, clients, and partners. Enterprises have access to an entire network of data potential and at the same time are able to generate new streams of revenue through data monetization.
@@ -56,12 +56,12 @@ You may not have much traction on these platforms and might not generate a large
 Some technical expertise is required
 ------------------------------------
 
-These marketplaces can also be difficult to navigate and utilize properly without the technical expertise needed to package and productize your organization’s data. If you don't have some technical expertise, using these data exchanges might not be intuitive and could get frustrating quickly. 
+These marketplaces can also be difficult to navigate and utilize properly without the technical expertise needed to package and productize your organization’s data. If you don't have some technical expertise, using these data exchanges might not be intuitive and could get frustrating quickly.
 
-Limited ability to filter and customize 
+Limited ability to filter and customize
 ----------------------------------------
 
-Data exchanges also often don't offer the flexibility of picking and choosing exactly the data points you want to buy or sell. There are many limitations on your ability to create custom data products or buy precise data based on your company's particular priorities and preferences. 
+Data exchanges also often don't offer the flexibility of picking and choosing exactly the data points you want to buy or sell. There are many limitations on your ability to create custom data products or buy precise data based on your company's particular priorities and preferences.
 
 There is a better option: a data collaboration platform
 =======================================================
@@ -73,10 +73,10 @@ Data providers can package, publish, and distribute their own data with just a f
 Why is Narrative the #1 data collaboration platform?
 ====================================================
 
-Guaranteed quality data 
+Guaranteed quality data
 ------------------------
 
-Narrative focuses on providing [quality data](https://www.narrative.io/pillar/data-quality), ensuring bots are eliminated and data buyers know exactly where their data is coming from. Because companies have access to fully transparent sources, they can be confident that the data they purchase is reliable and compliant. 
+Narrative focuses on providing [quality data](https://www.narrative.io/pillar/data-quality), ensuring bots are eliminated and data buyers know exactly where their data is coming from. Because companies have access to fully transparent sources, they can be confident that the data they purchase is reliable and compliant.
 
 **Reduce wasted expenses**
 --------------------------

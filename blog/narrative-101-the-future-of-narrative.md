@@ -8,15 +8,15 @@ image: '/img/blog/2019/07/narrative-101-pt-3.png'
 tags: ['insights']
 authorSlug: 'narrative'
 ---
-### Learn how Narrative plans to revolutionize the data economy.
+### Learn how Narrative plans to revolutionize the data economy
 
 _This is part three of "Narrative 101," a three-part series designed to introduce you to all things Narrative: what we do, how we're being used, and where we're going. [Read part one](/narrative-101-what-is-narrative) to learn about what we do, and [part two](/narrative-101-how-are-companies-using-narrative) to find out how companies are using Narrative to power their data strategies._
 
 In the final installment of our "Narrative 101" series, Nick Jordan, CEO and founder of Narrative, talks about his plans for the future of Narrative and answers the following questions:
 
-*   [How do you think about market size? How do compliance and regulatory issues come into play?](#market-size)
-*   [What's next for Narrative?](#whats-next)
-*   [Are there opportunities for network effects with Narrative?](#network-effects)
+* [How do you think about market size? How do compliance and regulatory issues come into play?](#market-size)
+* [What's next for Narrative?](#whats-next)
+* [Are there opportunities for network effects with Narrative?](#network-effects)
 
 Watch the video or read the interview transcript below.
 

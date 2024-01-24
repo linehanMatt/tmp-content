@@ -46,10 +46,10 @@ Now comes the fun part. You’ve passed your users to Narrative. You’ve define
 
 Let’s start with some basic analytics. We’ve mocked up what this might look like in an excel spreadsheet that you can download and play with. We’ll assume that your master record includes the following customer information:
 
-*   a canonical identifier
-*   a couple of columns of meta-data
-*   signup date
-*   lifetime value
+* a canonical identifier
+* a couple of columns of meta-data
+* signup date
+* lifetime value
 
 To that, we’ve appended data on three competitors, but instead of just having the competitive information be binary (they have interacted with the competitor or they haven’t) instead the information will be the first date that we saw them interact with the competitor.
 

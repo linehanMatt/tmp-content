@@ -67,25 +67,21 @@ Narrative does not provide the stable ID—that should be your own—but we do p
 
 Narrative enables you to:
 
-1.  **Back up your less stable cookie data to a more stable, but universally applicable, ID.** With a more stable but universal ID, such as a MAID or a hashed email, the data is bi-directional, meaning you can map it to other pieces of information, or even back to a cookie if you need to.  
+1. **Back up your less stable cookie data to a more stable, but universally applicable, ID.** With a more stable but universal ID, such as a MAID or a hashed email, the data is bi-directional, meaning you can map it to other pieces of information, or even back to a cookie if you need to.  
     **  
     Good:** Back up your cookies to MAIDs  
     **Better:** Back up your cookies to hashed emails  
     **Best:** Back up your cookies to both MAIDs and hashed emails  
-      
+
     This serves as a simple way to preserve your data, as well as a foundation for building your own stable ID. It’s irrefutable that first party data is the most valuable, so don’t let it slip away, including your cookies.  
-      
-    
-2.  **Validate individual identity suppliers based on your own truth set.** Bring your own standards of accuracy and quality based on what you already know about your customer.  
-      
-    
-3.  **Have transparency down to the individual supplier level.** Don’t get forced into buying from all suppliers in aggregate. Optimize your delivery by supplier instead.  
-      
-    
-4.  **Only pay for what you need.** Using Narrative, you can buy from multiple suppliers, but receive de-duplicated data so you only pay once for exactly what you need. It’s great working with multiple identity data sources to maximize reach, however buying from each individually subjects you to buying provider overlap and overpaying for what you actually need.  
-      
-    
-5.  **Start organizing your own identity strategy.** Now that your insurance policy is in place and your cookie data is preserved to a universally recognized format, you can take your time implementing a strategy that makes the most sense for your business.
+
+2. **Validate individual identity suppliers based on your own truth set.** Bring your own standards of accuracy and quality based on what you already know about your customer.  
+
+3. **Have transparency down to the individual supplier level.** Don’t get forced into buying from all suppliers in aggregate. Optimize your delivery by supplier instead.  
+
+4. **Only pay for what you need.** Using Narrative, you can buy from multiple suppliers, but receive de-duplicated data so you only pay once for exactly what you need. It’s great working with multiple identity data sources to maximize reach, however buying from each individually subjects you to buying provider overlap and overpaying for what you actually need.  
+
+5. **Start organizing your own identity strategy.** Now that your insurance policy is in place and your cookie data is preserved to a universally recognized format, you can take your time implementing a strategy that makes the most sense for your business.
 
 Once you back up your less-stable cookie data to a more stable ID, your data is retained, buying you valuable time to both figure out the ideal internal identity strategy and roll with the ever-changing speculation of what third party cookie usability will actually look like in practice.
 
