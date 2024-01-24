@@ -10,7 +10,7 @@ theme: 'digital-horizon'
 ::feature-callout{title="Secure Data Collaboration" description="Share and receive data securely, with fine-grained control over permissions and compliance built into the platform."}
 ::
 
-::feature-callout{title="Scalable Data Architecture" description="Our robust infrastructure supports high-volume data transactions, ready to scale with your financial data needs."}
+::feature-callout{title="Scale with your needs" description="Our robust infrastructure supports high-volume data transactions, ready to scale with your financial data needs."}
 ::
 
 ::feature-callout{title="AI-Driven Insights" description="Capitalize on AI technologies for predictive analytics, fraud detection, and investment modeling within a unified platform."}
