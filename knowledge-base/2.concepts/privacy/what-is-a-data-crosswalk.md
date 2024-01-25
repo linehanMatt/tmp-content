@@ -16,6 +16,7 @@ While data crosswalks provide valuable insights, they raise significant privacy 
 ## Ensuring Privacy: Anonymization and Pseudonymization
 
 **Anonymization**: This involves removing or altering personal identifiers so that data cannot be traced back to an individual. This process ensures that the privacy of the data subject is maintained.
+
 **Pseudonymization**: Unlike anonymization, pseudonymization replaces private identifiers with fictitious labels or pseudonyms. This allows for data linkage and analysis while still protecting the identity of individuals.
 
 **Advanced Privacy-Preserving Techniques**
