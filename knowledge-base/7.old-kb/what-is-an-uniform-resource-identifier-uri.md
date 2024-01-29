@@ -10,7 +10,7 @@ Uniform resource identifiers (URI) provide a standard way to refer to an object.
 
 #### Examples
 
-Web Page: http://example.org/wiki/Main\_Page
+Web Page: <http://example.org/wiki/Main\_Page>
 
 iOS Mobile App: 553834731
 
@@ -22,4 +22,4 @@ URI is a required attribute in the Digital Consumption data type.  Digital cons
 
 ### Additional Resources
 
-*   Wikipedia: [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+* Wikipedia: [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)

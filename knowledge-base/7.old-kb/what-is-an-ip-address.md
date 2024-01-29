@@ -6,15 +6,15 @@ tags: ['Data Types', 'General Attributes']
 ---
 While the average internet user often doesn’t think about how this combination of numbers and letters affects their browsing, it’s a necessary part of the internet functioning properly. IP stands for **internet protocol**, which is the
 
-> “set of rules governing the format of data sent over the Internet or other network.” 
+> “set of rules governing the format of data sent over the Internet or other network.”
 
 In other words, an IP address is how different devices communicate through the internet. The internet needs a way to differentiate between different devices and websites. To do that, each of these has a unique identifier similarly to a Mobile Ad Identifier.
 
 **Common IP Address Examples:**
 
-*   Four sets of numbers that are separated by periods
-*   Each set includes one to three digits
-*   Each set is between 0 and 255 
+* Four sets of numbers that are separated by periods
+* Each set includes one to three digits
+* Each set is between 0 and 255
 
 While most IP addresses have the same standard format, there are a few different types of IP addresses that you should know about.
 
@@ -22,7 +22,7 @@ While most IP addresses have the same standard format, there are a few different
 
 There are a range of different categories of IP Addresses that each include a couple of differentiators. Every internet user will have two types of IP addresses: their public IP address and their private IP address.
 
-#### Public IP 
+#### Public IP
 
 Your whole home internet network is associated with your public IP address. While each of your connected devices has their own IP address, all of them are also connected to the main public IP address associated with your home network.
 

@@ -10,26 +10,25 @@ tags: ['Touchless PII Hasher']
 
 All emails uploaded to Narrative must be [pseudonymized](https://kb.narrative.io/what-is-pseudonymization) with one or more [hashing](https://kb.narrative.io/what-is-hashing) function: MD5, SHA-1, or SHA-256. And whichever function you use, there are standard pre-formatting practices that can help enable correspondence with other pseudonymized data.
 
-#### Tools for Automatic Formatting and Hashing 
+#### Tools for Automatic Formatting and Hashing
 
-1.  For smaller lists, just make a copy our [Hashing Functions](https://docs.google.com/spreadsheets/d/1_x2vPJXY8_ycgPlzx1UKktdFIJdqelEnZNAdyJRphrU/copy) spreadsheet.
-2.  For larger lists, use our [hashingFunction](https://solutions.narrative.io/hubfs/hashingFunction.py) script and follow the Command Line procedure for [Mac OS](#CommandLineMacOS) or [Windows](#CommandLineWindows), detailed below.
+1. For smaller lists, just make a copy our [Hashing Functions](https://docs.google.com/spreadsheets/d/1_x2vPJXY8_ycgPlzx1UKktdFIJdqelEnZNAdyJRphrU/copy) spreadsheet.
+2. For larger lists, use our [hashingFunction](https://solutions.narrative.io/hubfs/hashingFunction.py) script and follow the Command Line procedure detailed below.
 
 ### **Pre-Formatting**
 
-1.  **_lowercase_ all text**  
+1. **_lowercase_ all text**  
     Hashing functions are case-sensitive. So _before_ pseudonymizing emails, it's standard practice to lowercase all text.
-2.  **Remove Extra Characters and Whitespace**
-    
+2. **Remove Extra Characters and Whitespace**
+
     Any extra whitespaces or unnecessary characters will result in a completely different hashed result. So make sure to remove:
-    
-    1.  whitespace and/or delimiters between emails (e.g. commas)
-    2.  extra periods in the email _username_  
+
+    1. whitespace and/or delimiters between emails (e.g. commas)
+    2. extra periods in the email _username_  
         (an email address is made up of _username@domain.com_)
-    3.  "+" signs and all characters between the "+" and "_@domain.com_"  
-        (e.g. remove "+news" from _johndoe+news@gmail.com_) 
-3.  **Make sure your list is a single-column .csv file.**
-    
+    3. "+" signs and all characters between the "+" and "_@domain.com_"  
+        (e.g. remove "+news" from _johndoe+news@gmail.com_)
+3. **Make sure your list is a single-column .csv file.**
 
 ### **Hashing Functions**
 
@@ -37,14 +36,14 @@ Hashing can be performed with either of three common hashing functions: [MD5](ht
 
 To get the highest rate of correspondence, **we recommend using all three functions**, resulting in three pseudonymized character strings for each email on your list.
 
-**Email:** johndoe@gmail.com  
+**Email:** <johndoe@gmail.com>  
 **MD5:** 29a1df4646cb3417c19994a59a3e022a  
 **SHA1:** e1e8d3e4a336d4f9dc63b70a534ff10834471556  
 **SHA256:** 06a240d11cc201676da976f7b49341181fd180da37cbe40a77432c0a366c80c3
 
 ### How to Format and Hash Small Lists in Google Sheets
 
-Our [Hashing Functions](https://docs.google.com/spreadsheets/d/1_x2vPJXY8_ycgPlzx1UKktdFIJdqelEnZNAdyJRphrU/copy) spreadsheet automatically performs pre-formatting and all three hashing functions. 
+Our [Hashing Functions](https://docs.google.com/spreadsheets/d/1_x2vPJXY8_ycgPlzx1UKktdFIJdqelEnZNAdyJRphrU/copy) spreadsheet automatically performs pre-formatting and all three hashing functions.
 
 _Step 1:_    Copy your list of emails and paste, starting in cell A4.
 
@@ -72,7 +71,7 @@ _Step 1:_     Click the link here to open our [hashingFunctionCopyPaste.txt](
 
 _Step 2:_    Type _hashingFunction <_  
 
-**hashingFunction <** 
+##### hashingFunction
 
 _Step 3:_    Make sure your list of emails is a **single-column ._csv_ file.**
 
@@ -90,7 +89,7 @@ hashingFunction < fileName.csv > fileName.csv
 
 ![hashingComplete](https://solutions.narrative.io/hubfs/hashingComplete.gif)
 
-_Step 5:_    Navigate to your Home directory to find your processed file. 
+_Step 5:_    Navigate to your Home directory to find your processed file.
 
 ![homeDirectory](https://solutions.narrative.io/hubfs/homeDirectory.gif)
 
@@ -98,30 +97,28 @@ _(Just in case, we also have a script that will work to hash phone numbers, whic
 
 ####  To save the hashingFunction for regular use
 
-1.  Download the [hashingFunction.py](https://solutions.narrative.io/hubfs/hashingFunction.py) script. (Control+Click and select "Save Link As...")
-2.  Place the file in your _bin_ folder_,_ at the location: /Users/_YOUR\_USERNAME\_HERE_/bin  
-      
-    To check if you already have a _bin_ folder, navigate to your Home directory and press Command+Shift+Period to reveal hidden folders. If you see a folder called _bin_, simply drag _hashingFunction.py_ into the folder.   
-      
-    If you don't already have a _bin_ folder, create one in your Home directory. Then, drag _hashingFunction.py_ into the folder.   
-      
+1. Download the [hashingFunction.py](https://solutions.narrative.io/hubfs/hashingFunction.py) script. (Control+Click and select "Save Link As...")
+2. Place the file in your _bin_ folder_,_ at the location: /Users/_YOUR\_USERNAME\_HERE_/bin  
+
+    To check if you already have a _bin_ folder, navigate to your Home directory and press Command+Shift+Period to reveal hidden folders. If you see a folder called _bin_, simply drag _hashingFunction.py_ into the folder.
+
+    If you don't already have a _bin_ folder, create one in your Home directory. Then, drag _hashingFunction.py_ into the folder.
+
     ![creatBin2](https://solutions.narrative.io/hubfs/creatBin2.gif)
-3.  Make the file executable   
-      
+3. Make the file executable
+
     Open Terminal, type in the following, and press Enter:
-    
+
     chmod +x hashingFunction.py
-    
-4.  Now, you'll be able to use the script _hashingFunction.py_ whenever you want, using the same process detailed above.  
-      
+
+4. Now, you'll be able to use the script _hashingFunction.py_ whenever you want, using the same process detailed above.  
+
     _Step 1:_     Type _hashingFunction.py <_  
     _Step 2:_    Drag and drop your file (make sure your file is a **single-column ._csv_ file**)  
     _Step 3:_    Type > _emailHashedList.csv_  
     _Step 4:_    Access your _emailHashedList.csv_ in your Home directory
 
 hashingFunction.py < /Users/narrative/Documents/emailTestList.csv > emailHashedList.csv
-
-  
 
 #### Testing Your Output
 
@@ -140,22 +137,14 @@ e1e8d3e4a336d4f9dc63b70a534ff10834471556
 ca51a2716ebffd663a8bf16e1f269b31  
 1ce4d2f27b9780cfa201e5f7815e27498fd4cfe6
 
-### **How To Format and Hash From The Command Line on Windows**
-
-_Windows-Based Instructions Coming Soon_
-
 #### Uploading Your List To Narrative
 
-All lists uploaded to Narrative must be in _.csv_ format. See [How Do I Upload an ID List](https://kb.narrative.io/sending-lists) for more detail on uploading lists in general. 
+All lists uploaded to Narrative must be in _.csv_ format. See [How Do I Upload an ID List](https://kb.narrative.io/sending-lists) for more detail on uploading lists in general.
 
-**Additional Information**
+#### Additional Information
 
-[Blog Post: Convert email addresses into privacy-safe identifiers with Touchless PII Hasher](https://blog.narrative.io/touchless-pii-hasher)
-
-[How do I use the Touchless PII Hasher app?](https://kb.narrative.io/how-do-i-use-the-touchless-pii-hasher-app)
-
-Wikipedia: [MD5 message-digest algorithm](https://en.wikipedia.org/wiki/MD5)
-
-Wikipedia: [SHA-1 (Secure Hash Algorithm 1)](https://en.wikipedia.org/wiki/SHA-1)
-
-Wikipedia: [SHA-2 (Secure Hash Algorithm 2)](https://en.wikipedia.org/wiki/SHA-2)
+* [Blog Post: Convert email addresses into privacy-safe identifiers with Touchless PII Hasher](https://blog.narrative.io/touchless-pii-hasher)
+* [How do I use the Touchless PII Hasher app?](https://kb.narrative.io/how-do-i-use-the-touchless-pii-hasher-app)
+* Wikipedia: [MD5 message-digest algorithm](https://en.wikipedia.org/wiki/MD5)
+* Wikipedia: [SHA-1 (Secure Hash Algorithm 1)](https://en.wikipedia.org/wiki/SHA-1)
+* Wikipedia: [SHA-2 (Secure Hash Algorithm 2)](https://en.wikipedia.org/wiki/SHA-2)
