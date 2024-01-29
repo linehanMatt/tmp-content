@@ -10,9 +10,9 @@ A Company ID is a unique identifier that is assigned to each partner/customer on
 
 ### How do I find the company name associated with a Company ID?
 
-The easiest way to determine the human-readable company name that is associated with a given Company ID is to reach out to your Narrative partner success representative. 
+The easiest way to determine the human-readable company name that is associated with a given Company ID is to reach out to your Narrative partner success representative.
 
-For a full list of partners/companies and their associated Company IDs, please contact us. 
+For a full list of partners/companies and their associated Company IDs, please contact us.
 
 ### What is the Company ID for my organization?
 
