@@ -1,6 +1,6 @@
 ---
-title: AI-enabled data collaboration'
-description: "Easily revolutionize your data strategy, making buying, selling, and sharing straightforward and secure."
+title: AI-Driven Data Collaboration Made Simple and Secure'
+description: "Harness No-code, AI-Enabled Tools for Scalable, Secure, and Sophisticated Data Collaboration."
 ---
 
 ::feature-callout{title="Powerful tools. One platform." description="Create a centralized hub for all your data needs, enabling seamless collaboration across different departments and teams." prompt="How can a unified data ecosystem enhance collaboration in my organization?"}

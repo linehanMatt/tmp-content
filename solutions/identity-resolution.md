@@ -1,4 +1,18 @@
 ---
 short_title: Identity Resolution
-title: Resolve identity in any channel across any data source.
+title: Simplify Identity Resolution
+description: Seamlessly match and merge customer identifiers across channels to unify profiles, ensuring consistent, personalized experiences wherever they engage.
+theme: 'jungle-fever'
 ---
+
+::feature-callout{title="Unify Customer Touchpoints" description="Link disparate identifiers to forge a complete customer journey across devices and channels, enabling personalized interactions every step of the way." prompt="Show me how Narrative simplifies creating a unified customer view."}
+::
+
+::feature-callout{title="Data Synergy Made Simple" description="Match identifiers across systems effortlessly. Our platform bridges the gaps, making sure you're communicating effectively through every channel." prompt="How does Narrative ensure smooth data communication between platforms?"}
+::
+
+::feature-callout{title="Transparent Identity Graphs" description="Craft your identity graph with our fully transparent platform, ensuring your data meets the highest standards of quality, trust, and compliance for your business." prompt="Can you demonstrate how Narrative maintains transparency in identity graph creation?"}
+::
+
+::mega-feature-callout{title="IDENTITY ON YOUR TERMS" subtitle="Effortless Upload and Match Process" description="Upload clientele data, match with digital identifiers, then activate enriched profiles across your marketing ecosystem with precision and ease." prompt="Can you take me through Narrative's upload-to-activation workflow?"}
+::
