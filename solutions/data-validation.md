@@ -1,5 +1,5 @@
 ---
-short_title: Data Validation and Comparison
+short_title: Data Validation
 title: Pinpoint Data Precision and Potential
 description: Assure the quality of your data against industry standards while unveiling new opportunities through overlap and incrementality analysis.
 theme: 'nebula'
