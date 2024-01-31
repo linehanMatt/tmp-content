@@ -11,4 +11,7 @@ theme: 'urban-dawn'
 ::feature-callout{title="Data-Driven Decisions Made Simple" description="Identify trends, predict churn, and spot opportunities with ease, powered by comprehensive analytics." prompt="Illustrate how data can guide my business decisions."}
 ::
 
+::feature-callout{title="Seamless Integration with Your CRM" description="Easily integrate Narrative’s platform with your existing CRM data. Continuou data enrichment ensures your customer profiles are always up to date." prompt="Discover how Narrative can integrate with popular CRM systems like Salesforce and HubSpot."}
+::
+
 ::mega-feature-callout{title="CUSTOMER INTELLIGENCE REIMAGINED" subtitle="Holistic Customer Analysis" description="Craft strategic initiatives by analyzing an array of customer data points, including lesser-known behavioral indicators." prompt="Can you help me understand the customer behavior that isn't directly observable?"}

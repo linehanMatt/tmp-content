@@ -5,7 +5,7 @@ description: Enhance your CRM data with enriched profiles to drive personalized 
 theme: 'jungle-fever'
 ---
 
-::feature-callout{title="Seamless Integration with Your CRM" description="Easily integrate Narrative’s platform with your existing CRM system. Real-time data enrichment ensures your customer profiles are always up to date." prompt="Discover how Narrative can integrate with popular CRM systems like Salesforce and HubSpot."}
+::feature-callout{title="Seamless Integration with Your CRM" description="Easily integrate Narrative’s platform with your existing CRM system. Continuous data enrichment ensures your customer profiles are always up to date." prompt="Discover how Narrative can integrate with popular CRM systems like Salesforce and HubSpot."}
 ::
 
 ::feature-callout{title="Data Enrichment at Your Fingertips" description="Add depth to your customer profiles with our vast data marketplace. Access demographic, behavioral, and transactional data to enrich your CRM entries." prompt="Explore the types of data you can use to enrich your CRM profiles."}
