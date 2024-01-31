@@ -14,8 +14,5 @@ theme: 'purple-prodigy'
 ::feature-callout{title="Achieve privacy-safe geo-targeting" description="Execute geofenced marketing campaigns that respect consumer privacy, backed by Narrative’s rigorous data compliance standards." prompt="How does Narrative ensure my geofencing adheres to privacy regulations?"}
 ::
 
-::feature-callout{title="Flexible geo data onboarding" description="Whether it’s shapefiles, WKT, or CSVs, Narrative accepts your geo data in any format, making integration seamless and straightforward." prompt="My geo data is in a unique format; can Narrative handle it?"}
-::
-
 ::mega-feature-callout{title="Geo-Marketplace Advantages" subtitle="Unlock Richer Location Insights" description="Dive into a diverse location data marketplace offering real-time, granular insights to power your campaigns and elevate your geo-marketing analysis." prompt="Explore how granular location data from Narrative can transform my marketing strategy."}
 ::
