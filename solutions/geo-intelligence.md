@@ -1,5 +1,5 @@
 ---
-short_title: Geo-Intelligence
+short_title: Geographic Intelligence
 title: Supercharge Digital Out-of-Home Campaigns
 description: Integrate geofencing for high-impact DOOH marketing, informed by precise and privacy-compliant geospatial data.
 theme: 'purple-prodigy'
