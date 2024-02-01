@@ -1,6 +1,6 @@
 ---
 title: Narrative Anywhere
-description: Your data is important to you.  Instead of moving your data to us, let us bring the data to where it natively lives.
+description: Your data is important to you.  Instead of moving your data to us, we'll come to where your data natively lives
 image: /img/products/narrative-anywhere/narrative-anywhere.png
 ---
 
