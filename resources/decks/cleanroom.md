@@ -45,9 +45,9 @@ date: September 9th, 2023
     How Does Narrative Keep my Data Secure?
 
     #left
-    ## Data Tenancy
+    ## Private Data Planes
 
-    Narrative offers a product called *Narrative Anywhere* that allows you to keep your data in you existing data warehouse or data lake.  This means you can keep your data in your own environment and still use Narrative's data collaboration platform.
+    Narrative offers a product called *Narrative Anywhere* that allows you to keep your data in you existing data warehouse or data lake.  This means you can keep your data in your own cloud environment and still use Narrative's data collaboration platform.
 
     #right
     ![](https://t4.ftcdn.net/jpg/05/57/31/61/360_F_557316119_W5D3C0aeYDuVFIztUc3yQX2S6vGAfZer.jpg)
