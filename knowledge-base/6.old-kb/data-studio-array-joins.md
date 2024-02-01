@@ -14,8 +14,8 @@ NQL Editor and Data Joins
 In the Narrative Data Collaboration Platform, the NQL editor in the Data Studio UI allows users to input and run queries. A common task is joining datasets using unique identifiers. Here, we focus on using a list of unique identifiers to join tables/datasets with identifier relations.
 
 ## Using NQL for Joins: Main Concepts
-Identifier Relation: A Rosetta Stone attribute of array type that includes unique identifiers from a dataset (e.g., a mobile_id_unique_identifier).
-Join Operation: In NQL, joins can be explicit using JOIN keyword.
+- Identifier Relation: A Rosetta Stone attribute of array type that includes unique identifiers from a dataset (e.g., a mobile_id_unique_identifier).
+- Join Operation: In NQL, joins can be explicit using the JOIN keyword.
 ### Example of an NQL Join with Unique Identifiers
 Here is an example of using NQL to join a company-specific dataset with Rosetta Stone data using a list of unique identifiers:
 
@@ -34,7 +34,7 @@ WHERE
   "narrative"."rosetta_stone"."_price_cpm_usd" <= 2.0
 LIMIT 50 USD PER CALENDAR_MONTH
 ```
-
+ <br> 
 
 ### Guidelines
 - Ensure that the join condition accurately matches the corresponding fields from both the company-specific dataset and the Rosetta Stone data.
