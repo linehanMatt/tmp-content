@@ -5,6 +5,7 @@ youtubeId: N8v_1vYBbvA
 ---
 
 ::mega-feature-callout{title="AI Powered" subtitle="Data Normalization Done Right" description="Rosetta Stone is Narrative's patent pending technology that automatically classifies and normalizes data accross any dataset.  More than that it allows you to query the normalized data as if it had always been pristine." prompt="How does Rosetta Stone data mapping work?"}
+::
 
 ::item-grid
     ::feature-callout{title="Automated" description="You literally don't have to do anything.  Just sit back while your data is normalized." prompt="Is Rosetta Stone automatically applied?"}
