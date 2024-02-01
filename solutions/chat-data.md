@@ -1,6 +1,6 @@
 ---
-short_title: Chat with Your Data
-title: Chat with Your Data
+short_title: Talk to Your Data
+title: Talk to Your Data
 description: Engage directly with your data through Narrative's intuitive chat interface, streamline the data query process, and enhance collaboration.
 theme: 'innovative-horizons'
 ---
