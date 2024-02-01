@@ -8,16 +8,14 @@ tags: ['Integrations & Technical Guides', 'Overview']
 
 Narrative Native Apps are applications bundled with a UI that can perform various actions on behalf of a user utilizing the Narrative API.
 
-Native Apps appear in the [Narrative App Store](https://app.narrative.io/apps), where users can choose to install an app, accept the terms of service for using the app, and begin using it immediately.
-
 ### Narrative Native App Components
 
 The following components make up a Narrative Native App:
 
-1.  **Tacklebox UI:** A [Vue](https://vuejs.org/)\-based component library that makes it simple to build and deploy user interfaces that match the look and feel of the Narrative platform. Read more about [Tacklebox here](https://github.com/narrative-io/tackle-box). You can see also see and interact with the Tacklebox components in the [sandbox](https://codesandbox.io/s/github/narrative-io/narrative-tacklebox-sandbox) here.
-2.  **App Manifest:** A JSON blob that describes the required permissions, address of the app-hosted UI, configuration information and navigation pages required to render the app in the Narrative platform.
-3.  **Auth:** Through an OAuth workflow, the Narrative Native App will be granted permissions to act on behalf of users that install the app.
-4.  **Narrative APIs:** Based on the permissions they have been granted, Native Apps make calls
+
+1.  **App Manifest:** A JSON blob that describes the required permissions, address of the app-hosted UI, configuration information and navigation pages required to render the app in the Narrative platform.
+2.  **Auth:** Through an OAuth workflow, the Narrative Native App will be granted permissions to act on behalf of users that install the app.
+3.  **Narrative APIs:** Based on the permissions they have been granted, Native Apps make calls
 
 ### Narrative Native App Types
 
@@ -29,9 +27,7 @@ Extend Narrative platform functionality with a functional app. These are the mos
 
 Egress Connector Apps provide delivery of data from the Narrative platform to third party destinations. Egress connector apps are notified via an event bus when there is data that needs to be delivered downstream.
 
-Connector Apps additionally extend the functionality of other installed apps: Connector Apps appear in the “Destinations” section of the Dataset Manager app, and within the checkout workflow in Buyer Studio App, the Data Stream Marketplace, and elsewhere in the platform.
-
-For more information on Narrative Egress Connector Apps, visit the documentation [here](https://www.notion.so/Building-a-Narrative-Egress-Connector-Native-App-32c8b502f2664133b5708d44bdaefca8).
+Connector Apps additionally extend the functionality of other installed apps: Connector Apps appear in the “Destinations” section of the Dataset Manager app, the Data Stream Marketplace, and elsewhere in the platform.
 
 ### Ingress Connector Apps
 
@@ -69,10 +65,6 @@ The user interface you host will appear within the Narrative UI. It will be avai
 
 ![narrative-native-app](https://solutions.narrative.io/hubfs/narrative-native-app.png)
 
-#### Tacklebox UI
-
-Your UI will utilize the Narrative UX design system and JS library [Tacklebox](http://narrative.pizza/tacklebox), which makes developing applications against our API and style guide simple. You can see and interact with the Tacklebox components in the [sandbox](https://codesandbox.io/s/github/narrative-io/narrative-tacklebox-sandbox) here.
-
 ### Narrative Native App OAuth Workflow
 
 In order to authenticate on behalf of a user, a Narrative Native App will use the Narrative OAuth workflow below. See the [Narrative Auth service documentation](https://api.narrative.dev/#tag/Auth/paths/~1oauth~1token/post) for more details.
@@ -94,8 +86,8 @@ Utilize this workflow when your app needs to access the Narrative API but the ac
 
 Utilize this workflow when the Narrative UI iFrame renders your app UI.
 
-1.  The Narrative App Framework will call the UI with an API access\_token that is authenticated to the App User’s company. The permissions and scope of this token are restricted to those that your App permissioned at install time.
-2.  Tacklebox handles the API token natively if the App is called in an iFrame. After the app has been initialized in _nioInitializeApplication_, use the App's _nioOpenAPI_ property on the global Vue object to access API services with any permissions granted to the app in the manifest. You can read more about that property [here](https://docs.narrative.dev/tacklebox/bootstrap/open-api.html).
+The Narrative App Framework will call the UI with an API access\_token that is authenticated to the App User’s company. The permissions and scope of this token are restricted to those that your App permissioned at install time.
+
 
 ### How can I get started?
 
