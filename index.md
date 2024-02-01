@@ -1,5 +1,5 @@
 ---
-title: AI-Driven Data Collaboration Made Simple and Secure'
+title: AI-enabled Data Collaboration Made Simple and Secure'
 description: "Harness No-code, AI-Enabled Tools for Scalable, Secure, and Sophisticated Data Collaboration."
 ---
 
