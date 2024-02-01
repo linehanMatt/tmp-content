@@ -40,9 +40,6 @@ The user interface you host will appear within the Narrative UI. It will be avai
 
 ![Screen Shot 2022-08-10 at 8.15.14 AM (1)](https://solutions.narrative.io/hubfs/Screen%20Shot%202022-08-10%20at%208.15.14%20AM%20(1).png)
 
-#### Tacklebox UI
-
-Your UI will utilize the Narrative UX design system and JS library [Tacklebox](http://narrative.pizza/tacklebox), which makes developing applications against our API and style guide simple. You can see and interact with the Tacklebox components in the [sandbox](https://codesandbox.io/s/github/narrative-io/narrative-tacklebox-sandbox) here.
 
 #### **Connector App Workflow**
 
@@ -51,7 +48,7 @@ Connector apps are unique in that the workflow for delivering data within Narrat
 1.  When a user launches your app, Narrative will pass an app token that is scoped to the currently active user to your web server. This app token will have all of the permissions defined in your app manifest. Your app will then render in the Narrative iFrame.
 2.  One primary responsibility of this UI for connector apps is to collect the information required by the user to manage profiles (create, edit or delete) stored in a database on your infrastructure\*\*,\*\* scoped to the user’s company, which can be utilized to authenticate against your destination API and deliver data to it.
 3.  Users will then utilize the Narrative UI to perform actions that result in data being sent to the connector app for delivery. These actions occur **outside of your app** and can include:
-    1.  A user creates a subscription in **Buyer Studio** or while purchasing a data stream from the **Data Stream Marketplace.** At the checkout step, the user selects the **connector** they wish to use to deliver their data. The user attaches a **profile** and an optional **quick-settings** object to describe how and where to write their data (see below).
+    1.  A user purchases a data product from the **Data Stream Marketplace.** At the checkout step, the user selects the **connector** they wish to use to deliver their data. The user attaches a **profile** and an optional **quick-settings** object to describe how and where to write their data (see below).
     2.  A user elects to have a **Dataset** delivered to a connector app destination. The user selects the **dataset** they wish to have delivered in **Dataset Manager**, and then selects the **connector** they wish to use to deliver their data.
 
 ### Provide Narrative with an App Manifest
