@@ -1,0 +1,136 @@
+---
+title: Advanced Audience Building Across Multiple Data Sources
+description: A conversation between a customer and Narrative about how the platform can help build advanced audiences from multiple data sources.
+type: meeting-overview
+---
+
+::div{style="display: flex; padding-bottom: 2rem;"}
+    ::div{style="width: 80%; padding-right: 1rem;"}
+    ## Building Advanced Audiences
+
+    **Customer**: Can you explain how Narrative's platform can help us build advanced audiences from multiple data sources?
+
+    **Narrative**: Absolutely. Our platform specializes in ingesting and managing identity data from dozens of sources. It allows you to build advanced audiences by querying datasets that are structured and normalized within our system. We ensure that data from various providers is standardized, making it easier for you to build precise audience segments without worrying about data format inconsistencies.
+    ::
+
+    ::div{style="flex: 20%; padding-left: 3rem;"}
+    ::feature-callout{title="Audience Activation" description="Our customers love creating audiences using our easy to use tools" link-path="/solutions/audience-activation" link-text="Learn more"}
+    ::
+::
+
+::div{style="display: flex; padding-bottom: 2rem;"}
+    ::div{style="flex: 80%; padding-right: 1rem;"}
+    ## Data Normalization
+
+    **Customer**: How does data normalization work on your platform?
+
+    **Narrative**: We have a data normalization process that automatically standardizes the data formats across all providers. This means when you're building an audience, you don't have to deal with the complexity of varying data formats. Our platform handles the conversion, ensuring you can focus on defining the audience criteria that matter most to your campaigns.
+    ::
+
+    ::div{style="flex: 20%; padding-left: 3rem;"}
+    ::feature-callout{title="Rosetta Stone" description="Narrative has created an AI model called Rosetta Stone to auomatically normalize data as it flows into the platform." link-path="/products/rosetta-stone" link-text="Learn more"}
+    ::
+::
+
+::div{style="display: flex"}
+    ::div{style="flex: 80%; padding-right: 1rem;"}
+    ## Querying Capabilities
+
+    **Customer**: What kind of querying capabilities does your platform offer?
+
+    **Narrative**: Our platform includes a powerful tool called the Narrative Query Language (NQL), an extension of SQL designed specifically for data collaboration and manipulation. It supports all standard SQL functionalities plus additional features for automated normalization and standardization. For ease of use, we also provide a query builder tool with a user-friendly interface for constructing queries without needing to write complex code.
+    ::
+
+    ::div{style="flex: 20%; padding-left: 3rem;"}
+    ::item-grid{}
+        ::feature-callout{title="Query Builder" description="Narrative offers an intuitive WYSIWYG query builder to make collaborating easy" link-path="/products/query-builder/wysiwyg-editor" link-text="Learn more"}
+        ::
+
+        ::feature-callout{title="Narrative Query Language" description="NQL is a powerful SQL extension that makes it easy to express complex data requests." link-path="/products/query-builder/nql" link-text="Learn more"}
+        ::
+    ::
+::
+
+::div{style="display: flex; padding-bottom: 2rem;"}
+    ::div{style="flex: 70%; padding-right: 1rem;"}
+    ## Data Governance and Privacy
+
+    **Customer**: How do you handle data governance and privacy?
+
+    **Narrative**: We take data governance seriously. Our platform uses access rules and query policies that define who can access which datasets and under what conditions. This ensures that data usage is in compliance with provider stipulations and privacy standards, providing a secure environment for data collaboration.
+
+    We also offer data privacy features that allow our customers to syndicate consumer opt outs and other privacy requests to our platform.  Once the data is in our platform, we ensure that it is respected and not used in any way that would violate the consumer's privacy rights including tombstoning data, notifying downstream collaboration partners of privacy requests, receiving and storing acknowledgements of privacy requests, and creating an end to end audit trail of the whole process.
+    ::
+
+    ::div{style="flex: 30%; padding-left: 3rem;"}
+    ::item-grid
+        ::feature-callout{title="Access Rules" description="Fine grained controls around who gets access to data, the types of queries they can run, and any commerical relatinoships inherent with the collaboration." link-path="/products/my-data/access-rules" link-text="Learn more"}
+        ::
+    ::
+    ::
+::
+
+::div{style="display: flex; padding-bottom: 2rem;"}
+    ::div{style="flex: 70%; padding-right: 1rem;"}
+    ## On Prem Data Collaboration
+    **Customer**: Can you tell us more about the upcoming Narrative Anywhere feature?
+
+    **Narrative**: Sure. Narrative Anywhere is an exciting development that allows our customers to host their data in their own cloud environments, like Snowflake. This means you can execute NQL queries directly in your cloud, leveraging our normalization and querying capabilities while maintaining full control over your data storage and processing. It's a step towards offering more flexibility and control to our users.
+    ::
+
+    ::div{style="flex: 30%; padding-left: 3rem;"}
+    ::item-grid
+        ::feature-callout{title="Clean Rooms" description="Narrative offers an intuitive WYSIWYG query builder to make collaborating easy" link-path="/sollutions/clean-room" link-text="Learn more"}
+        ::
+
+        ::feature-callout{title="Narrative Anywhere" description="Our Data Collaboration Platform can be deployed in your cloud" link-path="/products/narrative-anywhere" link-text="Learn more"}
+        ::
+    ::
+    ::
+::
+
+::div{style="display: flex; padding-bottom: 2rem;"}
+    ::div{style="flex: 70%; padding-right: 1rem;"}
+    ## Bring Your Own Data Partners
+
+    **Customer**: What if we need to ingest data from a new provider that's not currently on your platform?
+
+    **Narrative**: Our platform is designed to easily onboard new data providers. We offer flexible schema inference and support various ingestion methods. Providers can quickly make their data available without needing significant technical adjustments, ensuring you have access to the broadest range of data for audience building.
+    ::
+
+    ::div{style="flex: 30%; padding-left: 3rem;"}
+    ::item-grid
+        ::feature-callout{title="Easy Dataset Ingestion" description="Need to onboard your own partners.  It's gonna be a breeze!" link-path="/products/my-data/easy-dataset-ingestion" link-text="Learn more"}
+    ::
+    ::
+::
+
+::div{style="display: flex; padding-bottom: 2rem;"}
+    ::div{style="flex: 70%; padding-right: 1rem;"}
+    ## Real-Time Data
+
+    **Customer**: How does the platform ensure the data is ready for use in real-time?
+
+    **Narrative**: By standardizing and normalizing data as it's ingested, we ensure that it's immediately ready for querying and audience building. Our platform's architecture is designed for efficiency, enabling you to build and access advanced audiences on demand without delays.
+    ::
+
+    ::div{style="flex: 30%; padding-left: 3rem;"}
+    ::item-grid
+        ::feature-callout{title="Wait Minutes, not Weeks" description="Our platform was architected to deliver data within minutes of setting up a collaboration.  No engineers, no product managers, just execution" link-path="/products/my-data/fast-delivery" link-text="Learn more"}
+        ::
+    ::
+    ::
+::
+
+::div{style="display: flex; padding-bottom: 2rem;"}
+    ::div{style="flex: 70%; padding-right: 1rem;"}
+    ## Next Steps
+
+    **Customer**: This sounds like a comprehensive solution. What are the next steps for us if we're interested in leveraging Narrative's platform for our audience building needs?
+
+    **Narrative**: We'd be happy to set up a demo tailored to your specific use case and discuss how our platform can meet your needs. Following the demo, we can explore integration options and start the onboarding process to ensure you have access to the data and tools necessary for your audience building initiatives.
+    ::
+::
+
+::mega-feature-callout{title="Get Started" subtitle="Let's Get You Building" description="We'd be happy to set up a demo tailored to your specific use case and discuss how our platform can meet your needs." link-url="/contact" link-text="Contact Us"}
+::
