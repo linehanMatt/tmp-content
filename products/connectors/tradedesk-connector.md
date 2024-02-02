@@ -1,7 +1,7 @@
 ---
 title: The Trade Desk Connector
 description: Onboard and activate first and third-party segments in minutes with The Trade Desk and Narrative.
-image: /img/products/connectors/connectors.png
+image: /img/products/connectors/trade_desk_connector.png
 ---
 
 ::item-grid

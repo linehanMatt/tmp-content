@@ -1,6 +1,7 @@
 ---
 title: S3 Connector
 description: Move your data to Amazon's S3 storage with ease and efficiency.
+image: /images/products/connectors/aws-connector.png
 ---
 
 ::feature-callout{ :title="Intuitive UI" :description="No more messing with complicated configuration files and hard to understand command line interfaces" :prompt="Does Narrative have a UI for the S3 connector?"}
