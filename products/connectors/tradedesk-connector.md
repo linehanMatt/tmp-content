@@ -1,6 +1,6 @@
 ---
 title: The Trade Desk Connector
-description: Onboard and activate first- and third-party segments in minutes with The Trade Desk and Narrative.
+description: Onboard and activate first and third-party segments in minutes with The Trade Desk and Narrative.
 image: /img/products/connectors/connectors.png
 ---
 
@@ -40,12 +40,12 @@ image: /img/products/connectors/connectors.png
 ::
 
 ::item-grid{title="Use Cases"}
-    ::feature-callout{title="Targeted Advertising" description="Create audiences for you or your agency to use in the Trade Desk for high performance marketing"}
+    ::feature-callout{title="Audience Activation" description="Create audiences for you or your agency to use in the Trade Desk for high performance marketing" link-text="Learn More" link-path="/solutions/audience-activation"}
     ::
 
-    ::feature-callout{title="Data Monetization" description="Build and manage a third party data monetization business w/ease"}
+    ::feature-callout{title="Data Monetization" description="Build and manage a third party data monetization business w/ease" link-text="Learn More" link-path="/solutions/data-monetization"}
     ::
 
-    ::feature-callout{title="Custom 2nd Party Data" description="Compose bespoke audiences for your partners"}
+    ::feature-callout{title="Data Sharing" description="Compose bespoke audiences for your partners" link-text="Learn More" link-path="/solutions/clean-room"}
     ::
 ::
