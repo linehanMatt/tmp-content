@@ -14,5 +14,5 @@ theme: 'purple-prodigy'
 ::feature-callout{title="Create new audiences with just a few clicks" description="Execute custom campaigns with ease. Slice and dice your data to create custom segments without SQL. Or tell our AI assistant to do it for you!" prompt="Show me how easy it is to create an audience."}
 ::
 
-::mega-feature-callout{title="NEW ACTIVATION PLATFORM" subtitle="Instantly deliver your data to The Trade Desk" description="Activate your audiences on the world's largest independent DSP. Narrative seamlessly integrates with The Trade Desk so you can reach customers across every digital channel and device." prompt="Tell me about the Narrative integration with The Trade Desk."}
+::mega-feature-callout{title="NEW ACTIVATION PLATFORM" subtitle="Instantly deliver your data to The Trade Desk" description="Activate your audiences on the world's largest independent DSP. Narrative seamlessly integrates with The Trade Desk so you can reach customers across every digital channel and device." link-url="/products/connectors/tradedesk-connector" link-text="Learn More"}
 ::
