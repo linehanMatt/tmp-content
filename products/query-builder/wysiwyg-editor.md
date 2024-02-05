@@ -1,6 +1,7 @@
 ---
 title: WYSIWYG Editor
 description: Narrative's WYSIWYG Editor allows you to easily create and manage your data collaboration requests with your partners.  Instead of writing code, get stuff done.
+youtubeId: a91a3ab6c7f3752a32404398c55cc955
 ---
 
 ::mega-feature-callout{title="Point & Click Collaboration" subtitle="Create Complex Strategies w/Ease" description="Narrative's WYSIWYG Editor allows you to easily create and manage your data collaboration requests with your partners.  Instead of writing code, get stuff done." prompt="Tell me more about the WYSIWYG Editor"}
