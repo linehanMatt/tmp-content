@@ -1,7 +1,7 @@
 ---
 title: Advanced Audience Building Across Multiple Data Sources
-description: A conversation between a customer and Narrative about how the platform can help build advanced audiences from multiple data sources.
-type: meeting-overview
+description: How can Narrative make it easy for me to build audiences, with complex logic, across a variety of different data sources?
+type: ask-me-anything
 additionalResources: [{ title: "Boosing Audience Addressability in a Cookieless World", link: "/blog/boosting-audience-addressability-in-a-cookieless-world" }]
 ---
 
