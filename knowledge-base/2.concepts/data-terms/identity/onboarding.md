@@ -8,7 +8,7 @@ tags: ['Solution Guide', 'Identity']
 
 Data onboarding is the process of taking an offline data set and translating it into a data set that can be used in digital environments. Onboarded data is typically used for marketing use cases.
 
-### How does it work? 
+### How does it work?
 
 Data onboarding connects offline customer data to online identifiers by taking [pseudo-anonymous](https://kb.narrative.io/what-is-pseudonymization) [personally identifiable information](https://kb.narrative.io/what-is-personally-identifiable-information-pii) (PII) from offline customer records and matching it to online identifiers such as [mobile ad IDs](https://kb.narrative.io/mobile-advertising-ids) and cookies to find the same customers online.
 
