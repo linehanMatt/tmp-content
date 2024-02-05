@@ -1,8 +1,10 @@
 ---
 title: Narrative Query Language
 description: Narrative's SQL extension (NQL) has all of the power of SQL with all of the easy of use of the rest of the Narrative platform.
+youtubeId: 2778bdd8c69a8fca403e51ac58d33e6a
 ---
-A query language that puts data collaboration first
+
+###### A query language that puts data collaboration first
 
 ::item-grid
 
