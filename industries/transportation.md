@@ -1,7 +1,7 @@
 ---
 title: 'Transportation'
 description: "Narrative's dynamic data collaboration platform propels the transportation industry forward, optimizing logistics and enhancing passenger experiences."
-theme: 'urban-dawn'
+layout: 'urban-dawn'
 ---
 ::feature-callout{title="Create Intelligent Routing Systems" description="Implement advanced routing algorithms using diverse data sets to reduce costs and improve service quality." prompt="How can Narrative unify disparate datasets to power algorithms transportation routing?"}
 ::

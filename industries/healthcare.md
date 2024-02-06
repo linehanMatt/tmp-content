@@ -1,7 +1,7 @@
 ---
 title: 'Healthcare'
 description: "Narrative's data collaboration platform revolutionizes patient care and operational excellence with its scalable and secure healthcare data solutions."
-theme: 'innovative-horizons'
+layout: 'innovative-horizons'
 ---
 ::feature-callout{title="Centralize Diverse Health Data" description="Unify patient, research, and operational data in one platform for a holistic view, enhancing decision-making and streamlining healthcare processes." prompt="How does Narrative's platform achieve comprehensive data integration in healthcare?"}
 ::

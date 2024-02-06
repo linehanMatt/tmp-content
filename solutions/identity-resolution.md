@@ -2,7 +2,7 @@
 short_title: Identity Resolution
 title: Simplify Identity Resolution
 description: Seamlessly match and merge customer identifiers across channels to unify profiles, ensuring consistent, personalized experiences wherever they engage.
-theme: 'jungle-fever'
+layout: 'jungle-fever'
 ---
 
 ::feature-callout{title="Unify Customer Touchpoints" description="Link disparate identifiers to forge a complete customer journey across devices and channels, enabling personalized interactions every step of the way." prompt="Show me how Narrative simplifies creating a unified customer view."}

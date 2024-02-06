@@ -2,7 +2,7 @@
 short_title: Talk to Your Data
 title: Talk to Your Data
 description: Engage directly with your data through Narrative's intuitive chat interface, streamline the data query process, and enhance collaboration.
-theme: 'innovative-horizons'
+layout: 'innovative-horizons'
 ---
 
 ::feature-callout{title="Empower data dialogue" description="Grant Rosetta AI access to your datasets for an interactive, conversational experience that simplifies data management and enhances insights." prompt="How can Rosetta AI improve my interaction with data?"}

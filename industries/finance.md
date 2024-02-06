@@ -1,7 +1,7 @@
 ---
 title: 'Finance'
 description: "Empower your financial institution with Narrative's expansive data collaboration and unparalleled scalability to transform decision-making and compliance processes."
-theme: 'digital-horizon'
+layout: 'digital-horizon'
 ---
 
 ::feature-callout{title="Gain Market Edge with Data Variety" description="Unlock access to a vast ecosystem of data sources for comprehensive financial analysis and market insights." prompt="How does easy access to data variety help financial institutions?"}

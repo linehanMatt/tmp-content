@@ -2,7 +2,7 @@
 short_title: Data Validation
 title: Pinpoint Data Precision and Potential
 description: Assure the quality of your data against industry standards while unveiling new opportunities through overlap and incrementality analysis.
-theme: 'nebula'
+layout: 'nebula'
 ---
 
 ::feature-callout{title="Quantify Overlap & Incrementality" description="Discover the unique contribution of each dataset with in-depth overlap and incrementality analysis, optimizing your data strategy." prompt="Guide me through analyzing my data for overlap and incremental gains."}
