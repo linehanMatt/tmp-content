@@ -6,7 +6,6 @@ author: 'Matthew Tornatore'
 ogImage: '/img/blog/2019/04/acquire-blog-image-%281%29.jpg'
 image: '/img/blog/2019/04/acquire-blog-image-%281%29.jpg'
 tags: ['acquire']
-authorSlug: 'matthew-tornatore'
 ---
 The mobile app ecosystem is crowded and everyone is looking for an edge. Mobile marketing campaigns rely heavily on customer data, but that data all originates from within, meaning its insufficient to [understand the competitive landscape](https://www.narrative.io/solutions/competitive-intelligence).
 

@@ -6,7 +6,6 @@ author: 'Sameer Mehta'
 ogImage: '/img/blog/2019/04/pricing-policies-new-1.jpg'
 image: '/img/blog/2019/04/pricing-policies-new-1.jpg'
 tags: ['data economy', 'distribute', 'pricing']
-authorSlug: 'sameer-mehta'
 ---
 ### Data is now the most valuable resource in the world. How should it be priced?
 

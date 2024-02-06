@@ -6,14 +6,14 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2021/11/Screen-Shot-2021-11-11-at-8.39.50-AM.png'
 image: '/img/blog/2021/11/Screen-Shot-2021-11-11-at-8.39.50-AM.png'
 tags: ['data economy', 'data shops', 'distribute', 'solutions']
-authorSlug: 'brenna-dilger'
+
 ---
-Data monetization allows your organization to unlock the external value of your company’s internal data. The data that your company has collected and used for internal purposes can actually be [extremely valuable](/how-much-is-your-companys-data-worth) to other organizations, and your company could be earning an entirely new stream of revenue by simply sharing that data. By evaluating your own data, exercising care in the quality and usability of the data you’d like to sell, and being strategic when you create your data business and products, you will be able to monetize your data assets efficiently and effectively.
+Data monetization allows your organization to unlock the external value of your company’s internal data. The data that your company has collected and used for internal purposes can actually be [extremely valuable](/blog/how-much-is-your-companys-data-worth) to other organizations, and your company could be earning an entirely new stream of revenue by simply sharing that data. By evaluating your own data, exercising care in the quality and usability of the data you’d like to sell, and being strategic when you create your data business and products, you will be able to monetize your data assets efficiently and effectively.
 
 **Map and value your data** 
 ============================
 
-To get started with your [data monetization](https://www.narrative.io/distribute) strategy, you must first [assess and value your organization’s data](/how-much-is-your-companys-data-worth). Make sure you comprehensively evaluate what types of data you have to offer that are valuable to other organizations outside of your own. To do this, begin with a thorough audit and appraisal of the data you have gathered within your organization. This includes data on your processes, transactions, customers, and any other data that your company accumulates. 
+To get started with your [data monetization](https://www.narrative.io/distribute) strategy, you must first [assess and value your organization’s data](/blog/how-much-is-your-companys-data-worth). Make sure you comprehensively evaluate what types of data you have to offer that are valuable to other organizations outside of your own. To do this, begin with a thorough audit and appraisal of the data you have gathered within your organization. This includes data on your processes, transactions, customers, and any other data that your company accumulates. 
 
 Make sure that you are fully transparent about the data you wish to sell. That means it’s important to understand and be willing to share how and when your data was collected, how datasets interface, how relevant and valuable they are, and so on. After examining your data and ensuring that it is transparent and quality data that could bring value to other organizations, you can then move on to the next step of identifying who will be buying your data. 
 
@@ -84,7 +84,5 @@ Once your data has been reviewed, organized into marketable products, and displa
 Give your data monetization strategy the best shot at success. Once you map and value your data, determine your data buying audience, review data monetization rules and regulations, and set up your brand new data business with [Data Shops](https://www.narrative.io/data-shops), you’ll be able to open up an entirely new opportunity for revenue.
 
 **[Want to get started?](https://www.narrative.io/demo)** **Request a demo [here.](https://www.narrative.io/demo)**
-
-**Check out more of our [resources](/tag/distribute) on data monetization [here](/tag/distribute).**
 
 **You can also watch our [Narrative Product Tour: Building an Ecommerce Data Business with Data Shops](https://solutions.narrative.io/data-shops-product-tour-20220608) to see first-hand how easy it is to package, merchandise, and distribute your first-party data in just a few clicks with [Data Shops](https://www.narrative.io/data-shops).**

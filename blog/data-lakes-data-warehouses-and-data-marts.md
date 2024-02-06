@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2021/10/lake-vs-warehouse.png'
 image: '/img/blog/2021/10/lake-vs-warehouse.png'
 tags: ['data science']
-authorSlug: 'brenna-dilger'
+
 ---
 In the world of big data, it is important to find ways to store the overwhelming volumes of data that are being generated every second. Data professionals have found that it is generally useful to either pour their data into data lakes or stack their data into data warehouses (and data mart subdivisions). This crash course on data storage will lay out the definitions and differentiators of these data storage solutions and explain their unique functions. 
 

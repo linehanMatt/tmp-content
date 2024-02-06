@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/09/howmuchdataworth-3.png'
 image: '/img/blog/2022/09/howmuchdataworth-3.png'
 tags: ['solutions']
-authorSlug: 'brenna-dilger'
+
 ---
 Where is your audience going and how often are they going there? Which stores or locations do your customers prefer and which ones do they avoid? What are peak times and seasons for areas of interest? Getting answers to these questions is just the tip of the iceberg when it comes to the wealth of information that [geofence data](https://blog.narrative.io/get-unlimited-geofenced-data-in-your-next-data-order) can provide for organizations.
 

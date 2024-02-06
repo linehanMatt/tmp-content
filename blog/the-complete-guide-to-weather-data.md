@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/02/weather2-1.png'
 image: '/img/blog/2022/02/weather2-1.png'
 tags: []
-authorSlug: 'brenna-dilger'
+
 ---
 **What is weather data?**
 =========================

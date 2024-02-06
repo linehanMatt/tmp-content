@@ -6,11 +6,11 @@ author: 'Narrative'
 ogImage: '/img/blog/2019/07/narrative-101-pt-3.png'
 image: '/img/blog/2019/07/narrative-101-pt-3.png'
 tags: ['insights']
-authorSlug: 'narrative'
+
 ---
 ### Learn how Narrative plans to revolutionize the data economy
 
-_This is part three of "Narrative 101," a three-part series designed to introduce you to all things Narrative: what we do, how we're being used, and where we're going. [Read part one](/narrative-101-what-is-narrative) to learn about what we do, and [part two](/narrative-101-how-are-companies-using-narrative) to find out how companies are using Narrative to power their data strategies._
+_This is part three of "Narrative 101," a three-part series designed to introduce you to all things Narrative: what we do, how we're being used, and where we're going. [Read part one](/blog/narrative-101-what-is-narrative) to learn about what we do, and [part two](/blog/narrative-101-how-are-companies-using-narrative) to find out how companies are using Narrative to power their data strategies._
 
 In the final installment of our "Narrative 101" series, Nick Jordan, CEO and founder of Narrative, talks about his plans for the future of Narrative and answers the following questions:
 
@@ -76,4 +76,4 @@ My initial response to them was, "Data is a hard place to have a winner-take-all
 
 * * *
 
-Want to learn more? [Read part one](/narrative-101-what-is-narrative) of Narrative 101 to learn what Narrative does and how it's changing the way data is transacted, and [part two](/narrative-101-how-are-companies-using-narrative) to discover how companies are using Narrative to power their data strategies.
+Want to learn more? [Read part one](/blog/narrative-101-what-is-narrative) of Narrative 101 to learn what Narrative does and how it's changing the way data is transacted, and [part two](/blog/narrative-101-how-are-companies-using-narrative) to discover how companies are using Narrative to power their data strategies.

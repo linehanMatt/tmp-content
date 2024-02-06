@@ -6,7 +6,7 @@ author: 'Zeke Sexauer'
 ogImage: '/img/blog/2021/01/universal-onboarding.png'
 image: '/img/blog/2021/01/universal-onboarding.png'
 tags: []
-authorSlug: 'zeke-sexauer'
+
 ---
 ### Universal Onboarding brings a simple, intuitive UI to data onboarding, enabling anyone to activate offline, first-party data in real time
 

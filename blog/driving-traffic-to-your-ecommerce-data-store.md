@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/06/ecommerce-2.png'
 image: '/img/blog/2022/06/ecommerce-2.png'
 tags: ['data shops', 'distribute', 'solutions']
-authorSlug: 'brenna-dilger'
+
 ---
 Congratulations, you’ve started an [online data store](https://www.narrative.io/data-shops) and are actively selling your valuable data products! However, getting your ecommerce data shop up and running is only half the battle. Once you’ve created an online shopfront and filled it with [data products](https://blog.narrative.io/5-steps-to-building-a-successful-data-product), you’ll have to find ways to make your new business discoverable and drive traffic to your products. 
 

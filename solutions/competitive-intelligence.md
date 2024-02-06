@@ -2,7 +2,7 @@
 short_title: Competitive Intelligence
 title: Gain the Edge with Actionable Competitive Intelligence
 description: Dive into market dynamics and competitor activities to anticipate shifts, refine your strategy, and stay ahead of the curve.
-theme: 'urban-dawn'
+layout: 'urban-dawn'
 ---
 
 ::feature-callout{title="Insightful Data at Your Fingertips" description="Narrative's platform unlocks actionable insights, helping you to align your strategies with customer expectations." prompt="What kind of insights can I unlock with Narrative?"}

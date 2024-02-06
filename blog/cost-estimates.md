@@ -6,13 +6,12 @@ author: 'Narrative'
 ogImage: '/img/blog/2022/06/6-2.png'
 image: '/img/blog/2022/06/6-2.png'
 tags: ['product updates']
-authorSlug: 'narrative'
 ---
 ### Data stream row count and cost estimates in Data Shops and [Data Streams Marketplace](https://www.narrative.io/data-marketplace)
 
-Now both sellers and buyers will be able to transact data with even more transparency. Sellers will be able to let their customers know upfront how many rows of data are available in each data stream and also provide the cost to purchase the entirety of the data within each stream. 
+Now both sellers and buyers will be able to transact data with even more transparency. Sellers will be able to let their customers know upfront how many rows of data are available in each data stream and also provide the cost to purchase the entirety of the data within each stream.
 
-[Data Shops](https://www.narrative.io/data-shops) and the [Data Stream Marketplace](https://www.narrative.io/data-marketplace) will now prominently display the estimated number of rows of data contained within a seller's data stream. The cost to purchase all of the data (if a smaller budget has not been entered) is also displayed. This will make it easy for buyers to understand how much data is available at any given time and allows them to more accurately budget for the data they want to acquire. 
+[Data Shops](https://www.narrative.io/data-shops) and the [Data Stream Marketplace](/products/data-marketplace) will now prominently display the estimated number of rows of data contained within a seller's data stream. The cost to purchase all of the data (if a smaller budget has not been entered) is also displayed. This will make it easy for buyers to understand how much data is available at any given time and allows them to more accurately budget for the data they want to acquire.
 
 ![Screen Shot 2022-06-28 at 10.27.43 AM](https://solutions.narrative.io/hubfs/Screen%20Shot%202022-06-28%20at%2010.27.43%20AM.png)
 

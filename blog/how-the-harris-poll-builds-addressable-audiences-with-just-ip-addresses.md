@@ -6,7 +6,7 @@ author: 'Narrative'
 ogImage: '/img/blog/2022/09/narrativeio-jobpost-01-7.png'
 image: '/img/blog/2022/09/narrativeio-jobpost-01-7.png'
 tags: ['success stories']
-authorSlug: 'narrative'
+
 ---
 **The Challenge**
 =================

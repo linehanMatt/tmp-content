@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2021/10/Screen-Shot-2021-10-27-at-1.51.17-PM.png'
 image: '/img/blog/2021/10/Screen-Shot-2021-10-27-at-1.51.17-PM.png'
 tags: ['data science']
-authorSlug: 'brenna-dilger'
+
 ---
 The future of big data is bright: better technology and greater access to an ocean of information has given businesses the power to gain more insights, improve performance, increase revenue, and innovate faster.
 

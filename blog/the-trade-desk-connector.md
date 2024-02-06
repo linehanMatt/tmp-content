@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/10/04-11.png'
 image: '/img/blog/2022/10/04-11.png'
 tags: ['distribute']
-authorSlug: 'brenna-dilger'
+
 ---
 Quickly and easily onboard and deliver audiences to The Trade Desk for advertiser activation.
 ---------------------------------------------------------------------------------------------

@@ -6,18 +6,14 @@ author: 'Narrative'
 ogImage: '/img/blog/2019/05/narrative-live-intent.jpg'
 image: '/img/blog/2019/05/narrative-live-intent.jpg'
 tags: ['newsdesk', 'press']
-authorSlug: 'narrative'
+
 ---
-### Choice, speed and control. In a changing ecosystem, organizations reliant on data can't afford less.
+### Choice, speed and control. In a changing ecosystem, organizations reliant on data can't afford less
 
-  
-The market is hungry for data, but everywhere you look there are potential roadblocks and radical change across the entire ecosystem. GDPR, CCPA, Apple ITP, Google ITP, etc, plus the list of incumbent aging [identity solutions](/identity-resolution) with less transparency & inability to assess data quality of providers are making it hard for businesses to efficiently create a successful data strategy.
-
-  
+The market is hungry for data, but everywhere you look there are potential roadblocks and radical change across the entire ecosystem. GDPR, CCPA, Apple ITP, Google ITP, etc, plus the list of incumbent aging [identity solutions](/blog/identity-resolution) with less transparency & inability to assess data quality of providers are making it hard for businesses to efficiently create a successful data strategy.
 
 #### What this means for your brand, the TL;DR
 
-   
 Harness better accuracy from sources that understand their linkages in a first party context and build data assets that allow your brand to enable the same capabilities as the walled gardens.
 
 Let data flow to your brand, not away from it as had been the industry shortcoming.
@@ -38,7 +34,4 @@ Narrative takes a traditionally complex process and makes it point-and-click. Th
 
 “The partnership of Narrative and LiveIntent represents the union of capabilities tailored for a digital ecosystem at a moment of change,” said LiveIntent Founder and CEO Matt Keiser. “Publishers and brands are at a crucial point in history as they grapple with both increasing market dominance by a handful of digital players and the related necessity for companies to maximize their use of their first-party data. This gets more important as third-party identifiers lose relevance.”
 
-This has become real this week as Chrome announced plans to tighten the use of 3p cookies. While this is not the death of the cookie, we can assume the restrictions will increase over time, and [here’s how you can help mitigate your risk](/what-to-do-when-your-cookies-are-taken-away).  
-  
-**By Nick Jordan  
-**CEO, Narrative
+This has become real this week as Chrome announced plans to tighten the use of 3p cookies. While this is not the death of the cookie, we can assume the restrictions will increase over time, and here’s how you can help mitigate your risk.  

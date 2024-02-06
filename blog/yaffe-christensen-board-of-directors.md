@@ -6,7 +6,7 @@ author: 'Zeke Sexauer'
 ogImage: '/img/blog/2019/06/yaffe-christensen.jpg'
 image: '/img/blog/2019/06/yaffe-christensen.jpg'
 tags: ['announcement', 'press']
-authorSlug: 'zeke-sexauer'
+
 ---
 ### David Yaffe and Ryan Christensen bring invaluable experience in the world of data, marketplaces, and digital media
 

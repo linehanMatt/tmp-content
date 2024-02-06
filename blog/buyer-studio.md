@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2021/11/Buyer-Studio-1.png'
 image: '/img/blog/2021/11/Buyer-Studio-1.png'
 tags: ['acquire', 'data streams', 'narrative features', 'solutions']
-authorSlug: 'brenna-dilger'
+
 ---
 ### Buyer Studio makes it easy to find and buy precise datasets by automating the most time- and labor-intensive aspects of buying data.
 

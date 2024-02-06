@@ -6,7 +6,6 @@ author: 'Aaron Venar'
 ogImage: '/img/blog/2019/05/speed-matters.jpg'
 image: '/img/blog/2019/05/speed-matters.jpg'
 tags: ['acquire', 'data economy', 'distribute']
-authorSlug: 'aaron-venar'
 ---
 ### Time to market can affect your ability to compete.
 
@@ -16,7 +15,7 @@ For companies acquiring data, the power to unlock the information contained with
   
 For companies that distribute data, the revenue potential seems endless as the appetite for data quickly becomes reliance resulting in years of forecastable revenue.  
   
-However, from an execution standpoint, [some barriers threaten the dreams on both sides of the data economy](/the-spotify-of-data).  
+However, from an execution standpoint, [some barriers threaten the dreams on both sides of the data economy](/blog/the-spotify-of-data).  
   
 The key to leveraging data for strategic advantage is to acquire, analyze, and implement data before competitors do. As companies race to better understand who is in-market for a new car, suffering from allergies, or what ticker will be up this quarter, having in-the-moment data is critical to success.
 
@@ -28,7 +27,7 @@ The process to acquire data usually begins with the business development team so
   
 Next, data scientists perform the analysis. Keep in mind this is all to review data which may not even be of use. If the data is useful, there are still terms to agree on and ongoing data ingestion to manage.  
   
-In the race to discover and apply new insights, the complex nature of the [data discovery](/data-discovery-assistant) and acquisition process is glossed over. From beginning to end, this process can easily last six months and cost thousands of dollars in employee time and processing fees.  
+In the race to discover and apply new insights, the complex nature of the [data discovery](/blog/data-discovery-assistant) and acquisition process is glossed over. From beginning to end, this process can easily last six months and cost thousands of dollars in employee time and processing fees.  
   
 Imagine the value of not only having access to useful data but having it months before competitors do.  
   

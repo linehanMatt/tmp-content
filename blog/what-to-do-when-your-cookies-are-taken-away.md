@@ -6,7 +6,7 @@ author: 'Tyler Putterman'
 ogImage: '/img/blog/2019/05/cookies_lo-1.jpg'
 image: '/img/blog/2019/05/cookies_lo-1.jpg'
 tags: ['acquire', 'identity']
-authorSlug: 'tyler-putterman'
+
 ---
 ### As browsers move to block of third-party cookies, brands must shift strategy
 
@@ -56,7 +56,7 @@ Even with 100% deterministic providers, do you have [transparency](https://www.n
 
 ### 3\. You implement your own native stable ID
 
-While recognized as the [gold standard of identity management](/identity-resolution), standing up your own solution has historically been difficult to both build and maintain. This can be an intimidating task, with the question of where to even start. The good news is, it just got easier.
+While recognized as the [gold standard of identity management](/blog/identity-resolution), standing up your own solution has historically been difficult to both build and maintain. This can be an intimidating task, with the question of where to even start. The good news is, it just got easier.
 
 The first thing you should do is ensure your less stable data is “backed up” to a more stable ID. In the context of cookies, this means taking your current cookie data and mapping it to a MAID or a hashed email, ideally both.
 

@@ -6,7 +6,7 @@ author: 'Narrative'
 ogImage: '/img/blog/2022/09/get-deeper-insights.png'
 image: '/img/blog/2022/09/get-deeper-insights.png'
 tags: ['product updates']
-authorSlug: 'narrative'
+
 ---
 ### Dataset Manager is your one stop shop for analyzing and understanding the underlying structure of your data.  
 

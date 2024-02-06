@@ -6,7 +6,7 @@ author: 'Narrative'
 ogImage: '/img/blog/2022/07/narrativeio-jobpost-01-4.png'
 image: '/img/blog/2022/07/narrativeio-jobpost-01-4.png'
 tags: ['success stories']
-authorSlug: 'narrative'
+
 ---
 Narrative allows IdenX to cherry-pick the data they need from hundreds of billions of raw data points and from multiple suppliers at once.
 ==========================================================================================================================================

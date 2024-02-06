@@ -2,7 +2,7 @@
 short_title: Audience Activation
 title: Activate your audiences in 15 minutes
 description: Easily onboard and deliver your data to activation platforms in minutes, so you can launch your campaign by EOD, not EOW.
-theme: 'purple-prodigy'
+layout: 'purple-prodigy'
 ---
 
 ::feature-callout{title="Give your engineers their time back" description="No-code software and AI assistants simplify the process, so anyone can onboard and activate data, even without technical know-how." prompt="Brainstorm ideas about how my software engineers could better spend their time than cleaning data to build marking audiences."}

@@ -2,7 +2,7 @@
 short_title: Geographic Intelligence
 title: Supercharge your Geographic Intelligence
 description: Leverage geofencing and advanced geographic queries to acquire precise and privacy-compliant geospatial data.
-theme: 'purple-prodigy'
+layout: 'purple-prodigy'
 ---
 
 ::feature-callout{title="Refine Geofencing Tactics" description="Leverage geographic intelligence to execute advanced strategies in areas ranging from competitive intelligence gathering to Digital Out-of-Home (DOOH) reach measurement." prompt="What are some best practices for using geospatial data in targeted advertising?"}

@@ -6,7 +6,7 @@ author: 'Narrative'
 ogImage: '/img/blog/2022/06/froyoo.png'
 image: '/img/blog/2022/06/froyoo.png'
 tags: ['acquire', 'success stories']
-authorSlug: 'narrative'
+
 ---
 Narrative makes it easy for companies like Froyoo to link disparate identifiers into one comprehensive profile and centralize their data acquisition strategy.
 

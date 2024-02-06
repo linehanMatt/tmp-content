@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/08/04-7.png'
 image: '/img/blog/2022/08/04-7.png'
 tags: ['solutions']
-authorSlug: 'brenna-dilger'
+
 ---
 As a Chief Financial Officer, you’re always looking for ways to improve the financial performance of your company.  One of the key components that impacts the financial performance of your company is the strategic use of internal and external data. By using data effectively, you can identify areas of opportunity, create cost-effective solutions, and maximize revenue for your company.
 

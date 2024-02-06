@@ -6,7 +6,7 @@ author: 'Narrative'
 ogImage: '/img/blog/2022/08/narrativeio-jobpost-01-6.png'
 image: '/img/blog/2022/08/narrativeio-jobpost-01-6.png'
 tags: ['announcement', 'narrative features']
-authorSlug: 'narrative'
+
 ---
 Buyers can now automatically create Custom Audiences in Facebook Ads Manager from data purchased with Narrative
 ===============================================================================================================

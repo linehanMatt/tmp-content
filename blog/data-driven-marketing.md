@@ -6,7 +6,6 @@ author: 'Sara Wilson'
 ogImage: '/img/blog/2021/05/3-elements-of-data-driven-marketing.png'
 image: '/img/blog/2021/05/3-elements-of-data-driven-marketing.png'
 tags: []
-authorSlug: 'sara-wilson'
 ---
 Now that brands and businesses across the world have migrated to the digital space, marketing has become data-centric. In some ways, marketing was always hinged on data. It’s just that today, there’s more access to a wider range of data online.
 
@@ -26,7 +25,7 @@ This use of data allows you to learn about what consumers want based on previous
 Enrich existing data
 --------------------
 
-You collect a lot of data. But it's inevitable that there will be some gaps in what you know about your customers. With [data enrichment](/data-enrichment), you can fill in the gaps to learn more about your customers. Data enrichment lets you connect data collected from other places to your first-party data to make your datasets richer, differentiated, and more comprehensive.
+You collect a lot of data. But it's inevitable that there will be some gaps in what you know about your customers. With [data enrichment](/blog/data-enrichment), you can fill in the gaps to learn more about your customers. Data enrichment lets you connect data collected from other places to your first-party data to make your datasets richer, differentiated, and more comprehensive.
 
 By accessing data from external sources in order to fill gaps in customer profiles, you can obtain higher-quality insights and create hyper-targeted marketing campaigns. It can even help you create a full picture of your audiences, including their buying behavior. In turn, this vastly improves conversion rates.
 
@@ -41,6 +40,6 @@ Today, professionals with [data analytics degrees](https://online.maryville.edu/
 
 Data analysts can look at patterns in web traffic to determine the best time to post new content. They can also monitor search terms and trends to better optimize a search advertising campaign. The data specialists you need should be able to help you [make tactical decisions](https://www.cio.com/article/3439818/what-is-a-data-analyst-a-key-role-for-data-driven-business-decisions.html) and answer ad hoc queries based on accurate insights.
 
-Due to heavy digitalization, marketing is now entwined with data analytics. Indeed, improving how you harness data can lead to better marketing strategies. Another point to consider is the method in which data is acquired. Particularly for marketing, [timeliness is essential](/speed-matters), so it’s important to get data smoothly and conveniently to be able to harness their full potential.
+Due to heavy digitalization, marketing is now entwined with data analytics. Indeed, improving how you harness data can lead to better marketing strategies. Another point to consider is the method in which data is acquired. Particularly for marketing, [timeliness is essential](/blog/speed-matters), so it’s important to get data smoothly and conveniently to be able to harness their full potential.
 
 Want to get a leg up on your data-driven marketing strategy? [Schedule a call with a member of our team today.](https://www.narrative.io/demo)

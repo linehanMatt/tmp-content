@@ -6,7 +6,7 @@ author: 'Alex Kuang'
 ogImage: '/img/blog/2019/05/intro-to-engineering.jpg'
 image: '/img/blog/2019/05/intro-to-engineering.jpg'
 tags: ['engineering']
-authorSlug: 'alex-kuang'
+
 ---
 ### A look inside Narrative's approach to technical feature development.
 

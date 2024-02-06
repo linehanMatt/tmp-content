@@ -26,11 +26,11 @@ Marketing teams are not to be left behind in this complex dance. The term ‘dat
 
 #### A Beacon of Hope?
 
-One of the potential solutions for product managers could be an integrated [data collaboration platform](/data-collaboration-platform) (DCP). Such a platform can streamline data pipelines and provide a single source of truth. A well-integrated DCP not only enables seamless collaboration and sharing but can also [automate the ETL processes](https://www.narrative.io/rosetta-stone). This means engineers can focus on more value-driven tasks, leaving the monotonous aspects to automation.
+One of the potential solutions for product managers could be an integrated data collaboration platform (DCP). Such a platform can streamline data pipelines and provide a single source of truth. A well-integrated DCP not only enables seamless collaboration and sharing but can also [automate the ETL processes](https://www.narrative.io/rosetta-stone). This means engineers can focus on more value-driven tasks, leaving the monotonous aspects to automation.
 
-Furthermore, through DCP, data scientists are empowered with tools that allow them to independently access and manipulate data. They can also [explore external data](/data-acquisition-costs) partnerships, which can sometimes satiate their need for more data. This means they would not have to rely on product managers for every dataset, and the product manager can have more time to focus on other pressing issues.
+Furthermore, through DCP, data scientists are empowered with tools that allow them to independently access and manipulate data. They can also explore external data partnerships, which can sometimes satiate their need for more data. This means they would not have to rely on product managers for every dataset, and the product manager can have more time to focus on other pressing issues.
 
-In addition, marketing teams can utilize DCP to access relevant data without overburdening the product managers. By being able to [interact with data directly](/building-a-data-catalog-with-standardized-data), marketing teams might develop a better understanding of data constraints and possibilities, thus aligning their expectations with reality.
+In addition, marketing teams can utilize DCP to access relevant data without overburdening the product managers. By being able to interact with data directly, marketing teams might develop a better understanding of data constraints and possibilities, thus aligning their expectations with reality.
 
 #### Training and Education
 

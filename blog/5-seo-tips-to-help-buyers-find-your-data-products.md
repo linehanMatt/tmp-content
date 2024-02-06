@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/01/Screen-Shot-2022-01-19-at-4.05.36-PM.png'
 image: '/img/blog/2022/01/Screen-Shot-2022-01-19-at-4.05.36-PM.png'
 tags: ['data shops', 'distribute']
-authorSlug: 'brenna-dilger'
+
 ---
 If you’ve started an ecommerce data business in order to capitalize on the growing data monetization market, you know that one of the most important steps in [selling your data products](https://blog.narrative.io/how-to-start-selling-your-data) is making your data products discoverable to buyers. In the ecommerce world, one of the best ways to greatly increase the probability that your products will be organically found by the right buyers is to implement good search engine optimization (SEO) practices.
 

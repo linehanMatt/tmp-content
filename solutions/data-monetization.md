@@ -2,7 +2,7 @@
 short_title: Data Monetization
 title: Turn data into a high margin revenue stream
 description: Narrative offers the tools to make it easy to get your data business off the ground in days.  Already selling data?  We can help super charge your existing data business.
-theme: 'innovative-horizons'
+layout: 'innovative-horizons'
 ---
 
 ::feature-callout{title="Spend Days not Years" description="Narrative's platform makes it so easy to sell data you'll be up and running within a week." prompt="How long does it take to start selling data?"}

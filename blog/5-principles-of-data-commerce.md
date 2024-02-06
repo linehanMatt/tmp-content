@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/01/Screen-Shot-2022-01-28-at-2.41.52-PM.png'
 image: '/img/blog/2022/01/Screen-Shot-2022-01-28-at-2.41.52-PM.png'
 tags: ['data economy']
-authorSlug: 'brenna-dilger'
+
 ---
 As data has become “the new oil” and we enter an increasingly data-centric landscape, organizations have become more aware of the need to use data to make decisions, grow as an enterprise, and increase revenue. Companies need to stay competitive by augmenting their internal data with external data and generating revenue through the sale of their own data assets.
 

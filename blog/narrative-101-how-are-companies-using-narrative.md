@@ -6,13 +6,13 @@ author: 'Narrative'
 ogImage: '/img/blog/2019/07/narrative-101-pt-2.png'
 image: '/img/blog/2019/07/narrative-101-pt-2.png'
 tags: ['insights']
-authorSlug: 'narrative'
+
 ---
 ### Learn how companies are leveraging Narrative to power their data strategies
 
 Welcome back to class, students.
 
-In our second installment of our "Narrative 101" series ([here's part one](/narrative-101-what-is-narrative)), Narrative founder and CEO Nick Jordan provides some real-life examples of how companies are leveraging Narrative's [Acquire](https://www.narrative.io/platform-acquire) and [Distribute](https://www.narrative.io/platform-distribute) platforms to power their data strategies.
+In our second installment of our "Narrative 101" series ([here's part one](/blog/narrative-101-what-is-narrative)), Narrative founder and CEO Nick Jordan provides some real-life examples of how companies are leveraging Narrative's [Acquire](https://www.narrative.io/platform-acquire) and [Distribute](https://www.narrative.io/platform-distribute) platforms to power their data strategies.
 
 Watch the video or read the interview below to learn:
 
@@ -39,7 +39,7 @@ Then, they continued to buy television data of people that had been exposed to t
 
 It was very holistic. From "I need to understand who my target is," to "I need to figure out if I can acquire those users." Then, "I want to go big and have a TV component, and measure if the whole thing worked." All powered by data through out platform.
 
-Learn more about [how to use Narrative Acquire to gather competitive intelligence data](/using-narrative-for-mobile-app-competitive-intelligence) and convert potential customers.
+Learn more about [how to use Narrative Acquire to gather competitive intelligence data](/blog/using-narrative-for-mobile-app-competitive-intelligence) and convert potential customers.
 
 ### How are companies using the Distribute platform?
 
@@ -51,7 +51,7 @@ We are definitely opening up new markets where, maybe historically, they haven't
 
 **Joe Apprendi:** Is there a unique data provider that you would say is opportunistic through Narrative that isn't generally available through other methods of acquiring it?
 
-**Nick Jordan:** We have a number of them. We recently talked about a [deal that we did with LiveIntent](/turnkey-onboarding-and-identity-from-narrative-and-liveintent), which has consumer identity data. Historically, they've actually sold their data through other channels, but decided that the middlemen that they were working with as part of those deals were taking the majority of the value chain that they wanted to keep for themselves.
+**Nick Jordan:** We have a number of them. We recently talked about a [deal that we did with LiveIntent](/blog/turnkey-onboarding-and-identity-from-narrative-and-liveintent), which has consumer identity data. Historically, they've actually sold their data through other channels, but decided that the middlemen that they were working with as part of those deals were taking the majority of the value chain that they wanted to keep for themselves.
 
 That's another way that people are really leveraging us on the sell side. Historically, if you've worked with a data broker, you pushed the data to the data broker, and then you get one check at the end of every month. But, presumably, that broker is then selling the data to hundreds or thousands of companies. If you're a seller, you'd much rather be getting a thousand checks, having direct relationships with all thousand of those companies. But, it's obviously operationally very hard to do. We really simplify that process so you can have a thousand deals without having a 200-person team to operate it.
 
@@ -63,4 +63,4 @@ That's another way that people are really leveraging us on the sell side. Histor
 
 * * *
 
-Want to learn more? [Read part one](/narrative-101-what-is-narrative) of Narrative 101 to learn what Narrative does and how it's changing the way data is transacted, and [part three](/narrative-101-the-future-of-narrative) to learn about Narrative's plans for the future.
+Want to learn more? [Read part one](/blog/narrative-101-what-is-narrative) of Narrative 101 to learn what Narrative does and how it's changing the way data is transacted, and [part three](/blog/narrative-101-the-future-of-narrative) to learn about Narrative's plans for the future.

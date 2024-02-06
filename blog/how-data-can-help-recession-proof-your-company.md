@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/09/04-9.png'
 image: '/img/blog/2022/09/04-9.png'
 tags: ['solutions']
-authorSlug: 'brenna-dilger'
+
 ---
 [Seventy-two percent of economists expect the next US recession will begin by the middle of next year](https://www.cnn.com/2022/08/22/economy/nabe-economists-recession-inflation/index.html), if it hasn't already started. The looming threat of a recession is making organizations understandably nervous. Businesses can suffer during a recession due to demand (and thus revenue) decreasing and uncertainty about the future increasing. But in the midst of all of this economic uncertainty, the data boom is still growing. 
 

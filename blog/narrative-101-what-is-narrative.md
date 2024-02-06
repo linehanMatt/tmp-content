@@ -6,7 +6,7 @@ author: 'Narrative'
 ogImage: '/img/blog/2019/07/narrative-101-pt-1.png'
 image: '/img/blog/2019/07/narrative-101-pt-1.png'
 tags: ['insights']
-authorSlug: 'narrative'
+
 ---
 ### Learn what Narrative does and how it's changing the way data is transacted
 
@@ -75,4 +75,4 @@ People are really thinking of the SaaS side of our offering as their platform of
 
 * * *
 
-Want to learn more? [Read part two](/narrative-101-how-are-companies-using-narrative) of Narrative 101 to discover how companies are using Narrative to power their data strategies, and [part three](/narrative-101-the-future-of-narrative) to learn about Narrative's plans for the future.
+Want to learn more? [Read part two](/blog/narrative-101-how-are-companies-using-narrative) of Narrative 101 to discover how companies are using Narrative to power their data strategies, and [part three](/blog/narrative-101-the-future-of-narrative) to learn about Narrative's plans for the future.

@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/05/dataproductdescription.png'
 image: '/img/blog/2022/05/dataproductdescription.png'
 tags: ['data shops']
-authorSlug: 'brenna-dilger'
+
 ---
 Data products have the potential to drive new business value and generate new revenue streams for your organization. However, creating your data product and listing it in a [data marketplace](https://www.narrative.io/data-marketplace) won’t be enough to ensure that your data products sell. Potential customers need to see why they should buy your product. That’s why the description is the key to success – it’s not just about what data your product contains, but how you sell it to your buyers. 
 

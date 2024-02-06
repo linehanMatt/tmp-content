@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/02/Screen-Shot-2022-02-17-at-2.32.18-PM.png'
 image: '/img/blog/2022/02/Screen-Shot-2022-02-17-at-2.32.18-PM.png'
 tags: ['solutions']
-authorSlug: 'brenna-dilger'
+
 ---
 Once you’ve begun building your target audience, you should always be expanding your customer base and finding more buyers that want your product or service. One of the most effective ways to generate and maintain valuable customer connections is to constantly learn from and use relevant consumer data. Here are three data-driven strategies that will help you reach more customers so you can keep growing at a competitive pace:
 

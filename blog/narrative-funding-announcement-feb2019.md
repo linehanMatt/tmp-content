@@ -6,7 +6,7 @@ author: 'Narrative'
 ogImage: '/img/blog/2019/02/022719---funding.jpg'
 image: '/img/blog/2019/02/022719---funding.jpg'
 tags: ['newsdesk']
-authorSlug: 'narrative'
+
 ---
 ### Establishes a new category centered on automating data transactions between buyers and sellers.
 

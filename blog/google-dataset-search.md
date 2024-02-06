@@ -3,10 +3,8 @@ title: 'Google makes it easier to find relevant datasets via search'
 description: 'Google''s latest update makes finding relevant datasets easier than ever. Learn how data providers can benefit and generate passive income with Data Shops.'
 publishDate: '2023-03-15 18:06:00'
 author: 'Zeke Sexauer'
-ogImage: 'undefined'
-image: 'undefined'
 tags: ['newsdesk']
-authorSlug: 'zeke-sexauer'
+
 ---
 [Google recently announced an update](https://ai.googleblog.com/2023/02/datasets-at-your-fingertips-in-google.html) that makes it easier for users to find relevant data via search. This is a significant development for data providers, as it provides a great opportunity to get their data in front of new, high-intent customers who are looking for the data they have.
 
@@ -45,7 +43,7 @@ With Data Shops, business users can manage the entire process without relying on
 
 Once your datasets are live, ongoing maintenance is minimal. Your Data Shop is self-serve, so customers can browse, purchase, and receive your datasets without you having to lift a finger. This means that you can generate passive income from the data you already collect.
 
-Want to learn more about Data Shops? Click here to find out how to [build a custom data web store with Data Shops](/data-shops).
+Want to learn more about Data Shops? Click here to find out how to [build a custom data web store with Data Shops](/blog/data-shops).
 
 Generate passive income from your data
 --------------------------------------

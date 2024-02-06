@@ -2,7 +2,7 @@
 short_title: Data Enrichment
 title: Deepen your customer understanding effortlessly
 description: Enrich customer profiles with targeted information to drive measurable outcomes.
-theme: 'innovative-horizons'
+layout: 'innovative-horizons'
 ---
 
 ::feature-callout{title="Precisely target with enriched profiles" description="Augment customer data with additional attributes for refined segmentation and highly personalized messaging." prompt="Tell me how I can better segment my customers with Narrative."}

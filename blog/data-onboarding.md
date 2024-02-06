@@ -6,7 +6,7 @@ author: 'Zeke Sexauer'
 ogImage: '/img/blog/2023/03/data-onboarding.png'
 image: '/img/blog/2023/03/data-onboarding.png'
 tags: []
-authorSlug: 'zeke-sexauer'
+
 ---
 Data onboarding is the process of transferring your offline or online customer data into an online platform in order to use it for targeted advertising, personalization, or analytics.
 
@@ -19,7 +19,7 @@ What is data onboarding?
 
 Data onboarding is the process of transferring your offline or online customer data into an online platform in order to use it for targeted advertising, personalization, or analytics. This is done by matching customer data to digital identifiers, pieces of information that can be used to identify a specific user online, such as an email address or a cookie.
 
-By onboarding your [first-party data](/first-party-second-party-third-party-data), you can create more personalized experiences for your customers and reach your target audience more effectively. By doing so, you can increase the chances of converting these prospects into paying customers, and ultimately drive more revenue for your business.
+By onboarding your [first-party data](/blog/first-party-second-party-third-party-data), you can create more personalized experiences for your customers and reach your target audience more effectively. By doing so, you can increase the chances of converting these prospects into paying customers, and ultimately drive more revenue for your business.
 
 Why is data onboarding important?
 ---------------------------------
