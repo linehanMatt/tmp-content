@@ -48,6 +48,6 @@ Buying and evaluating outside data sources is how cannabis industries are able t
 
 If your organization has valuable data that could contribute to the growing cannabis industry, you could be generating an entirely new stream of revenue for your company by selling that data to interested buyers. Narrative’s [Data Shops](https://www.narrative.io/data-shops) enables businesses to quickly and easily launch an ecommerce data business without spending significant time and resources. [MediaJel’s ecommerce data store](https://data.cnna.io/products), created with [Data Shops](https://www.narrative.io/data-shops), is one example of a data shop that has extensive cannabis consumer data available for purchase.
 
-If you’re looking to acquire data to help grow your cannabis company or target cannabis consumers, Narrative’s [Buyer Studio](https://www.narrative.io/buyer-studio) gives you advanced filtering options that make it easy to find and purchase the exact data you’re looking for. You can start getting the precise data you need with just a few clicks.
+If you’re looking to acquire data to help grow your cannabis company or target cannabis consumers, Narrative’s [Query Builder](/products/query-builder) gives you advanced filtering options that make it easy to find and purchase the exact data you’re looking for. You can start getting the precise data you need with just a few clicks.
 
 **Need cannabis consumer data today? Have data that cannabis companies are looking to buy?** [**Our experts are here to help you buy or sell!**](https://www.narrative.io/demo)

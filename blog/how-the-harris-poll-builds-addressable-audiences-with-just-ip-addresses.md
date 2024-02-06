@@ -31,6 +31,6 @@ Narrative has helped Harris Poll streamline their data acquisition, link their I
 
 Since Harris Poll began using Narrative for data their data acquisition needs, Narrative has shared 11,184,385 unique IDs on all residential IP addresses. For every unique IP address Harris has shared with Narrative, we have matched an average of 18.5 unique IDs to it. Additionally, Narrative’s average residential IP match rate of 65% has helped Harris Poll ensure accuracy and eliminated the need to seek out and negotiate with other data providers. 
 
-[Buyer Studio](https://www.narrative.io/buyer-studio) allows Harris Poll to systematically get all of the enriched data that they need without lengthy negotiations or middle-men. Through the automated tools that Buyer Studio offers, organizations like Harris Poll can quickly and easily enrich their data to glean better insights and better assist their clients at rapid speeds without sacrificing quality or integrity. 
+[Query Builder](/products/query-builder) allows Harris Poll to systematically get all of the enriched data that they need without lengthy negotiations or middle-men. Through the automated tools that Buyer Studio offers, organizations like Harris Poll can quickly and easily enrich their data to glean better insights and better assist their clients at rapid speeds without sacrificing quality or integrity. 
 
 **Turn around your use case in less than 24 hours with Buyer Studio.** [**Our experts will help you get started!**](https://www.narrative.io/demo)

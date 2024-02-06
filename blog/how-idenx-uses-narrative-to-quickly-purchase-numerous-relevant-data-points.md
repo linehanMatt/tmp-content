@@ -21,7 +21,7 @@ However, finding the range of quality data that they needed was proving tedious,
 **The Solution** 
 =================
 
-Narrative’s [Buyer Studio](https://www.narrative.io/buyer-studio) and [centralized data marketplace](https://www.narrative.io/data-marketplace) allows IdenX to quickly and easily purchase numerous data points relevant to their specific customer needs. International coverage provides them the enhanced ability to service a range of clients. They’re able to pick and choose the exact attributes that they want from multiple sources and have it delivered to them all at once. There are no negotiations or contracts required and Narrative takes care of all the processing, so their data engineers can focus on more important tasks.
+Narrative’s [Query Builder](/products/query-builder) and [centralized data marketplace](https://www.narrative.io/data-marketplace) allows IdenX to quickly and easily purchase numerous data points relevant to their specific customer needs. International coverage provides them the enhanced ability to service a range of clients. They’re able to pick and choose the exact attributes that they want from multiple sources and have it delivered to them all at once. There are no negotiations or contracts required and Narrative takes care of all the processing, so their data engineers can focus on more important tasks.
 
 Narrative Forecasting also lets the IdenX team have a better understanding of available data before making purchase decisions. They’re able to see estimated row counts and costs before they choose to ingest any particular data, so they always stay on budget and make the best informed decisions.
 

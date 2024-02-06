@@ -53,7 +53,7 @@ Geofencing data can also be used to plan for store locations, conference locatio
 
 **Get geofence data with Buyer Studio**
 
-Using Narrative’s self-service app [Buyer Studio](https://www.narrative.io/buyer-studio), it’s fast and easy to buy the exact [geofence data](https://blog.narrative.io/get-unlimited-geofenced-data-in-your-next-data-order) that you need. Simply determine the geographic regions that best serve your use case and set completely customized geofences in your data order. There is no limit to the amount of geofences that you can create for your data purchases, giving you the freedom to explore and analyze as many fine-tuned regions as you need to.
+Using Narrative’s self-service app [Query Builder](/products/query-builder), it’s fast and easy to buy the exact [geofence data](https://blog.narrative.io/get-unlimited-geofenced-data-in-your-next-data-order) that you need. Simply determine the geographic regions that best serve your use case and set completely customized geofences in your data order. There is no limit to the amount of geofences that you can create for your data purchases, giving you the freedom to explore and analyze as many fine-tuned regions as you need to.
 
 Buyer Studio is cutting-edge software that makes it possible to filter and buy customized datasets in [as little as one minute](https://www.youtube.com/watch?v=LH0AYeuqutI). You won’t need data engineers or legal teams because everything is automated and regulated for you. It’s as easy and pointing and clicking through an array of datasets from multiple data providers. You can ingest all of the data you need from multiple providers at once, with your custom data package delivered to your preferred endpoint within hours.
 

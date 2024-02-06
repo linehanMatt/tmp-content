@@ -54,7 +54,7 @@ The tools provided by a data collaboration platform help you automate data disco
 **Use a data collaboration platform to discover and purchase the exact data you need**
 ======================================================================================
 
-Now that you’ve decided what kind of data you need and how you are going to get it, you can use your data collaboration platform tools to purchase the exact data points you need. Whether you need a bulk of data of all types or just a very specific type of data, you can find and purchase your precise specifications using the [Buyer Studio](https://www.narrative.io/buyer-studio).
+Now that you’ve decided what kind of data you need and how you are going to get it, you can use your data collaboration platform tools to purchase the exact data points you need. Whether you need a bulk of data of all types or just a very specific type of data, you can find and purchase your precise specifications using the [Query Builder](/products/query-builder).
 
  With access to trillions of data points from multiple data providers at once, you’ll be able to select the exact types of data that you’d like to acquire, including but not limited to geolocation, demographic, purchase, identity, and device data. You can use precision filtering options to include only the exact observations you need, opt into a deduplication feature to ensure you never pay for the same data point more than once, and set a custom budget that works for you.
 

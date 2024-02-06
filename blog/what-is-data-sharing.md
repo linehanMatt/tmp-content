@@ -52,7 +52,7 @@ New software like [Rosetta Stone](https://www.youtube.com/watch?v=N8v_1vYBbvA) m
 
 Other technologies available through data collaboration platforms make it possible to organize data so that it is easily discoverable. Thanks to apps like [Data Shops](https://www.narrative.io/data-shops), departments can organize their data into “products” and put them into “shops,” making it easy to browse through and find datasets in a familiar ecommerce experience.
 
-Other apps, like [Buyer Studio](https://www.narrative.io/buyer-studio), use a simple step-by-step process to find and acquire only the precise data points that match your specific needs, based on your custom filters and parameters. These types of software make it simple and straightforward to share only relevant and actionable data, as opposed to having to comb through tons of unusable data.
+Other apps, like [Query Builder](/products/query-builder), use a simple step-by-step process to find and acquire only the precise data points that match your specific needs, based on your custom filters and parameters. These types of software make it simple and straightforward to share only relevant and actionable data, as opposed to having to comb through tons of unusable data.
 
 Data collaboration platforms are easy to use, highly flexible, and also safe and secure. Organizations can set their preferred access limits, allowing only members of their organization to be able to access and transfer data between each other, creating a safe and easily navigable data ecosystem. Once data sharing is made this simple and secure, it will become the norm and data will flow seamlessly across your organization.
 

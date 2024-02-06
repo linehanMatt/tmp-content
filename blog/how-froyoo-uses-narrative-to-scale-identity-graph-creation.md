@@ -22,9 +22,9 @@ This outdated process of acquiring data was time-consuming, expensive, and labor
 **The Solution** 
 =================
 
-In order to centralize their data acquisition strategy and have access to multiple suppliers all under one contract, Froyoo decided to leverage Narrative’s [Buyer Studio](https://www.narrative.io/buyer-studio). This solution gave them the ability to find and purchase the exact MENA data they needed from multiple providers in a fraction of the time it had taken them previously.  
+In order to centralize their data acquisition strategy and have access to multiple suppliers all under one contract, Froyoo decided to leverage Narrative’s [Query Builder](/products/query-builder). This solution gave them the ability to find and purchase the exact MENA data they needed from multiple providers in a fraction of the time it had taken them previously.  
 
-Using Narrative’s [Buyer Studio](https://www.narrative.io/buyer-studio), Froyoo was able to access trillions of rows of raw data from numerous providers and customize their data delivery to be only cross-device data from the Middle East and Africa. They were able to create a custom monthly data subscription that delivers their MENA identity data to them on their preferred schedule, at their preferred budget, and to their preferred endpoint.
+Using Narrative’s [Query Builder](/products/query-builder), Froyoo was able to access trillions of rows of raw data from numerous providers and customize their data delivery to be only cross-device data from the Middle East and Africa. They were able to create a custom monthly data subscription that delivers their MENA identity data to them on their preferred schedule, at their preferred budget, and to their preferred endpoint.
 
 **The Results** 
 ================
