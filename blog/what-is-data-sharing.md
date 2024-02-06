@@ -63,4 +63,4 @@ Data collaboration platforms are easy to use, highly flexible, and also safe and
 
 All cleaning and standardizing of data is taken care of on the backend, so that your data engineers don’t need to waste their time, and the latest technologies make it easy to simply point and click your way to the data you need. Narrative’s custom filters, automatic deduplication, and user-friendly interface make acquiring data as seamless and precise as possible, so that anyone within your organization can access the data they need at the drop of a hat.
 
-**Want to set up a data collaboration ecosystem for your organization?** [**Contact our team of experts to get started!**](https://www.narrative.io/demo)
+**Want to set up a data collaboration ecosystem for your organization?** [**Contact our team of experts to get started!**](/contact)

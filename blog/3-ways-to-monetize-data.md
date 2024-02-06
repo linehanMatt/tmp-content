@@ -52,4 +52,4 @@ Anyone can easily create a fully functional data business in as little as a day 
 
 With Narrative’s data collaboration platform, you can buy data that will help you gain better insights and cut costs, as well as sell data to generate a new revenue stream for your organization. Narrative provides you the data monetization tools that you need in order to streamline the data selling process and start generating revenue.
 
-Want to learn more about launching your data business? Get started today by [speaking to one of our experts!](https://www.narrative.io/demo)
+Want to learn more about launching your data business? Get started today by [speaking to one of our experts!](/contact)

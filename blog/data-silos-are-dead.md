@@ -46,4 +46,4 @@ Our platform ensures that this power doesn't remain in the hands of a few data s
 
 The future is interoperable. It's a future where data flows freely and securely, breaking down barriers and building possibilities. It's time to embrace this future for efficiency, cost savings, speed, and, most importantly, for the unprecedented potential it unlocks across every industry.
 
-[Is your data interoperable? It can be with Narrative.](https://www.narrative.io/demo)
+[Is your data interoperable? It can be with Narrative.](/contact)

@@ -42,4 +42,4 @@ You don’t know what you don’t know. By revealing new, and perhaps unconventi
 
 Data Discovery Assistant is available to all Narrative Acquire Standard and Enterprise customers. [Try it out today!](https://data.narrative.io/#/discover/assistant)
 
-If you’d like to learn more about how Narrative’s automated data discovery and acquisition tools can help you take control of your data strategy, reach out to your partner success manager or [get in touch here](https://www.narrative.io/get-started).
+If you’d like to learn more about how Narrative’s automated data discovery and acquisition tools can help you take control of your data strategy, reach out to your partner success manager or [get in touch here](/contact).

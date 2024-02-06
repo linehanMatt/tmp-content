@@ -65,4 +65,4 @@ Behind the scenes, Narrative is compiling your NQL statement down into the appro
 
 To learn more, reach out to your sales rep to schedule a demo! 
 
-[Start using Narrative's full data collaboration platform.](https://www.narrative.io/demo)
+[Start using Narrative's full data collaboration platform.](/contact)

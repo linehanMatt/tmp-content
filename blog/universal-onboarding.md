@@ -65,7 +65,7 @@ We listened to our customers and noted what their biggest pain points were regar
 
 Narrative's philosophy is that what is good for our customers is good for us. Universal Onboarding is the next step in us executing against that philosophy.
 
-**[Universal Onboarding](https://app.narrative.io/app/universal-onboarding) is free to use and available today on the Narrative data collaboration platform. If you’d like to learn more about how Universal Onboarding works, [visit the knowledge base](https://kb.narrative.io/universal-onboarding) or [schedule a call with a member of our sales team](https://www.narrative.io/demo).  
+**[Universal Onboarding](https://app.narrative.io/app/universal-onboarding) is free to use and available today on the Narrative data collaboration platform. If you’d like to learn more about how Universal Onboarding works, [visit the knowledge base](https://kb.narrative.io/universal-onboarding) or [schedule a call with a member of our sales team](/contact).  
 **
 
 **{{cta('a24e8ba5-deec-44ff-a3e2-73d480f5ec8f')}}**

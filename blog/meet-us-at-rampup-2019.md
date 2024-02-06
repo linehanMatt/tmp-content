@@ -23,4 +23,4 @@ If you fall into one of the following categories we should setup some time to ta
 * Executives in charge of data monetization strategies
 * Folks who understand how important a cogent data strategy is, but are frustrated by how hard it can be to execute on.
 
-If you fall into one of those categories or if there are some that you think we missed schedule some time with the Narrative team by clicking [here](https://narrative.io/get-started).  
+If you fall into one of those categories or if there are some that you think we missed schedule some time with the Narrative team by clicking [here](/contact).  

@@ -64,4 +64,4 @@ With Rosetta, Narrative redefines the boundaries of data collaboration, setting 
   
 [Try Rosetta now.](https://rosetta.st/)  
   
-[Start using Narrative's full data collaboration platform.](https://www.narrative.io/demo)
+[Start using Narrative's full data collaboration platform.](/contact)

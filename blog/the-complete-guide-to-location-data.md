@@ -84,4 +84,4 @@ Does your organization collect and store location data? No matter what type of l
 
 With Data Shops, Narrative makes it easy for you to quickly start packaging and selling your location data without spending significant time and resources.
 
-**Want to learn more about buying or selling location data?** [**Speak to one of our experts today.**](https://www.narrative.io/demo)
+**Want to learn more about buying or selling location data?** [**Speak to one of our experts today.**](/contact)

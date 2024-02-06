@@ -87,4 +87,4 @@ A standardized data catalog is essential for organizations looking to maximize t
 * Collaborate with external systems & partners
 * Monetize some or all of your catalog publicly or privately
 
-If you’d like to learn more, please [sign up for free](https://app.narrative.io/), or [book a demo](https://www.narrative.io/demo?hsCtaTracking=a1ee19c7-1896-4e56-849d-4d0f4cff4e0f%7C6e4b6d5a-4111-415e-93ce-b814da611e8a).
+If you’d like to learn more, please [sign up for free](https://app.narrative.io/), or [book a demo](/contact?hsCtaTracking=a1ee19c7-1896-4e56-849d-4d0f4cff4e0f%7C6e4b6d5a-4111-415e-93ce-b814da611e8a).

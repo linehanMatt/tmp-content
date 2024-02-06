@@ -59,4 +59,4 @@ If you combine all of the data we discussed above plus any other relevant compet
 
 The easiest, fastest, and most effective way to get access to competitor data that will boost your business is to use a [data commerce](https://blog.narrative.io/5-principles-of-data-commerce) platform. [Narrative’s data commerce platform](https://www.narrative.io/) gives organizations access to multiple data sources and multiple data types all at once. By simplifying and automating the most time- and labor-intensive aspects of data acquisition, you’ll be able to find and buy the exact data points you need from the data providers you select. And you’ll be able to browse and cherry-pick the data you want with just a few clicks. No negotiations needed and no technical expertise required.
 
-Want to learn more? [Our experts will get you started.](https://www.narrative.io/demo)
+Want to learn more? [Our experts will get you started.](/contact)

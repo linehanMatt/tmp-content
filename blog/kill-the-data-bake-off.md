@@ -70,4 +70,4 @@ Do today’s methods of transacting data actually work for you?
 
 Think creatively about how you can approach data acquisition to get away from the win or lose, all-or-nothing approaches that dominate the market. There’s a way to get the data assets you need without having to walk away from valuable, useful data that can help you achieve your goals. Don’t let the status quo dictate future data acquisition and monetization efforts.
 
-**Are you ready for a better way to buy and sell data? [Request a demo today.](https://www.narrative.io/get-started)**
+**Are you ready for a better way to buy and sell data? [Request a demo today.](/contact)**

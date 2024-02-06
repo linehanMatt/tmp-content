@@ -113,4 +113,4 @@ As a retailer, you are in the best position to begin generating new revenue stre
 
 Narrative provides the tools and support you need to get started with monetizing your valuable first-party data. Using an easy, point-and-click interface, you’ll be able to ingest your data in its original format, slice and dice your data into custom products, and deliver that data to your buyers seamlessly. It’s fast, easy, and secure.
 
-**Learn how you can start generating revenue from your first-party data.** [**Get in touch with our experts today**](https://www.narrative.io/demo)**.**
+**Learn how you can start generating revenue from your first-party data.** [**Get in touch with our experts today**](/contact)**.**

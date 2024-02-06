@@ -42,4 +42,4 @@ Data analysts can look at patterns in web traffic to determine the best time to 
 
 Due to heavy digitalization, marketing is now entwined with data analytics. Indeed, improving how you harness data can lead to better marketing strategies. Another point to consider is the method in which data is acquired. Particularly for marketing, [timeliness is essential](/blog/speed-matters), so it’s important to get data smoothly and conveniently to be able to harness their full potential.
 
-Want to get a leg up on your data-driven marketing strategy? [Schedule a call with a member of our team today.](https://www.narrative.io/demo)
+Want to get a leg up on your data-driven marketing strategy? [Schedule a call with a member of our team today.](/contact)

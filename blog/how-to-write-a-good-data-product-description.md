@@ -114,5 +114,5 @@ This dataset includes information on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. All of th
 
 If you find this data product helpful, you might also be interested in this data product. 
 
-Want help creating custom data products that will drive new revenue? [Contact our experts today to get started!](https://www.narrative.io/demo)
+Want help creating custom data products that will drive new revenue? [Contact our experts today to get started!](/contact)
 ===============================================================================================================================================

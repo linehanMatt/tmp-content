@@ -92,7 +92,7 @@ In short, it’s finally time for data to transform your business the way it was
 It’s up to you how your business looks to monetize or acquire data. At Narrative, we don’t buy or sell data, nor do we intend to. Instead, our goal is to power the new data economy.
 
 [Get in touch! We’d love to show you the impact Narrative can have on your business.  
-](https://narrative.io/get-started/)
+](/contact/)
 
 **By Nick Jordan  
 **CEO, Narrative

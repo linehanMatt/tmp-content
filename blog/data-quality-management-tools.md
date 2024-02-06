@@ -78,4 +78,4 @@ Our goal from the start has been to create an open and transparent ecosystem. We
 
 There isn’t a single solution for avoiding data quality problems. We feel that if data practitioners are well informed, they can choose the tools that are right for their specific needs.
 
-**Interested in learning more about how Narrative enables high-quality data acquisition? [Schedule a chat with a member of our team.](https://www.narrative.io/get-started)**
+**Interested in learning more about how Narrative enables high-quality data acquisition? [Schedule a chat with a member of our team.](/contact)**

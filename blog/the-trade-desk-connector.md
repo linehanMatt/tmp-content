@@ -64,4 +64,4 @@ Enter the Partner IDs shared with you by your advertiser partners at The Trade D
 
 Once you’ve completed all of these steps and clicked “Activate,” your data will automatically be matched to UID2 identifiers and delivered to The Trade Desk in 15 minutes or less.
 
-**To learn more about how to use Narrative and The Trade Desk to monetize and activate your first-party data, [speak with our experts](https://www.narrative.io/demo).**
+**To learn more about how to use Narrative and The Trade Desk to monetize and activate your first-party data, [speak with our experts](/contact).**

@@ -58,4 +58,4 @@ With [Narrative's data collaboration platform](https://www.narrative.io/), you c
 3.  Use advanced filtering options and automatic deduplication to make sure your data is just right.
 4.  Send your enrichment data to your preferred endpoint.
 
-**Get the competitive edge you need.** [**Speak to one of our experts today.**](https://www.narrative.io/demo)
+**Get the competitive edge you need.** [**Speak to one of our experts today.**](/contact)

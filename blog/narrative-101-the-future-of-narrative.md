@@ -72,7 +72,7 @@ We've coined this term the REV factor: Repeatable, Evergreen, Viral. Repeatable 
 
 My initial response to them was, "Data is a hard place to have a winner-take-all model because you can sell the same data a thousand times in a thousand different places. Exclusivity is hard to get with data marketplaces." That's actually why we feel the SaaS platform that sits around it is so important, because as people are using us as their platform of record, we already have buyers that get approached by sellers and they say, "Hey, we'd love to sell you some data." And the buyer says, "Great, but you have to do it through Narrative because they make my life easy." We're starting to see some sellers that are saying, "Okay, we're just going to push all of our opportunities through you, because you make my life easy." I do think it becomes a winner-takes-all market if you have the stickiness of the SaaS and then the network effects of the marketplace.
 
-**If you want to learn how Narrative's solutions can help your company simplify their data acquisition and monetization strategy, [send us a message](https://www.narrative.io/get-started)—we'd love to chat.**
+**If you want to learn how Narrative's solutions can help your company simplify their data acquisition and monetization strategy, [send us a message](/contact)—we'd love to chat.**
 
 * * *
 

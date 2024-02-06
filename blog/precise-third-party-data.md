@@ -93,4 +93,4 @@ Using the [Narrative Acquire](https://www.narrative.io/platform-acquire) platfor
 
 In the end, data is going to be an important component of any brand’s strategy going forward. It’s our hope that they start to look at more precise data sets so they can encode a higher resolution composite view of their customers.
 
-**Interested in learning how Narrative Acquire can help you bring focus to who your customers are? [Request a demo today.](https://www.narrative.io/get-started)**
+**Interested in learning how Narrative Acquire can help you bring focus to who your customers are? [Request a demo today.](/contact)**

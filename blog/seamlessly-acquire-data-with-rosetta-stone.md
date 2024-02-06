@@ -50,4 +50,4 @@ As a data seller, you also won’t need to worry about transforming your data to
 
 Whether you are looking to [buy data](https://blog.narrative.io/how-to-find-and-buy-the-data-you-need-to-succeed) to improve internal operations and strategies, [sell data](https://blog.narrative.io/how-to-start-selling-your-data) to generate a brand new revenue stream, or [share data internally](https://blog.narrative.io/what-is-data-sharing) across your organization, Narrative’s Rosetta Stone makes fast and seamless data transference a reality.
 
-**Narrative's Rosetta Stone makes buying and selling data easier than ever.** [**Our experts can help you get started!**](https://www.narrative.io/demo)
+**Narrative's Rosetta Stone makes buying and selling data easier than ever.** [**Our experts can help you get started!**](/contact)

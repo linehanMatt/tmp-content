@@ -109,4 +109,4 @@ This quick tutorial takes you through the steps to purchase data in Narrative's 
 
 {% video\_player "embed\_player" overrideable=False, type='hsvideo2', hide\_playlist=True, viral\_sharing=False, embed\_button=False, autoplay=False, hidden\_controls=False, loop=False, muted=False, full\_width=False, width='500', height='281', player\_id='77031252867', style='' %}
 
-[**Get the data you need to skyrocket growth today! Our experts are here to help.**](https://www.narrative.io/demo)
+[**Get the data you need to skyrocket growth today! Our experts are here to help.**](/contact)

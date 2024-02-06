@@ -145,5 +145,5 @@ Slice and dice your first-party data into custom data products for your partners
 
 Once data is selected for acquisition, it is automatically delivered to the acquirer at their preferred endpoint within hours.
 
-It’s time to level up your data collaboration. [Speak with our experts to get started](https://www.narrative.io/demo)
+It’s time to level up your data collaboration. [Speak with our experts to get started](/contact)
 ----------------------------------------------------------------------------------------------------------------------

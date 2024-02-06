@@ -452,4 +452,4 @@ You can also notify your customers with an email invite that you have set up you
 
 Once your data has been reviewed, organized into marketable products, and displayed in an attractive ecommerce shop front, you can sit back and relax. When a buyer makes a purchase from your data shop, Narrative will deliver the purchased data automatically to the buyer, so you can simply check in on your data business at your leisure without having to monitor purchases. 
 
-**Have questions or need more guidance on getting your custom** [**Data Shop**](https://www.narrative.io/data-shops) **up and running?** [**Schedule a consultation with one of our experts**](https://www.narrative.io/demo) **today!**
+**Have questions or need more guidance on getting your custom** [**Data Shop**](https://www.narrative.io/data-shops) **up and running?** [**Schedule a consultation with one of our experts**](/contact) **today!**

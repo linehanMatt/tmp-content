@@ -8,7 +8,7 @@ image: '/img/blog/2019/02/022719---funding.jpg'
 tags: ['newsdesk']
 
 ---
-### Establishes a new category centered on automating data transactions between buyers and sellers.
+### Establishes a new category centered on automating data transactions between buyers and sellers
 
 \[NARRATIVE IS REINVENTING DATA ACQUISITION WITH THE LAUNCH OF A NEW AUTOMATED DIGITAL MARKETPLACE\]
 
@@ -22,23 +22,20 @@ The big idea: More than a decade ago, advertising technology made it possible fo
 
 Narrative promises to bring the same kind of transformation to data. Customers can use Narrative’s software to acquire the precise data they need automatically by tapping into a well of data created by many sellers. Instead of using pre-packaged data segments, Narrative offers data specificity at scale.
 
-#### How Narrative works:  
+#### How Narrative works  
   
+* Narrative is an automated software-driven marketplace where buyers and sellers can transact on data
+* For buyers, Narrative’s product is designed to help make it simple to acquire the specific data they need to help expand their customer base and grow their businesses.
+* Buyers can directly access data from all sellers via the Narrative platform, or source direct relationships using Narrative’s software as infrastructure.
+* For sellers, Narrative’s tools help them package and transport data in a way that this is useful and actionable.
+* It’s fast, simple and transparent. Buyers and sellers can engage in direct relationships with one another.
+* It’s built with privacy and data security at its core.
 
-*   Narrative is an automated software-driven marketplace where buyers and sellers can transact on data
-*   For buyers, Narrative’s product is designed to help make it simple to acquire the specific data they need to help expand their customer base and grow their businesses.
-*   Buyers can directly access data from all sellers via the Narrative platform, or source direct relationships using Narrative’s software as infrastructure.
-*   For sellers, Narrative’s tools help them package and transport data in a way that this is useful and actionable.
-*   It’s fast, simple and transparent. Buyers and sellers can engage in direct relationships with one another.
-*   It’s built with privacy and data security at its core.
+#### Why this matters
 
- 
-
-#### Why this matters:
-
-*   Nearly every business is seeking more information on its customers -and potential customers. Moreover, even as more companies collect data directly, most have substantial data needs that go unfulfilled.
-*   Fundamentally, incomplete data costs businesses millions, if not billions in potential growth.
-*   Similarly, companies that amass valuable data and don’t use it are missing out on significant untapped revenue
+* Nearly every business is seeking more information on its customers -and potential customers. Moreover, even as more companies collect data directly, most have substantial data needs that go unfulfilled.
+* Fundamentally, incomplete data costs businesses millions, if not billions in potential growth.
+* Similarly, companies that amass valuable data and don’t use it are missing out on significant untapped revenue
 
 Narrative has just raised $3 million to help build out its product and team. Investors include Glasswing Ventures, XSeed Capital, Tuhaye Venture Partners, and Revel Partners. The company has raised a total of $5.5 million to date
 

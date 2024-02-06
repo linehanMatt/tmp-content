@@ -62,5 +62,5 @@ One of our foundations at Narrative is our commitment to [always keep data raw](
 **Narrative makes it easy to buy and sell raw data.** 
 ======================================================
 
-[**Schedule some time with our experts**](https://www.narrative.io/demo) **to learn more!**
+[**Schedule some time with our experts**](/contact) **to learn more!**
 ===========================================================================================

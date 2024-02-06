@@ -56,4 +56,4 @@ In this transformative landscape, platforms like Narrative are playing a crucial
 
 The future of finance and fintech lies in the innovative use of interoperable data augmented by AI and user-friendly technologies. As the industry continues to evolve, embracing these advancements is not just a strategic move but a necessity for those looking to stay at the forefront of the financial services sector.
 
-[Is your data interoperable? It can be with Narrative.](https://www.narrative.io/demo)
+[Is your data interoperable? It can be with Narrative.](/contact)

@@ -86,4 +86,4 @@ Once you've onboarded your customer records, the next step is connecting all of 
 
 Once you’ve received your newly enriched customer profiles, you’ll want to activate your data. Connect digital identity profiles to ad platforms, media partners, analytics tools or a combination of endpoints to suit business needs. When an ID graph is already connected to activation channels, customers and consumers can be quickly and continuously recognized.
 
-**Interested in learning more about how Narrative can help power your identity resolution strategy? [Request a demo today.](https://www.narrative.io/get-started)**
+**Interested in learning more about how Narrative can help power your identity resolution strategy? [Request a demo today.](/contact)**

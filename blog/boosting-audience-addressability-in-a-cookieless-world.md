@@ -49,4 +49,4 @@ Build an omnichannel view of your customers with help from [Narrative’s transp
 
 Just upload your customer records into [Narrative’s data collaboration platform](https://www.narrative.io/data-marketplace) and you’ll be able to match them against hundreds of providers in real time. Our built-in PII hasher will securely encrypt your private customer data before you upload to ensure privacy compliance. Then, after matching your information to relevant information across channels, your newly enriched customer profiles will be delivered securely to you. Choose where your matched results are sent to, and only pay for the IDs that match. You’ll also be able to set your preferred spend with custom budget controls. 
 
-**Boost your audience addressability in just a few clicks.** [**Our experts would love to help**](https://www.narrative.io/demo)**.**
+**Boost your audience addressability in just a few clicks.** [**Our experts would love to help**](/contact)**.**

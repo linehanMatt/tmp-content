@@ -32,4 +32,4 @@ As we envision the future of retail, it's evident that data interoperability is 
   
 The retail industry is on the cusp of a data-driven revolution, with interoperability as its cornerstone. By embracing easy-to-use software and AI assistants, retailers can unlock the full potential of their data, propelling them toward unprecedented innovation and growth. At Narrative, we're committed to powering this transformation, making data collaboration accessible, efficient, and universal. Join us in shaping the future of retail, where data knows no bounds and possibilities are limitless.
 
-[Is your data interoperable? It can be with Narrative.](https://www.narrative.io/demo)
+[Is your data interoperable? It can be with Narrative.](/contact)

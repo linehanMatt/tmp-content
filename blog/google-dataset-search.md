@@ -50,4 +50,4 @@ Generate passive income from your data
 
 It's never been easier to generate passive income from the data you already collect. With Data Shops, you can take advantage of Google's latest update and reach new customers who are looking for the data you have to offer.
 
-To get started with Data Shops, [schedule a chat](https://www.narrative.io/demo) with a member of our team.
+To get started with Data Shops, [schedule a chat](/contact) with a member of our team.

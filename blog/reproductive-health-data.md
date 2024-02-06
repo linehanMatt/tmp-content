@@ -3,7 +3,7 @@ title: 'Reproductive health data on the Narrative data collaboration platform'
 description: 'In light of changes to policies surrounding women’s reproductive rights, Narrative is removing menstruation and pregnancy tracking app install data from the Marketplace. '
 publishDate: '2022-05-17 18:59:44'
 author: 'Nick Jordan'
-tags: []
+tags: ['privacy', 'reproductive-health']
 authorSlug: 'nick-jordan'
 ---
 In light of potential forthcoming changes to policies surrounding women’s reproductive rights, Narrative has updated our policy to remove menstruation and pregnancy tracking app install data from the Narrative Data Streams Marketplace in order to prevent the potential misuse of such data.

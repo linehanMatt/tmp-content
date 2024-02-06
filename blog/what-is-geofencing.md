@@ -57,4 +57,4 @@ Using Narrative’s self-service app [Query Builder](/products/query-builder), i
 
 Buyer Studio is cutting-edge software that makes it possible to filter and buy customized datasets in [as little as one minute](https://www.youtube.com/watch?v=LH0AYeuqutI). You won’t need data engineers or legal teams because everything is automated and regulated for you. It’s as easy and pointing and clicking through an array of datasets from multiple data providers. You can ingest all of the data you need from multiple providers at once, with your custom data package delivered to your preferred endpoint within hours.
 
-**Find the custom geofence data you need today.** [**Our team is here to help you get started.**](https://www.narrative.io/demo)
+**Find the custom geofence data you need today.** [**Our team is here to help you get started.**](/contact)

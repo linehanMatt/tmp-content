@@ -52,4 +52,4 @@ As we venture into this new era, platforms like Narrative are not just tools but
   
 As we embrace the profound impact of data interoperability and collaboration platforms, the manufacturing industry stands on the brink of a new dawn that promises greater efficiency, innovation, and growth. Narrative is at the forefront of this change, guiding manufacturers towards a future where data empowers, rather than encumbers, their journey to excellence.
 
-[Is your data interoperable? It can be with Narrative.](https://www.narrative.io/demo)
+[Is your data interoperable? It can be with Narrative.](/contact)

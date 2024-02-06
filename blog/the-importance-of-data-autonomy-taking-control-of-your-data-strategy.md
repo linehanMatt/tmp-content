@@ -61,4 +61,4 @@ Narrative also allows you to negotiate private data deals. You’ll be able to c
 
 Narrative’s new [forecasting solution](https://blog.narrative.io/data-stream-row-counts-cost-estimates-and-dataset-statistics-are-now-available) also allows you to make decisions based on real-time data availability. As a seller, you can update availability by using custom filters and by setting your own price. As a buyer, you can see the exact availability before you buy. For both buyers and sellers, the ability to forecast maximizes the value of your data strategy.
 
-**Take control of your data strategy today.** [**Get in contact with our experts**](https://www.narrative.io/demo)**.**
+**Take control of your data strategy today.** [**Get in contact with our experts**](/contact)**.**

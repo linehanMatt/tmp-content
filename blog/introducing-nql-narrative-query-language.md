@@ -46,4 +46,4 @@ Rosetta offers a plethora of benefits. Here are several that stand out:
 
 By leveraging Rosetta Stone Attributes, we can streamline complex queries and make data collaboration simple and efficient.
 
-[Start using Narrative's full data collaboration platform.](https://www.narrative.io/demo)
+[Start using Narrative's full data collaboration platform.](/contact)

@@ -42,4 +42,4 @@ The partnership between Narrative I/O, Snowflake, and The Trade Desk is more tha
   
 As we stand on the cusp of this new era, businesses can look forward to a future where data is not just a tool but a strategic asset, empowering them to craft compelling, data-driven narratives that resonate with their audience and drive success. Welcome to the future of digital advertising; welcome to the age of Narrative I/O, Snowflake, and The Trade Desk.  
 
-[Transform Your Media Strategy NOW.](https://www.narrative.io/demo)
+[Transform Your Media Strategy NOW.](/contact)

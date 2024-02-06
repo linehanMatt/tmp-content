@@ -96,4 +96,4 @@ With Narrative, you can:
 *   **Buy with confidence.** Know exactly where your data is coming from. While all suppliers are held to strict standards of quality and transparency, Narrative also gives you the resources to do your own due diligence as well.
 *   **Save time and money.** Narrative’s tools and workflows automate the time- and labor-intensive processes for finding, purchasing, and activating data, saving your employees time and money on sourcing, negotiations, and integrations.
 
-**Interested in learning more about how Narrative can help power your [data enrichment](https://www.narrative.io/solutions/customer-enrichment) strategy? [Request a demo today.](https://www.narrative.io/get-started)**
+**Interested in learning more about how Narrative can help power your [data enrichment](https://www.narrative.io/solutions/customer-enrichment) strategy? [Request a demo today.](/contact)**

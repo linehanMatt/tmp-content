@@ -53,4 +53,4 @@ If you are a [data provider](https://blog.narrative.io/how-to-start-selling-your
 
 If you are a [data consumer](https://blog.narrative.io/buyer-studio), you can trust that the data you’re ingesting has been expertly processed by our automated system. Instead of risking ingesting irrelevant or bad quality data from a data broker, you can rest assured that Narrative’s automated platform is giving you clean and standardized data that has been processed by the latest data technology. Once your data has been processed for you, your data scientists and engineers can use that spotless data to perform analyses, glean insights, and generate solutions.
 
-**Stop wasting time wrangling data.** [**Get clean data instantly with the Narrative data commerce platform**](https://www.narrative.io/demo)**.**
+**Stop wasting time wrangling data.** [**Get clean data instantly with the Narrative data commerce platform**](/contact)**.**

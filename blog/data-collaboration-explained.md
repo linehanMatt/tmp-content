@@ -68,4 +68,4 @@ Luckily, data collaboration doesn’t have to be as complicated as it sounds. By
 
 Narrative enables seamless data collaboration and eliminates the complexities of accessing and distributing data. Narrative’s data collaboration platform is an all-in-one solution that streamlines and simplifies data acquisition, monetization, and sharing, with powerful automations and easy-to-use, no-code workflows. With Narrative, you can find, access, and combine data from any source, in any format, with just a few clicks.
 
-**See how Narrative can help you collaborate with data today. [Set up a meeting with our experts to get started.](https://www.narrative.io/demo)**
+**See how Narrative can help you collaborate with data today. [Set up a meeting with our experts to get started.](/contact)**

@@ -60,4 +60,4 @@ Narrative is committed to facilitating seamless data collaboration while upholdi
 
 The healthcare industry stands on the brink of a new era, where data interoperability and AI-driven platforms like Narrative's open the doors to unprecedented innovation and efficiency. As we embrace this future, the potential for improving patient outcomes and advancing global health is limitless. It is not just an evolution; it is a revolution that Narrative is proud to be part of.
 
-[Is your data interoperable? It can be with Narrative.](https://www.narrative.io/demo)
+[Is your data interoperable? It can be with Narrative.](/contact)

@@ -68,4 +68,4 @@ Gain access to new data sources for projects and initiatives with [Narrative's d
 
 You'll also be able to generate new revenue by commercializing the data you are already collecting. Using our [user-friendly apps](https://www.narrative.io/data-shops), you can quickly and easily launch a lucrative data business online, even if you have no technical expertise or coding experience. We automate and simplify every step of the process. 
 
-Want to learn how Narrative can help you acquire new data sources, improve operational efficiency, and generate revenue? [Get in contact with our experts today to get started](https://www.narrative.io/demo)!
+Want to learn how Narrative can help you acquire new data sources, improve operational efficiency, and generate revenue? [Get in contact with our experts today to get started](/contact)!

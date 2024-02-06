@@ -51,4 +51,4 @@ However, the easiest and most effective way to start selling your data products 
 
 [Data Shops](https://www.narrative.io/data-shops) makes it easy to build an ecommerce storefront and sell your data products directly to multiple interested buyers. All you have to do is set up a self-service storefront using the tools provided within the platform, make your data discoverable with the help of tagging and [basic SEO practices](https://blog.narrative.io/5-seo-tips-to-help-buyers-find-your-data-products), and sit back and relax while your data products are automatically delivered to buyers.
 
-**Start creating and selling your data products as soon as today! Our team of experts can help you** [**get started**](https://www.narrative.io/demo)**.**
+**Start creating and selling your data products as soon as today! Our team of experts can help you** [**get started**](/contact)**.**

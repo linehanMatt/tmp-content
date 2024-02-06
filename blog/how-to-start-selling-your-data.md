@@ -83,6 +83,6 @@ Once your data has been reviewed, organized into marketable products, and displa
 
 Give your data monetization strategy the best shot at success. Once you map and value your data, determine your data buying audience, review data monetization rules and regulations, and set up your brand new data business with [Data Shops](https://www.narrative.io/data-shops), you’ll be able to open up an entirely new opportunity for revenue.
 
-**[Want to get started?](https://www.narrative.io/demo)** **Request a demo [here.](https://www.narrative.io/demo)**
+**[Want to get started?](/contact)** **Request a demo [here.](/contact)**
 
 **You can also watch our [Narrative Product Tour: Building an Ecommerce Data Business with Data Shops](https://solutions.narrative.io/data-shops-product-tour-20220608) to see first-hand how easy it is to package, merchandise, and distribute your first-party data in just a few clicks with [Data Shops](https://www.narrative.io/data-shops).**

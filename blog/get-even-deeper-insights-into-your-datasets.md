@@ -28,4 +28,4 @@ With these capabilities, users are able to: 
 *   Evaluate individual fields in a dataset to understand completeness and quality.
 *   Examine the sample data for a dataset that they have purchased, in order to preview and validate the format of the underlying data before downloading or ingesting to their cloud
 
-Dive deeper into your data. [Our experts will help you get started](https://www.narrative.io/demo).
+Dive deeper into your data. [Our experts will help you get started](/contact).

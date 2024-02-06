@@ -80,4 +80,4 @@ To make that strategy even more relevant you could upload multiple lists of user
 
 As you do more analysis on the data you could come up with more sophisticated strategies and test them to determine which one gives you the best results all the while enriching your customer records with more information by leveraging the Narrative Marketplace.
 
-Interested in learning more about how Narrative can help you improve your [competitive intelligence](https://www.narrative.io/solutions/competitive-intelligence) and better inform growth strategies? [Request a demo.](https://www.narrative.io/get-started)
+Interested in learning more about how Narrative can help you improve your [competitive intelligence](https://www.narrative.io/solutions/competitive-intelligence) and better inform growth strategies? [Request a demo.](/contact)

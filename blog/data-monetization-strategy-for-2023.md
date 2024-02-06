@@ -50,4 +50,4 @@ Narrative’s [Data Shops](https://blog.narrative.io/data-shops) is the latest i
 
 Using Data Shops will drastically decrease time to market, give you the tools you need to market your data, and provide you with access to a wide marketplace. It’s the fastest, easiest, and most cost-effective way to directly sell your valuable data to multiple buyers and start generating a significant stream of revenue in 2022.  
 
-[**Schedule a call with our experts**](https://www.narrative.io/demo) **to learn more!**
+[**Schedule a call with our experts**](/contact) **to learn more!**

@@ -33,4 +33,4 @@ Since Harris Poll began using Narrative for data their data acquisition needs, N
 
 [Query Builder](/products/query-builder) allows Harris Poll to systematically get all of the enriched data that they need without lengthy negotiations or middle-men. Through the automated tools that Buyer Studio offers, organizations like Harris Poll can quickly and easily enrich their data to glean better insights and better assist their clients at rapid speeds without sacrificing quality or integrity. 
 
-**Turn around your use case in less than 24 hours with Buyer Studio.** [**Our experts will help you get started!**](https://www.narrative.io/demo)
+**Turn around your use case in less than 24 hours with Buyer Studio.** [**Our experts will help you get started!**](/contact)

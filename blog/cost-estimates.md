@@ -21,4 +21,4 @@ You will now also be able to find summary statistics for your datasets in [Datas
 
 ![Untitled-2](https://solutions.narrative.io/hubfs/Untitled-2.png)
 
-Buy and sell data the easy way. Visit the [Narrative Data Streams Marketplace](https://www.narrative.io/data-marketplace), or [contact one of our experts](https://www.narrative.io/demo) to get started.
+Buy and sell data the easy way. Visit the [Narrative Data Streams Marketplace](https://www.narrative.io/data-marketplace), or [contact one of our experts](/contact) to get started.

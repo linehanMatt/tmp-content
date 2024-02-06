@@ -67,4 +67,4 @@ The fastest, easiest, and most reliable option is to sell your data using a [dat
 
 The best part is that anyone can use these platforms, even if they are new to the world of data monetization and have no coding experience. The tools and workflows provided make creating a data store an easy point-and-click endeavor. It’s like Shopify, but for data. Within just a few hours, your organization can build its own custom ecommerce shop front, create easily discoverable data products, market those data products to interested buyers, and simultaneously list your data products in a marketplace.
 
-**Want to learn more about creating an ecommerce data business?** [**We’ll help you get started.**](https://www.narrative.io/demo)
+**Want to learn more about creating an ecommerce data business?** [**We’ll help you get started.**](/contact)

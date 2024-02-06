@@ -8,7 +8,7 @@ image: '/img/blog/2020/03/selling-data.png'
 tags: ['data economy', 'distribute']
 authorSlug: 'nick-jordan'
 ---
-#### Build out a data monetization practice that maximizes revenue while minimizing time and effort.
+#### Build out a data monetization practice that maximizes revenue while minimizing time and effort
 
 Companies are realizing that their data as an asset has intrinsic value. With that realization often comes the desire to create a data monetization business to turn that valuable asset into revenue.
 
@@ -16,18 +16,18 @@ On paper, selling data is easy. Collect the data, sell the data, and then transf
 
 There are six important things to do and consider before you decide to build out a data business:
 
-1.  [Create a long-term business plan](#one)
-2.  [Take inventory of your data](#two)
-3.  [Develop a point of view](#three)
-4.  [Beware of data brokers](#four)
-5.  [Decide which channels to use](#five)
-6.  [Be diligent about data regulations](#six)
+1. [Create a long-term business plan](#one)
+2. [Take inventory of your data](#two)
+3. [Develop a point of view](#three)
+4. [Beware of data brokers](#four)
+5. [Decide which channels to use](#five)
+6. [Be diligent about data regulations](#six)
 
 ### 1\. Create a long-term business plan
 
 “Data is the new oil” is an overused but apt phrase. What data is _not_ is a “free lunch.” Launching a data monetization effort is going to require an investment of time and resources to be successful.
 
-Building a data business typically requires input from senior management, [sales](https://www.narrative.io/solution/sales), [product management](https://www.narrative.io/solution/product-management), [legal](https://www.narrative.io/solution/legal), [engineering](https://www.narrative.io/solution/data-engineering), [analytics](https://www.narrative.io/solution/business-intelligence), and finance. Each of these teams need ongoing involvement to create a sustainable business.
+Building a data business typically requires input from senior management, [sales](/roles/sales), [product management](/roles/product-managers), [legal](/roles/legal-compliance), [engineering](/roles/data-engineer), [analytics](/roles/business-analysts), and finance. Each of these teams need ongoing involvement to create a sustainable business.
 
 It’s important to be realistic: You aren’t going to create a multi-million dollar business overnight. The first year of doing data monetization typically results in a lot of learnings and a few deals. Year one can be the catalyst, however, for building long term revenue, but you won’t get there overnight.
 
@@ -37,16 +37,16 @@ Data is a nebulous term. It’s often used as shorthand to talk about a specific
 
 Here are some sample questions you should ask when taking inventory of your data:
 
-*   Do you have a comprehensive list of data that you think can be monetized?
-*   Is the data considered consumer data or personal data?
-*   How are you collecting information?
-*   Which systems do those datasets live in?
-*   What is the format and schema of the data in those systems?
-*   It is easy to get the data out of those systems and move them to other platforms?
-*   How do you approach the value of data? Do you have an idea how much the data you’re looking to monetize is worth to you?
-*   Do any of the datasets present regulatory risks or challenges?
-*   How do you think your customers will use the data?
-*   Will the data be used for marketing purposes?
+* Do you have a comprehensive list of data that you think can be monetized?
+* Is the data considered consumer data or personal data?
+* How are you collecting information?
+* Which systems do those datasets live in?
+* What is the format and schema of the data in those systems?
+* It is easy to get the data out of those systems and move them to other platforms?
+* How do you approach the value of data? Do you have an idea how much the data you’re looking to monetize is worth to you?
+* Do any of the datasets present regulatory risks or challenges?
+* How do you think your customers will use the data?
+* Will the data be used for marketing purposes?
 
 Here’s a [checklist](https://solutions.narrative.io/take-inventory-of-your-data) to help you take inventory of your data and evaluate building your data monetization business.
 
@@ -68,9 +68,9 @@ The data broker industry was born to make it easier for companies to sell their 
 
 Data brokers introduce three challenges to creating a scalable data monetization business:
 
-1.  They create opacity between buyers and sellers. Data brokers are scared that transparency will lead to buyers and sellers working directly. This opacity makes it impossible to run your data business in a thoughtful way.
-2.  They remove controls from both sellers and buyers. Data brokers create a set of market mechanisms that you are forced to work with. As a seller you have very little wiggle room to run your strategy the way that best fits your goals.
-3.  The commercial model employed by data brokers really only benefits them. The margins they take can run anywhere from 50 to 95%, meaning you keep very little of the value that you have created.
+1. They create opacity between buyers and sellers. Data brokers are scared that transparency will lead to buyers and sellers working directly. This opacity makes it impossible to run your data business in a thoughtful way.
+2. They remove controls from both sellers and buyers. Data brokers create a set of market mechanisms that you are forced to work with. As a seller you have very little wiggle room to run your strategy the way that best fits your goals.
+3. The commercial model employed by data brokers really only benefits them. The margins they take can run anywhere from 50 to 95%, meaning you keep very little of the value that you have created.
 
 In the short run, data brokers can seemingly make your life easier. In the long run, however, they add undue risk and put a cap on the potential for your data business.
 
@@ -84,10 +84,10 @@ Data marketplaces look like an eBay for data. These marketplaces can be great pl
 
 You should consider the following questions when working with a data marketplace:
 
-*   Do you have pricing controls?
-*   Can you manage which companies you are willing to sell to?
-*   What percentage of the transaction does the marketplace take?
-*   Does the marketplace have any rights to your data?
+* Do you have pricing controls?
+* Can you manage which companies you are willing to sell to?
+* What percentage of the transaction does the marketplace take?
+* Does the marketplace have any rights to your data?
 
 If the answers to these questions align to how you want to sell data, you should work with the marketplace. If you have to make uncomfortable tradeoffs it might be worth looking for another marketplace to work.
 

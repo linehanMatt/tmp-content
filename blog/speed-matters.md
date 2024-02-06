@@ -61,4 +61,4 @@ The goal here is to eliminate or reduce the manual and repetitive tasks and proc
   
 Narrative has a solution to move the data economy forward by allowing buyers and sellers to come together more efficiently and that is good for everyone.
 
-**Want to learn more about how Narrative can help you boost your speed to market and supercharge your data strategy? [Schedule a call with our team.](https://www.narrative.io/get-started)**
+**Want to learn more about how Narrative can help you boost your speed to market and supercharge your data strategy? [Schedule a call with our team.](/contact)**

@@ -44,4 +44,4 @@ Now you can collect and analyze data from all of these channels, creating a comp
 
 You can extend the reach of your audiences using Narrative’s data collaboration platform. We offer quick and easy solutions for [data onboarding](https://blog.narrative.io/data-onboarding), [data enrichment](https://www.narrative.io/solutions/customer-enrichment) and [identity resolution](https://www.narrative.io/solutions/identity-resolution). You’ll be able to append your customer profiles with additional attributes, find new sources of information about your customers, and match data between platforms and applications. You’ll never pay for the same data point twice, and we ensure that all the data you acquire is quality, transparent, and relevant.
 
-**Want to start reaching more audiences?** [**Give our experts a call**](https://www.narrative.io/demo)**.**
+**Want to start reaching more audiences?** [**Give our experts a call**](/contact)**.**

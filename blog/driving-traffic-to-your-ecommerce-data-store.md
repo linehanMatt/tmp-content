@@ -56,4 +56,4 @@ Once you’ve leveraged your social media channels, created free data offers, ma
 *   Write a blog post about how different companies or industries can use your data.
 *   Hold a meeting with your entire company or send a company-wide email to explain your new data business and encourage employees to spread the word.  
       
-    **Want to start an ecommerce data business today?** [**Our experts can help you get set up in just a few hours**](https://www.narrative.io/demo)**.**
+    **Want to start an ecommerce data business today?** [**Our experts can help you get set up in just a few hours**](/contact)**.**

@@ -22,6 +22,6 @@ Narrative’s platform centralizes and simplifies the data transaction ecosystem
 
 Since our inception we’ve built solutions to help growth marketers achieve their goals and we’d love to find time to meet with folks on the ground to discuss their pain points and brainstorm on possible solutions.
 
-#### [Book some time with us](https://narrative.io/get-started)
+#### [Book some time with us](/contact)
 
 MAU is a one-of-a-kind conference where the best minds in mobile dive deep into growth and retention strategies, marketing, best practices, and industry insights. This year, on May 1st and 2nd, over 2200 marketing professionals will descend on the MGM Grand in Las Vegas. We hope to see you there!

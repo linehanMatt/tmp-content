@@ -54,4 +54,4 @@ Scale: Narrative's platform is designed for scalability, handling petabytes of d
 
 It is time for both marketers and media companies to develop actionable audience strategies that can function and flourish in this challenging environment. Narrative's platform emerges as a robust solution in this regard, offering access to a wide range of data providers and ensuring that the data is standardized and interoperable, saving time and resources. This agnostic approach aligns with not only the evolving digital marketing landscape in 2024 but also well beyond.
 
-[Set your New Year's Identity Resolutions. Get in touch!](https://www.narrative.io/demo)
+[Set your New Year's Identity Resolutions. Get in touch!](/contact)

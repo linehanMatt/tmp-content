@@ -59,7 +59,7 @@ That's another way that people are really leveraging us on the sell side. Histor
 
 **Nick Jordan:** That's exactly right. If you want to sell all of your data for $100,000 a month, and there's 20 companies that are willing to buy all of that, what if you could sell 5% of your data for $10,000 a month, but you could sell that to 2,000 companies? Your total addressable market is now exponentially grown, and by virtue of working with us, your operational footprint doesn't have to grow exponentially. It can grow at a much smaller pace.
 
-**If you want to learn how Narrative's solutions can help your company simplify their data acquisition and monetization strategy, [send us a message](https://www.narrative.io/get-started)—we'd love to chat.**
+**If you want to learn how Narrative's solutions can help your company simplify their data acquisition and monetization strategy, [send us a message](/contact)—we'd love to chat.**
 
 * * *
 

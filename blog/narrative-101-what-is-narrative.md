@@ -71,7 +71,7 @@ If you're a finance team and you just want to see how much money you made last m
 
 People are really thinking of the SaaS side of our offering as their platform of record for [acquisition](https://www.narrative.io/platform-acquire) and [monetization](https://www.narrative.io/platform-distribute).
 
-**If you want to learn how Narrative's solutions can help your company simplify their data acquisition and monetization strategy, [send us a message](https://www.narrative.io/get-started)—we'd love to chat.**
+**If you want to learn how Narrative's solutions can help your company simplify their data acquisition and monetization strategy, [send us a message](/contact)—we'd love to chat.**
 
 * * *
 

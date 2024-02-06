@@ -98,4 +98,4 @@ Buyer Studio provides innovative tools that streamline discovering and evaluatin
 
 It’s never been so easy to select the exact data, budget, and destination you want and complete a checkout process within minutes. Only subscribe to the exact data you need and none you don’t.
 
-**To get started with Buyer Studio, [schedule some time with our team of experts today](https://www.narrative.io/demo).**
+**To get started with Buyer Studio, [schedule some time with our team of experts today](/contact).**

@@ -23,4 +23,4 @@ Observed, raw, unfiltered data is the fuel which feeds the work of data scientis
 
 Technology can alleviate the friction which slows, or in some cases stops, the data economy from growing. [If data outcomes were achieved faster](/blog/speed-matters) and at a lower cost, how much benefit would this provide to your organization? Multiplied out across all data sets and use cases, the shift to technology-driven data monetization could change the data economy forever.
 
-**Want to lower the cost and increase the speed of your data acquisition and monetization efforts? [Connect with a member of our team to find out how.](https://www.narrative.io/get-started)**
+**Want to lower the cost and increase the speed of your data acquisition and monetization efforts? [Connect with a member of our team to find out how.](/contact)**

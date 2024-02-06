@@ -15,4 +15,4 @@ status: 'archived'
 
 Narrative will be attending, our first time ever, and we’re excited to hear from all of the thought leaders that will be present. Since our inception we’ve built solutions to help growth marketers achieve their goals and we’d love to find time to meet with folks on the ground to discuss their pain points and brainstorm on possible solutions.  
   
-[Click here to schedule some time with us.](https://narrative.io/get-started)
+[Click here to schedule some time with us.](/contact)

@@ -26,4 +26,4 @@ Here’s how to use it:
 
 4) Filter using the "Join Dataset" button and select the dataset with your list of locations.
 
-Want to start acquiring custom geofenced data? [Get started here.](https://www.narrative.io/demo)
+Want to start acquiring custom geofenced data? [Get started here.](/contact)

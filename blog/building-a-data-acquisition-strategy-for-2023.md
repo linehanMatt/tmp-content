@@ -58,4 +58,4 @@ Now that you’ve decided what kind of data you need and how you are going to ge
 
  With access to trillions of data points from multiple data providers at once, you’ll be able to select the exact types of data that you’d like to acquire, including but not limited to geolocation, demographic, purchase, identity, and device data. You can use precision filtering options to include only the exact observations you need, opt into a deduplication feature to ensure you never pay for the same data point more than once, and set a custom budget that works for you.
 
-**Want to learn more?** [**Start building your best data acquisition strategy today with help from our experts**](https://www.narrative.io/demo)**.**
+**Want to learn more?** [**Start building your best data acquisition strategy today with help from our experts**](/contact)**.**
