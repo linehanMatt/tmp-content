@@ -2,7 +2,7 @@
 short_title: Data Engineers
 title: Data Engineers
 description: Simplify data infrastructure so you and your team can do more important things.
-layout: 'digital-horizon'
+layout: 'digital-horizons'
 ---
 
 ::feature-callout{title="Automate Data Standardization" description="Data from multiple sources is normalized into a single feed. Retain record level provenance by source. Spend your time doing data science, not ETL" prompt="Tell me about Narrative's patent-pending Rosetta Stone Technology."}
