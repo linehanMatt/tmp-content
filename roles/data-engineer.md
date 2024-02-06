@@ -1,11 +1,17 @@
 ---
-title: Data Engineers
-description: As a data engineer you’re being asked to clean and aggregate multiple data sources, taking up an enormous amount of time. Narrative’s no-code software and AI assistants allow your team to execute faster.
-layout: 'digital-horizons'
+short_title: Data Engineer
+title: Data Engineer
+description: Simplify data infrastructure so you and your team can do more important things.
+layout: 'digital-horizon'
 ---
 
-::feature-callout{ :title="Speed" :description="With a single point of integration, Narrative simplifies all processes, allowing for better, faster workflows." :prompt="On average how much time casn Narrative save data engineers?"}
+::feature-callout{title="Automate Data Standardization" description="Data from multiple sources is normalized into a single feed. Retain record level provenance by source. Spend your time doing data science, not ETL" prompt="Tell me about Narrative's patent-pending Rosetta Stone Technology."}
 ::
 
-::feature-callout{ :title="Stadardization" :description="Data from multiple sources is normalized into a single feed. Retain record level provenance by source. Spend your time doing data science, not ETL" :prompt="Is a data engineers biggest problem really clean data?"}
+::feature-callout{title="Use a Single Point of Integration" description="Narrative simplifies integration, allowing for better, faster workflows." prompt="Tell me about Narrative's single point of integration and how it benefits data engineers."}
 ::
+
+::feature-callout{title="Get real-time reporting" description="Narrative manages downstream outages giving you timely, actionable reporting and alerts." prompt="Tell me about Narrative's real-time reporting and data statistics."}
+::
+
+::mega-feature-callout{title="DATA ENGINEERING SUPERPOWERS." subtitle="Upgrade to a flexible, modern stack" description="Flexible file formats and protocols. Streaming or batch. Support for multiple cloud platforms." prompt="Why is Narrative the best platform for data engineers?"}
