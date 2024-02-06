@@ -2,7 +2,7 @@
 short_title: Business Development
 title: Business Development
 description: Use a single platform of record to simplify the data partnership lifecycle. No technical expertise required.
-theme: 'prince'
+layout: 'prince'
 ---
 
 ::feature-callout{title="Centralize Management" description="Manage commercial terms and reporting in one place so you can easily measure the effectiveness of your strateies." prompt="Tell me about the benefits of using one platform for business development."}

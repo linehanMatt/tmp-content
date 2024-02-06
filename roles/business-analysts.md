@@ -2,7 +2,7 @@
 short_title: Business Analysts
 title: Business Analysts
 description: Transform data into decisions, accelerate decision-making, and forge powerful data partnerships with ease.
-theme: 'urban-dawn'
+layout: 'urban-dawn'
 ---
 
 ::feature-callout{title="Enhance your customer records" description="Enrich your customer records with their activities beyond your walls - push those records to your existing systems" prompt="Tell me about Narrative's data enrichment capabilities"}
