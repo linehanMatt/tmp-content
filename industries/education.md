@@ -1,6 +1,6 @@
 ---
 title: 'Education'
-description: 'Narrative powers educational institutions with scalable data collaboration tools for student success and research advancement.'
+description: 'Powers your educational institution with scalable data collaboration tools for student success and research advancement.'
 primaryColor: "#00ff00"
 layout: 'urban-dawn'
 ---
