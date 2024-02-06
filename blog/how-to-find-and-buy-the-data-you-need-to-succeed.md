@@ -101,7 +101,7 @@ Essentially, a data collaboration platform combines all of the benefits of the o
 **Narrative is the world’s #1 data collaboration platform** 
 ============================================================
 
-[Narrative’s data collaboration platform](https://www.narrative.io/data-commerce-platform) provides an easy way to buy data, with advanced filtering options, customization tools, and subscription options. You can find the exact data you need from dozens of providers and have it delivered in your preferred format within hours.
+[Narrative’s data collaboration platform](/faq/what-is-data-collaboration) provides an easy way to buy data, with advanced filtering options, customization tools, and subscription options. You can find the exact data you need from dozens of providers and have it delivered in your preferred format within hours.
 
 These tools also help you automate data discovery, [streamline cleaning](https://blog.narrative.io/how-to-save-time-get-clean-data-automatically-streamline-data-wrangling) and formatting tasks, and eliminate duplicate data. Since the most frustrating parts of data acquisition are automated on the backend, Narrative’s platform makes buying data as easy as ordering groceries online. The user-friendly interface requires no technical expertise to purchase data with just a few clicks. 
 

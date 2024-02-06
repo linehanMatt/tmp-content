@@ -17,7 +17,7 @@ Now both sellers and buyers will be able to transact data with even more transpa
 
 ### Dataset statistics in [Dataset Manager](https://app.narrative.io/app/dataset-manager)
 
-You will now also be able to find summary statistics for your datasets in [Dataset Manager](https://app.narrative.io/app/dataset-manager). You are now able to see the current size of your dataset, when your dataset was last successfully ingested, and a log of all previous ingestions. This includes the row count, size, date and time of each ingestion. This is very useful for validating your ingestion process and understanding how much data [Narrative](https://www.narrative.io/data-commerce-platform) is storing on your behalf for billing purposes.
+You will now also be able to find summary statistics for your datasets in [Dataset Manager](https://app.narrative.io/app/dataset-manager). You are now able to see the current size of your dataset, when your dataset was last successfully ingested, and a log of all previous ingestions. This includes the row count, size, date and time of each ingestion. This is very useful for validating your ingestion process and understanding how much data [Narrative](/faq/what-is-data-collaboration) is storing on your behalf for billing purposes.
 
 ![Untitled-2](https://solutions.narrative.io/hubfs/Untitled-2.png)
 

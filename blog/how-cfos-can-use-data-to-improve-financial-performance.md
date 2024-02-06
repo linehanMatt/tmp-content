@@ -50,7 +50,7 @@ Improve internal data accessibility with data sharing 
 
 A CFO’s access to data from other departments within their own organization keeps them up-to-date with everything they need to know to make the best financial decisions. The most accurate and successful financial planning and strategy is made when every aspect of a company is taken into account. With direct access to all sales data, product data, marketing data, and more, you’ll be able to put all of the pieces of your financial puzzle together.  
 
-A [data collaboration platform](https://www.narrative.io/data-commerce-platform) provides software that would enable you to transfer that important data between internal departments. With a data collaboration platform, everything is automated and data sharing is made fast and easy, even if you have no technical expertise. By setting up internal data commerce between departments and creating an easily usable and accessible data ecosystem for your company, departments can share their relevant data with each other seamlessly. You’ll be able to receive the data that you need from each department quickly and easily. 
+A [data collaboration platform](/faq/what-is-data-collaboration) provides software that would enable you to transfer that important data between internal departments. With a data collaboration platform, everything is automated and data sharing is made fast and easy, even if you have no technical expertise. By setting up internal data commerce between departments and creating an easily usable and accessible data ecosystem for your company, departments can share their relevant data with each other seamlessly. You’ll be able to receive the data that you need from each department quickly and easily. 
 
 Sell your own organization’s data to generate a new revenue stream
 ------------------------------------------------------------------
@@ -64,7 +64,7 @@ Turning your own data assets into a new stream of revenue can seem daunting, but
 How Narrative can help CFOs improve financial performance 
 ----------------------------------------------------------
 
-Gain access to new data sources for projects and initiatives with [Narrative's data collaboration platform](https://www.narrative.io/data-commerce-platform). You'll be able to optimize spend by centralizing data procurement, while enjoying the ability to use automatic deduplication and custom filters to buy just what you need and nothing you don’t.
+Gain access to new data sources for projects and initiatives with [Narrative's data collaboration platform](/faq/what-is-data-collaboration). You'll be able to optimize spend by centralizing data procurement, while enjoying the ability to use automatic deduplication and custom filters to buy just what you need and nothing you don’t.
 
 You'll also be able to generate new revenue by commercializing the data you are already collecting. Using our [user-friendly apps](https://www.narrative.io/data-shops), you can quickly and easily launch a lucrative data business online, even if you have no technical expertise or coding experience. We automate and simplify every step of the process. 
 

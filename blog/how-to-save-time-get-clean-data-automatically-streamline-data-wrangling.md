@@ -21,7 +21,7 @@ With increasing demand for data scientists’ analysis and insights, how can bus
 
 What if the external data you received was already formatted exactly how you need it? By freeing up your data analysts’ hours, they’ll have more time to analyze the data you’ve acquired and help [create data products](https://blog.narrative.io/5-steps-to-building-a-successful-data-product) that will bring in revenue for your company. 
 
-Data scientists can win back hundreds of hours of productivity, reduce costs associated with errors, and help their organization make well-informed decisions. They just need the right technology to decrease the amount of time spent on data wrangling. That technology is available through [data commerce platforms like Narrative](https://www.narrative.io/data-commerce-platform).
+Data scientists can win back hundreds of hours of productivity, reduce costs associated with errors, and help their organization make well-informed decisions. They just need the right technology to decrease the amount of time spent on data wrangling. That technology is available through [data commerce platforms like Narrative](/faq/what-is-data-collaboration).
 
 For instance, Narrative’s Rosetta Stone “translates” data from buyers and sellers so that it can be understood and evaluated by whoever has purchased it, no matter where the data has come from. Data teams won’t have to spend time trying to decipher the data “language” of another company. Instead, Narrative’s software translates data from external sources into the exact format that you need to start analyzing.
 

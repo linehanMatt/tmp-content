@@ -15,7 +15,7 @@ The Harris Poll, part of the Stagwell Group, is a global market research and con
 
 However, the data that Harris Poll collects through their survey is limited. They receive an IP address and responses, but know very little about their respondents outside of that. The collection of an IP address only provides them one type of identifier tied to the user. This makes the addressability of their users limited, since they can’t target them with additional media if they don’t have the HEMs and MAIDs.
 
-The Harris Poll needed a way to enrich the data they were collecting in a fast and straightforward way. They needed quality data from one central and reliable source, like [Narrative’s data commerce platform](https://www.narrative.io/data-commerce-platform), so that they could hone in on their audience without overspending their time and resources. 
+The Harris Poll needed a way to enrich the data they were collecting in a fast and straightforward way. They needed quality data from one central and reliable source, like [Narrative’s data commerce platform](/faq/what-is-data-collaboration), so that they could hone in on their audience without overspending their time and resources. 
 
 **The Solution**
 ================

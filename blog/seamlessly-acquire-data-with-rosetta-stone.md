@@ -29,7 +29,7 @@ To illustrate an example of Rosetta Stone in action, observe the [weather data](
 
 They all represent similar information, but they are stored in different formats. A buyer who wants to access this weather data, but who isn’t versed in the nuance of how the data is stored, is not going to be able to easily understand this data in order to apply it to their own missions and projects. That’s where Rosetta Stone comes into play.
 
-Narrative CEO Nick Jordan says the best way to think of Rosetta Stone is as a “query planner.” Someone using the [Narrative data collaboration platform](https://www.narrative.io/data-commerce-platform) can define the dataset that they need and Rosetta Stone will figure out how to fetch that data across suppliers, tables, and format.
+Narrative CEO Nick Jordan says the best way to think of Rosetta Stone is as a “query planner.” Someone using the [Narrative data collaboration platform](/faq/what-is-data-collaboration) can define the dataset that they need and Rosetta Stone will figure out how to fetch that data across suppliers, tables, and format.
 
 For instance, a buyer can determine that they want timestamp, latitude, longitude, and air temperature data and the resulting dataset will be normalized across all of those fields.
 
