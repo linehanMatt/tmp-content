@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/09/04-8.png'
 image: '/img/blog/2022/09/04-8.png'
 tags: ['solutions']
-authorSlug: 'brenna-dilger'
+
 ---
 Your data strategy should be as unique as your business. The evolution of your company’s data strategy influences everything in your organization from products to marketing to culture. Having full control over every input and output, as well as guiding your data to work for you at every step, is the only way to lead your industry and market. That’s why mastering [data autonomy](https://www.narrative.io/pillar/data-autonomy) is so crucial for success.
 

@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2023/02/Screen-Shot-2023-02-01-at-5.33.45-PM.png'
 image: '/img/blog/2023/02/Screen-Shot-2023-02-01-at-5.33.45-PM.png'
 tags: ['data collaboration']
-authorSlug: 'brenna-dilger'
+
 ---
 Businesses are sitting on a goldmine of valuable information waiting to be harnessed. Unfortunately many are falling short of realizing data’s full potential. The challenge lies in the fact that all this data is dispersed among countless ecosystems and applications, each with their own unique structure and formatting.
 

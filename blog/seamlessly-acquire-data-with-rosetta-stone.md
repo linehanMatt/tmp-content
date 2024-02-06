@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/05/narrativeio-jobpost-01-2.png'
 image: '/img/blog/2022/05/narrativeio-jobpost-01-2.png'
 tags: []
-authorSlug: 'brenna-dilger'
+
 ---
 Every company collects and stores data differently, speaking their own data “language” that can be understood by internal systems, programs, and analysts. Since so many different “languages” are being used across the data ecosystem, it can be a time-consuming and labor-intensive process to decipher that data and translate it to be used outside of its original format. This has proven to be a major roadblock for efficient data transactions. 
 

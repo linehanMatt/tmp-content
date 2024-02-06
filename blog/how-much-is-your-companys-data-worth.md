@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/07/howmuchdataworth-2.png'
 image: '/img/blog/2022/07/howmuchdataworth-2.png'
 tags: ['data shops', 'distribute']
-authorSlug: 'brenna-dilger'
+
 ---
 It’s no secret that one of the biggest assets your company has to offer is its data. By now, most business professionals have heard the phrase “data is the new oil.” It’s indisputable that, in the digital era, data has become one of the most valuable resources, and once that raw data is transformed, it can become an even more valuable product. In fact, the data monetization market is anticipated to reach [$9.09 billion by 2027](https://www.digitaljournal.com/pr/global-data-monetization-market-is-expected-to-reach-usd-9-09-billion-with-cagr-of-21-7-and-forecast-to-2027). 
 

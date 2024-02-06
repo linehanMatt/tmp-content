@@ -6,7 +6,7 @@ author: 'Zeke Sexauer'
 ogImage: '/img/blog/2020/02/enrichment---social.png'
 image: '/img/blog/2020/02/enrichment---social.png'
 tags: ['acquire', 'solutions']
-authorSlug: 'zeke-sexauer'
+
 ---
 Having access to high-quality granular data is mission-critical for any modern brand’s growth strategy. This data fuels digital marketing, analytics, and insight generation, allowing brands to better understand their existing customers, increase lifetime value, acquire new customers, and drive business intelligence efforts.
 
@@ -67,7 +67,7 @@ Third-party data providers solve for this issue of scale by collecting data from
 
 The obvious benefit here is the quick access to scale. With one integration, brands get access to a variety of [data types](https://www.narrative.io/data-types) from [numerous suppliers](https://www.narrative.io/data-partners).
 
-While brands benefit from ease of execution, however, they [lose when it comes to transparency](/precise-third-party-data). How do third-party data providers classify a consumer as a fitness enthusiast? What is the original source of each data point? How do they test the data for accuracy?
+While brands benefit from ease of execution, however, they [lose when it comes to transparency](/blog/precise-third-party-data). How do third-party data providers classify a consumer as a fitness enthusiast? What is the original source of each data point? How do they test the data for accuracy?
 
 With no way to know the answers to these questions, brands forgo an element of control over their data strategy. They must simply trust the third-party data provider’s methodology.
 

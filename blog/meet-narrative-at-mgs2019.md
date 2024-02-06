@@ -6,7 +6,7 @@ author: 'Eric Del Balso'
 ogImage: '/img/blog/2019/01/020719-1_mobile_growth_summit.jpg'
 image: '/img/blog/2019/01/020719-1_mobile_growth_summit.jpg'
 tags: ['conferences']
-authorSlug: 'eric-del-balso'
+
 status: 'archived'
 ---
 ### Meet with the team to catch up on the latest with data enrichment for your mobile growth objectives

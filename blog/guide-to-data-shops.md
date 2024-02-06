@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2021/12/Screen-Shot-2021-12-09-at-1.44.39-PM.png'
 image: '/img/blog/2021/12/Screen-Shot-2021-12-09-at-1.44.39-PM.png'
 tags: ['data shops', 'distribute', 'narrative features']
-authorSlug: 'brenna-dilger'
+
 ---
 So you want to start a lucrative data business? You’ve come to the right place! 
 

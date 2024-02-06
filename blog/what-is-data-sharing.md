@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/05/04-5.png'
 image: '/img/blog/2022/05/04-5.png'
 tags: []
-authorSlug: 'brenna-dilger'
+
 ---
 Whether you need to distribute data across a large organization or need to augment your internal data with outside data sources to gain better insights, data sharing is an increasingly important component of a successful business.
 

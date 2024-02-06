@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/03/loc-data.png'
 image: '/img/blog/2022/03/loc-data.png'
 tags: []
-authorSlug: 'brenna-dilger'
+
 ---
 The movement of people and objects in the real world reveals valuable information that organizations can apply to many different initiatives. By collecting and analyzing the [location data](https://www.narrative.io/data-types/location-data) of current and potential customers, companies can glean insights that help with targeted advertising, investment decisions, commercial real-estate planning, and more. In this guide, we’ll take a deeper look at types of location data, how location data is collected, and how companies can use location data to grow and drive revenue.
 

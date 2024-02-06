@@ -6,7 +6,7 @@ author: 'Tyler Putterman'
 ogImage: '/img/blog/2019/06/salesforce-tableau.jpg'
 image: '/img/blog/2019/06/salesforce-tableau.jpg'
 tags: ['insights']
-authorSlug: 'tyler-putterman'
+
 ---
 ### What it’s about, why it’s important, and what it means for your data strategy
 

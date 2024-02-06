@@ -6,7 +6,7 @@ author: 'Zeke Sexauer'
 ogImage: '/img/blog/2019/09/assistant---for-social-%281%29.png'
 image: '/img/blog/2019/09/assistant---for-social-%281%29.png'
 tags: ['narrative features']
-authorSlug: 'zeke-sexauer'
+
 ---
 ### Narrative’s Data Discovery Assistant helps data buyers uncover new features to enrich their data sets and unlock new insights.
 

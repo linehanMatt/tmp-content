@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/02/audience-addressability.png'
 image: '/img/blog/2022/02/audience-addressability.png'
 tags: ['audience addressability']
-authorSlug: 'brenna-dilger'
+
 ---
 In order for a brand to reach relevant and receptive audiences at scale, audience addressability should be a main focus. It is one of the basic building blocks to growing a customer base. But as the online world evolves to meet stricter privacy standards and track data in new ways, organizations must adapt their strategies to find and impress the right buyers. 
 
@@ -22,7 +22,7 @@ Mastering audience addressability is beneficial for both consumers and marketers
 **The disappearance of third-party cookies poses a challenge**
 ==============================================================
 
-Addressable audiences have historically been powered by [third-party cookies](https://blog.narrative.io/what-to-do-when-your-cookies-are-taken-away), which track users’ online interactions. But third-party cookies are taking a bow and leaving the stage, which is changing the way marketers can connect with and grow large addressable audiences. 
+Addressable audiences have historically been powered by third-party cookies, which track users’ online interactions. But third-party cookies are taking a bow and leaving the stage, which is changing the way marketers can connect with and grow large addressable audiences. 
 
 Apple’s Safari and Mozilla’s Firefox browsers have already completely blocked cookies and Google’s Chrome is planning on phasing them out by the end of 2023. It’s more important than ever for brands to explore new, privacy-compliant alternatives to target and expand their audiences. In order to continue building addressable audiences, brands must find a way to track diverse groups of IDs across devices in a centralized way. That’s where universal identifiers come into play.
 

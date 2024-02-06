@@ -70,7 +70,7 @@ Sure. Narrative Anywhere is an exciting development that allows our customers to
 
 #cta
 ::item-grid
-    ::feature-callout{title="Clean Rooms" description="Narrative offers an intuitive WYSIWYG query builder to make collaborating easy" link-path="/sollutions/clean-room" link-text="Learn more"}
+    ::feature-callout{title="Clean Rooms" description="Narrative offers an intuitive WYSIWYG query builder to make collaborating easy" link-path="/solutions/clean-room" link-text="Learn more"}
     ::
 
     ::feature-callout{title="Narrative Anywhere" description="Our Data Collaboration Platform can be deployed in your cloud" link-path="/products/narrative-anywhere" link-text="Learn more"}
@@ -98,7 +98,7 @@ How does the platform ensure the data is ready for use in real-time?
 By standardizing and normalizing data as it's ingested, we ensure that it's immediately ready for querying and audience building. Our platform's architecture is designed for efficiency, enabling you to build and access advanced audiences on demand without delays.
 
 #cta
-::feature-callout{title="Wait Minutes, not Weeks" description="Our platform was architected to deliver data within minutes of setting up a collaboration.  No engineers, no product managers, just execution" link-path="/products/my-data/fast-delivery" link-text="Learn more"}
+::feature-callout{title="Wait Minutes, not Weeks" description="Our platform was architected to deliver data within minutes of setting up a collaboration.  No engineers, no product managers, just execution" link-path="/products/connectors" link-text="Learn more"}
 ::
 ::
 

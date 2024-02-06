@@ -57,7 +57,7 @@ Being a good data supplier is essential in today's data-driven world. By leverag
   
 At Narrative, we understand the importance of quickly navigating the complexities of the data landscape to meet the growing demands of clients and set your business apart from competitors. With Narrative, you can:
 
-* Leverage our innovative [Rosetta Stone technology](/seamlessly-acquire-data-with-rosetta-stone) automating data standardization for everyone ensuring data interoperability and easy collaboration.
+* Leverage our innovative [Rosetta Stone technology](/blog/seamlessly-acquire-data-with-rosetta-stone) automating data standardization for everyone ensuring data interoperability and easy collaboration.
 
 * Use our no-code UI, where users of all technical and industry backgrounds can easily participate in data collaboration.
 

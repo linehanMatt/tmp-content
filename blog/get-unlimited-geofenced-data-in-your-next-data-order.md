@@ -6,7 +6,7 @@ author: 'Narrative'
 ogImage: '/img/blog/2022/07/6-3.png'
 image: '/img/blog/2022/07/6-3.png'
 tags: ['product updates']
-authorSlug: 'narrative'
+
 ---
 Buyers can now specify geofenced areas as a requirement for their data purchases through Buyer Studio.
 ======================================================================================================

@@ -6,7 +6,6 @@ author: 'Yael Elmatad'
 ogImage: '/img/blog/2017/06/become-a-better-data-scientist.png'
 image: '/img/blog/2017/06/become-a-better-data-scientist.png'
 tags: ['acquire', 'data science']
-authorSlug: 'yael-elmatad'
 ---
 Too much of a data scientist's time is focused on data cleansing, and not enough on the math.
 ---------------------------------------------------------------------------------------------

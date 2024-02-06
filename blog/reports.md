@@ -6,7 +6,7 @@ author: 'Zeke Sexauer'
 ogImage: '/img/blog/2019/10/reporting---for-blog.png'
 image: '/img/blog/2019/10/reporting---for-blog.png'
 tags: ['narrative features']
-authorSlug: 'zeke-sexauer'
+
 ---
 A well-formulated data strategy requires that buyers and sellers have full visibility into what has been bought and sold, from and by whom, and for how much. This can be used to help align internal teams, do proper budget planning, and act as a feedback loop for optimizing future inventory and purchases.
 

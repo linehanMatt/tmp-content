@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/04/narrativeio-jobpost-01.png'
 image: '/img/blog/2022/04/narrativeio-jobpost-01.png'
 tags: []
-authorSlug: 'brenna-dilger'
+
 ---
 In order to gain a competitive advantage, businesses are acquiring more and more data from a wider variety of sources to inform their decision-making. More diverse and unstructured data requires more time to cull, clean, and organize data—also known as [data wrangling](https://online.hbs.edu/blog/post/data-wrangling)—ahead of broader analysis. 
 

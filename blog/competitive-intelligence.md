@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/03/improve-competitive-intelligence-with-external-data.png'
 image: '/img/blog/2022/03/improve-competitive-intelligence-with-external-data.png'
 tags: ['competitive intelligence']
-authorSlug: 'brenna-dilger'
+
 ---
 What if you had data that could help you understand your customers’ preferences and perception of your brand and product in comparison to their perception of competing brands and products? In order to become a leader in your industry, you need to get ahead of your competitors. And in order to get ahead of your competitors, you need to know your competitors inside and out.
 

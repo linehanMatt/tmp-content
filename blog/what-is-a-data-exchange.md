@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2021/10/Screen-Shot-2021-10-13-at-11.58.35-AM.png'
 image: '/img/blog/2021/10/Screen-Shot-2021-10-13-at-11.58.35-AM.png'
 tags: ['data economy', 'distribute']
-authorSlug: 'brenna-dilger'
+
 ---
 The new data economy is a feast of information and organizations are not only hungry for data; they are serving it up too. Data exchanges are creating a data boom that is generating revenue streams for data providers and supplying a smorgasbord of accessible data to data consumers. These data marketplaces have become key players in the data game and it is indisputable that companies must understand how to take advantage of these networks in order to maximize their own success.
 
@@ -18,9 +18,9 @@ Data exchanges are marketplaces stocked with data assets where data providers an
 **Why are companies using data exchanges?**
 ===========================================
 
-A quality data exchange is useful because companies will always need more than just [first-party data](/first-party-second-party-third-party-data). They must look for data outside of their own organization in order to maximize clarity and insight. Because of this, there will always be a steady supply of valuable data and an insatiable demand for it within data exchanges.
+A quality data exchange is useful because companies will always need more than just [first-party data](/blog/first-party-second-party-third-party-data). They must look for data outside of their own organization in order to maximize clarity and insight. Because of this, there will always be a steady supply of valuable data and an insatiable demand for it within data exchanges.
 
-For data consumers, data exchanges are a treasure trove that can’t be overlooked. With access to an endless supply of data points, companies can use data exchanges to [acquire data](/how-to-find-and-buy-the-data-you-need-to-succeed) that will fill in gaps of information that only [second-party and third-party data](https://blog.narrative.io/first-party-second-party-third-party-data) can. For data distributors, data exchanges are an untapped revenue source. Companies can take the data they’ve collected and spin it into gold. Organizations that properly utilize a data exchange have a huge advantage; they gain access to multiple sources of accurate and current information while simultaneously monetizing their own data assets.
+For data consumers, data exchanges are a treasure trove that can’t be overlooked. With access to an endless supply of data points, companies can use data exchanges to [acquire data](/blog/how-to-find-and-buy-the-data-you-need-to-succeed) that will fill in gaps of information that only [second-party and third-party data](https://blog.narrative.io/blog/first-party-second-party-third-party-data) can. For data distributors, data exchanges are an untapped revenue source. Companies can take the data they’ve collected and spin it into gold. Organizations that properly utilize a data exchange have a huge advantage; they gain access to multiple sources of accurate and current information while simultaneously monetizing their own data assets.
 
 **What are the benefits of using a data exchange?**
 ====================================================
@@ -66,7 +66,7 @@ Data exchanges also often don't offer the flexibility of picking and choosing ex
 There is a better option: a data collaboration platform
 =======================================================
 
-A [data collaboration platform](https://www.narrative.io) is software that makes [buying](/how-to-find-and-buy-the-data-you-need-to-succeed) and [selling](/how-to-start-selling-your-data) quality data assets faster and easier than ever. Data collaboration platforms like Narrative provide a marketplace in which to sell or buy data, but we also provide the tools you need in order to filter and buy the exact data you want and create a branded data business with custom [data products](/5-steps-to-building-a-successful-data-product).
+A [data collaboration platform](https://www.narrative.io) is software that makes [buying](/blog/how-to-find-and-buy-the-data-you-need-to-succeed) and [selling](/blog/how-to-start-selling-your-data) quality data assets faster and easier than ever. Data collaboration platforms like Narrative provide a marketplace in which to sell or buy data, but we also provide the tools you need in order to filter and buy the exact data you want and create a branded data business with custom [data products](/blog/5-steps-to-building-a-successful-data-product).
 
 Data providers can package, publish, and distribute their own data with just a few clicks and data consumers can buy and integrate only the relevant data sets they need (and none that they don't need). Data collaboration platforms offer the customization and differentiating power that data exchanges can't. They also simplify the process to point-and-click workflows that anybody, even someone without any technical expertise, could master. It’s Shopify for data!
 

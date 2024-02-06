@@ -7,7 +7,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/05/buydata.png'
 image: '/img/blog/2022/05/buydata.png'
 tags: ['acquire', 'solutions']
-authorSlug: 'brenna-dilger'
+
 ---
 Data is a company’s most valuable asset and it is one of the most critical components of a brand’s growth and success. The right data can lead to amazing improvements in growth, productivity, and risk management.
 
@@ -105,7 +105,7 @@ Essentially, a data collaboration platform combines all of the benefits of the o
 
 These tools also help you automate data discovery, [streamline cleaning](https://blog.narrative.io/how-to-save-time-get-clean-data-automatically-streamline-data-wrangling) and formatting tasks, and eliminate duplicate data. Since the most frustrating parts of data acquisition are automated on the backend, Narrative’s platform makes buying data as easy as ordering groceries online. The user-friendly interface requires no technical expertise to purchase data with just a few clicks. 
 
-This quick tutorial takes you through the steps to purchase data in Narrative's [Buyer Studio in one minute or less:](/buyer-studio)
+This quick tutorial takes you through the steps to purchase data in Narrative's [Buyer Studio in one minute or less:](/blog/buyer-studio)
 
 {% video\_player "embed\_player" overrideable=False, type='hsvideo2', hide\_playlist=True, viral\_sharing=False, embed\_button=False, autoplay=False, hidden\_controls=False, loop=False, muted=False, full\_width=False, width='500', height='281', player\_id='77031252867', style='' %}
 

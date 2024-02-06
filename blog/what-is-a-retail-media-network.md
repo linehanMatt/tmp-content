@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2023/01/04-19.png'
 image: '/img/blog/2023/01/04-19.png'
 tags: ['distribute']
-authorSlug: 'brenna-dilger'
+
 ---
 Retail media is a rapidly growing industry, with [retail media ad sales in the US alone estimated to reach $40 billion this year and more than double over the next four years](https://www.forrester.com/blogs/us-retail-media-ad-sales-will-hit-40-billion/).
 

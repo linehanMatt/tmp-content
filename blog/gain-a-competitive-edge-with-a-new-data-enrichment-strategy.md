@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/02/dataenrichment.png'
 image: '/img/blog/2022/02/dataenrichment.png'
 tags: ['acquire', 'solutions']
-authorSlug: 'brenna-dilger'
+
 ---
 Today’s most successful brands have one thing in common: tons of data. If you’re one of those companies that hasn’t quite learned how to navigate the data boom, you’re falling behind. New upstart D2C companies have been increasingly upstaging legacy brands, and that’s because they have collected the data necessary to power ultra-specific customer insights and interactions. 
 
@@ -28,7 +28,7 @@ Acquire enrichment data the right way 
 
 To keep up with the data-powered business world, you’ll need to collect lots of data, and you’ll need to do it fast. You could [acquire enrichment data](https://www.narrative.io/solutions/customer-enrichment) by partnering directly with other companies or using a third-party service, but both of these options have massive drawbacks.
 
-Striking up a deal with one or two companies to [buy their data](/how-to-find-and-buy-the-data-you-need-to-succeed) ensures that you are getting transparent and quality data you can trust, but it takes up excessive amounts of time and resources to ingest data from just a few sources. A third-party data provider allows you to access a variety of data from multiple sources in less time, but the aggregated data you are ingesting is not transparent at all. You won’t have straight answers to where the data has come from, how the data was defined, or how well the data was tested for accuracy. 
+Striking up a deal with one or two companies to [buy their data](/blog/how-to-find-and-buy-the-data-you-need-to-succeed) ensures that you are getting transparent and quality data you can trust, but it takes up excessive amounts of time and resources to ingest data from just a few sources. A third-party data provider allows you to access a variety of data from multiple sources in less time, but the aggregated data you are ingesting is not transparent at all. You won’t have straight answers to where the data has come from, how the data was defined, or how well the data was tested for accuracy. 
 
 The competitive solution, which allows your company to access transparent data from numerous sources all at once and acquire that data within a day or two, is to use a [data collaboration platform](https://www.narrative.io/). A data collaboration platform gives you access to a network of quality data providers and provides automated tools that make the data enrichment process easier. You get access to a variety of data and sources, but also can validate the trustworthiness of that data by being able to determine exactly where your data comes from. 
 

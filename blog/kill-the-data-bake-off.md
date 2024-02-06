@@ -6,7 +6,6 @@ author: 'Madeline Power'
 ogImage: '/img/blog/2017/05/kill-the-data-bake-off.png'
 image: '/img/blog/2017/05/kill-the-data-bake-off.png'
 tags: ['acquire', 'distribute']
-authorSlug: 'madeline-power'
 ---
 ### A modern data acquisition technology stack allows you to maximize your data enrichment capabilities
 

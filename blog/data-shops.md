@@ -6,7 +6,7 @@ author: 'Zeke Sexauer'
 ogImage: '/img/blog/2021/07/Data-Shops-%281%29.png'
 image: '/img/blog/2021/07/Data-Shops-%281%29.png'
 tags: ['data shops', 'distribute']
-authorSlug: 'zeke-sexauer'
+
 ---
 ### Data Shops is an end-to-end solution for standing up a data business, with tools that make it fast and easy to package, market, sell, and deliver data via a custom-branded e-commerce storefront
 

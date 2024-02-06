@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/11/Frame-1076-2.png'
 image: '/img/blog/2022/11/Frame-1076-2.png'
 tags: ['data shops', 'distribute']
-authorSlug: 'brenna-dilger'
+
 ---
 Every successful enterprise wants to rake in as much revenue as possible in order to continue to thrive and grow. However, many organizations aren't aware that the data they collect every day can be a significant source of revenue for them. As 2023 nears, more and more organizations are hopping on the data monetization train as they realize that data is becoming an extremely valuable asset. A good data monetization strategy is what could launch your organization into the next level of success. That's why building a data monetization strategy is even more vital for the coming year.
 

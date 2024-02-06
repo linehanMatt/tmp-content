@@ -32,7 +32,7 @@ In a similar vein, the CDO must work in tandem with the CTO to ensure that the t
 
 #### Empowering the C-Suite Through Collaboration and Skill Development
 
-One way to alleviate the pressures faced by the C-suite is through the adoption of [data collaboration platforms](/data-collaboration-platform). These platforms facilitate secure data sharing across different departments, reducing the effects of data silos and enabling the aggregation of data for richer insights.
+One way to alleviate the pressures faced by the C-suite is through the adoption of [data collaboration platforms](/blog/data-collaboration-platform). These platforms facilitate secure data sharing across different departments, reducing the effects of data silos and enabling the aggregation of data for richer insights.
 
 But technology is only one piece of the puzzle. For data initiatives to be effective, there must be a corresponding shift in organizational culture and skill development. The C-suite needs to foster an environment where data literacy is a valued skill, and employees are encouraged to engage in data-driven activities. This involves forming multidisciplinary teams that include data scientists, business analysts, and domain experts.
 

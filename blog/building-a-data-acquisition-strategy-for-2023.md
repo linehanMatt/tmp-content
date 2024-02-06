@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2022/11/acquisition23.png'
 image: '/img/blog/2022/11/acquisition23.png'
 tags: ['acquire']
-authorSlug: 'brenna-dilger'
+
 ---
 One major part of operating a successful enterprise is constantly discovering new knowledge and insights that can improve and elevate your business. The more information that you collect and analyze about your business, industry, market, and customers, the better informed your decisions will be and the more accurate your predictions about the future will be.
 

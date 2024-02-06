@@ -2,6 +2,7 @@
 title: S3 Connector
 description: Move your data to Amazon's S3 storage with ease and efficiency.
 image: /img/products/connectors/aws_connector.png
+layout: prince
 ---
 
 ::item-grid

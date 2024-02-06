@@ -6,7 +6,7 @@ author: 'Narrative'
 ogImage: '/img/blog/2022/05/6.png'
 image: '/img/blog/2022/05/6.png'
 tags: []
-authorSlug: 'narrative'
+
 ---
 Narrative now supports free data streams in its [Data Streams Marketplace](https://www.narrative.io/data-marketplace) and [Data Shops](https://www.narrative.io/data-shops). This will make it significantly easier and faster for sellers to send sample data to prospective buyers.
 
@@ -14,6 +14,6 @@ Sample data can significantly slow down the data acquisition lifecycle as buyers
 
 Zero cost data streams solve these problems by allowing providers to publish any subsection of their data for free. Buyers simply find and select their chosen data stream, add it to their cart, and then receive a data delivery within a couple of hours. Each provider's data can be purchased all at once, allowing the data evaluation process to be completed in less than a day. And the best part is neither the buyer or seller are charged for this data exchange.
 
-Zero cost data streams also allow Narrative to pull in free data from external data sources. For example, buyers may want to combine their location data with U.S. Census data. Instead of pulling data off of [data.census.gov](http://data.census.gov/), buyers can download one of Narrative's many Census data streams for free and use it as an input list to match against when creating a [Buyer Studio](https://www.narrative.io/buyer-studio) subscription.
+Zero cost data streams also allow Narrative to pull in free data from external data sources. For example, buyers may want to combine their location data with U.S. Census data. Instead of pulling data off of [data.census.gov](http://data.census.gov/), buyers can download one of Narrative's many Census data streams for free and use it as an input list to match against when creating a [query](/products/query-builder).
 
 Want some free data? Check out the zero cost data streams available in the [Narrative Data Streams Marketplace](https://www.narrative.io/data-marketplace) right now. We’ll be adding more data over the coming months!

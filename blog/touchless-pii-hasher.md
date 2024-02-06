@@ -8,7 +8,7 @@ image: '/img/blog/2020/11/touchless-pii-hasher.png'
 tags: []
 authorSlug: 'seth-shapiro'
 ---
-#### Narrative’s Touchless PII Hasher lets you quickly and securely transform email addresses into privacy-compliant, sharable identifiers.
+#### Narrative’s Touchless PII Hasher lets you quickly and securely transform email addresses into privacy-compliant, sharable identifiers
 
 Email addresses have become the gold standard for how organizations share customer data. They’re ubiquitous, persistent, and promise to be around for a long time. But they’re also considered personally identifiable information (PII), which means they need to stay private and secure.
 
@@ -22,8 +22,7 @@ Which is why we’re so excited to release the [Touchless PII Hasher](https://ap
 
 It’s fast, it’s free, and it protects your data—opening up a world of new insights and opportunities for your business.
 
-Create privacy-compliant IDs from data you already have
--------------------------------------------------------
+### Create privacy-compliant IDs from data you already have
 
 Every business has valuable and sensitive data about their customers. And of course, businesses need to carefully protect this personally identifiable information in order to maintain trust, safeguard proprietary assets, and comply with international regulations. But there’s huge potential value in gathering data from diverse sources and using identifiers across activation channels.
 
@@ -33,8 +32,7 @@ Our Touchless PII Hasher allows any business—even those without “data” dep
 
 Marketers, business analysts, and researchers can now handle the hashing process themselves—in seconds—with more time to focus on data acquisition, onboarding, analysis, and activation.
 
-Keep your data safe
--------------------
+### Keep your data safe
 
 Keeping your data safe means that it needs to be hashed by you, not by a third party. This ensures that sensitive data isn’t lost or stolen in transit, or shared with unreliable third parties.
 
@@ -42,8 +40,7 @@ With Touchless PII Hasher, you do the hashing yourself. No uploads, no inter-off
 
 You can use the resulting list on the Narrative data collaboration platform or with any of your data partners.
 
-Validate and hash massive lists with point-and-click ease
----------------------------------------------------------
+###Validate and hash massive lists with point-and-click ease
 
 Our customers were constantly frustrated by email lists that were too big for Excel or Google Sheets to handle, or needed to be “cleaned” and pre-formatted prior to hashing. This made it hard for some organizations to take advantage of opportunities on the [Data Streams Marketplace](https://app.narrative.io/#/products).
 
@@ -51,17 +48,16 @@ But now, buyers and sellers can use the Touchless PII Hasher to process millions
 
 Here's how it works:
 
-1.  Select which hashing function(s) you'd like to use to hash your emails: MD5, SHA-1, and/or SHA-256.
-2.  Upload your list of emails as a CSV or TXT file.
-3.  Click “Generate Hash.”
+1. Select which hashing function(s) you'd like to use to hash your emails: MD5, SHA-1, and/or SHA-256.
+2. Upload your list of emails as a CSV or TXT file.
+3. Click “Generate Hash.”
 
 And voila! In a few seconds, you'll have a list of hashed emails that you can use wherever you need.
 
 [![Touchless PII Hash Generator process](https://solutions.narrative.io/hubfs/Blog/touchless-pii-hasher-process.gif)](https://app.narrative.io/app/touchless-pii-hasher)
 
-Get hashing!
-------------
+### Get hashing
 
 [Touchless PII Hasher](https://app.narrative.io/app/touchless-pii-hasher) is available for free to everyone.
 
-If you’d like to learn more about how Touchless PII Hasher works, [visit the knowledge base](https://kb.narrative.io/how-do-i-use-the-touchless-pii-hasher-app) or [schedule a call with a member of our sales team](https://www.narrative.io/demo).
+If you’d like to learn more about how Touchless PII Hasher works, [visit the knowledge base](https://kb.narrative.io/how-do-i-use-the-touchless-pii-hasher-app) or [schedule a call with a member of our sales team](https://www.narrative.io/contact).

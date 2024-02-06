@@ -6,7 +6,7 @@ author: 'Brenna Dilger'
 ogImage: '/img/blog/2021/11/3-elements-of-data-driven-marketing-1.png'
 image: '/img/blog/2021/11/3-elements-of-data-driven-marketing-1.png'
 tags: ['data economy']
-authorSlug: 'brenna-dilger'
+
 ---
 Every time your organization collects a new data point, you have found another gold flake in the river of information that is rushing through our economy. Your organization collects an immense amount of these gold flakes on a daily basis, so how can you turn them into cash flow? 
 
