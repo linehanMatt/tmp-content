@@ -7,7 +7,7 @@ ogImage: '/img/blog/2019/05/speed-matters.jpg'
 image: '/img/blog/2019/05/speed-matters.jpg'
 tags: ['acquire', 'data economy', 'distribute']
 ---
-### Time to market can affect your ability to compete.
+### Time to market can affect your ability to compete
 
 In 2018, the global revenue for data sales was $19.2 billion. Eighty percent of data buyers expect to spend more in 2019. It's clear that the race is on for both buyers and sellers to capitalize on the promise of big data.  
   
@@ -53,9 +53,9 @@ If the current manual process isn't revamped, the inefficient nature of buying a
 
 Narrative has developed two platforms that address the specific needs of both data buyers and sellers. In offering a centralized resource by which to schedule transactions, it changes data transactions from many-to-many to a one-to-many effort. The result is an easier, transparent, and efficient process.  
   
-With a few clicks in the [Narrative Acquire](https://narrative.io/platform-acquire) platform, buyers can utilize a set of tools to discover, test, and ultimately obtain specific data types from across various providers. Data is then deduplicated and delivered in the preferred format to the desired location. The platform also tracks transactions details such as data volume and pricing.  
+With a few clicks in [Data Studio](/products/data-studio) platform, buyers can utilize a set of tools to discover, test, and ultimately obtain specific data types from across various providers. Data is then deduplicated and delivered in the preferred format to the desired location. The platform also tracks transactions details such as data volume and pricing.  
   
-Similarly, suppliers can manage data sales via [Narrative Distribute](https://narrative.io/platform-distribute). Filters can be applied to the data, such as matches to specific IDs or locations, and set up to fulfill on an ongoing basis. Utilizing the Narrative platform reduces the reliance on the engineering team to prepare and send data, and gets data to market more quickly.  
+Similarly, suppliers can manage data sales via [Data Studio](/products/data-studio). Filters can be applied to the data, such as matches to specific IDs or locations, and set up to fulfill on an ongoing basis. Utilizing the Narrative platform reduces the reliance on the engineering team to prepare and send data, and gets data to market more quickly.  
   
 The goal here is to eliminate or reduce the manual and repetitive tasks and process which currently slow down data from being bought and sold. The result: you get to spend time producing excellent outcomes with the data, not figuring out how to best deliver or ingest it.  
   
