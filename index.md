@@ -9,7 +9,7 @@ description: "Harness No-code, AI-Enabled Tools for Scalable, Secure, and Sophis
 ::feature-callout{title="Empower Every User, Any Skill Level" description="Designed for simplicity, our platform allows users of all skill levels to navigate and manage data effectively, without the need for extensive technical knowledge." prompt="How does the platform's ease of use benefit users with varying levels of technical expertise?"}
 ::
 
-::feature-callout{title="Uphold Highest Security Standards" description="Ensure the highest level of data security and compliance, protecting sensitive information while fostering collaboration." prompt="What measures does the platform take to maintain data security and compliance?"}
+::feature-callout{title="Uphold TheHighest Security Standards" description="Ensure the highest level of data security and compliance, protecting sensitive information while fostering collaboration." prompt="What measures does the platform take to maintain data security and compliance?"}
 ::
 
 ::feature-callout{title="Enable Real-Time Data Sharing" description="Facilitate instant data sharing and collaboration, enabling teams to work together in real-time, regardless of their location." prompt="How does real-time data sharing improve team collaboration and efficiency?"}
