@@ -14,5 +14,5 @@ layout: 'jungle-fever'
 ::feature-callout{title="Privacy First" description="Our platform was built with consumer privacy and sensitive data in mind" prompt="How does Narrative deal with sensitive data?"}
 ::
 
-::mega-feature-callout{title="Privacy First" subtitle="Easily hash your existing identifiers to keep them safe" description="Read about our PII Hashing App" link-url="/blog/touchless-pii-hasher"" link-text="Read More"}
+::mega-feature-callout{title="Privacy First" subtitle="Easily hash your existing identifiers to keep them safe" description="Read about our PII Hashing App" link-url="/blog/touchless-pii-hasher" link-text="Read More"}
 ::
