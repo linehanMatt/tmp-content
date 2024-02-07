@@ -16,7 +16,7 @@ layout: 'jungle-fever'
 ::feature-callout{ :title="Fast Forecasting" :description="Have a hot lead that needs a custom product.  Get them a forecast and quote FAST." :prompt="How fast can Narrative create forecasts?"}
 ::
 
-::feature-callout{ :title="Powerufl" :description="Narrative's Data Commerce Platform can handle almost any data request from the mundate to the seamingly impossible." :prompt="How customizable are data products in Narrative?"}
+::feature-callout{ :title="Powerful" :description="Narrative's Data Commerce Platform can handle almost any data request from the mundate to the seamingly impossible." :prompt="How customizable are data products in Narrative?"}
 ::
 
 ::feature-callout{ :title="Easy to Use" :description="Narrative's Data Commerce Platform is easy to use and understand.  No need to be a data scientist to sell data.  Empower your sales team directly!" :prompt="Can a Sales Person use Narrative's Data Commerce Platform?"}
