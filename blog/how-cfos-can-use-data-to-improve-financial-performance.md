@@ -10,9 +10,9 @@ tags: ['solutions']
 ---
 As a Chief Financial Officer, you’re always looking for ways to improve the financial performance of your company.  One of the key components that impacts the financial performance of your company is the strategic use of internal and external data. By using data effectively, you can identify areas of opportunity, create cost-effective solutions, and maximize revenue for your company.
 
-Internal data provides the foundational building blocks for data-driven decision-making, while [external data can fill in the gaps and extend the reach of your data-driven initiatives to give you a competitive edge](https://blog.narrative.io/gain-a-competitive-edge-with-a-new-data-enrichment-strategy). 
+Internal data provides the foundational building blocks for data-driven decision-making, while [external data can fill in the gaps and extend the reach of your data-driven initiatives to give you a competitive edge](/blog/gain-a-competitive-edge-with-a-new-data-enrichment-strategy). 
 
-External data, also known as [third-party data](https://blog.narrative.io/first-party-second-party-third-party-data), is data that is collected from outside of an organization. In a [recent survey](https://www2.deloitte.com/us/en/insights/focus/signals-for-strategists/smart-analytics-with-external-data.html), nearly half of companies reported using external data in their analytics activities, and 92% of data analytics professionals said their firms needed to increase use of external data sources. Additionally, about 54% surveyed said their companies plan to increase spending on it.
+External data, also known as [third-party data](/blog/first-party-second-party-third-party-data), is data that is collected from outside of an organization. In a [recent survey](https://www2.deloitte.com/us/en/insights/focus/signals-for-strategists/smart-analytics-with-external-data.html), nearly half of companies reported using external data in their analytics activities, and 92% of data analytics professionals said their firms needed to increase use of external data sources. Additionally, about 54% surveyed said their companies plan to increase spending on it.
 
 Applying external data sources can help CFOs budget, mitigate risk, make better predictions, and plan better when allocating resources and launching initiatives. Sourcing the right external data can have a huge financial impact on your organization, if you know how to use it effectively.
 
@@ -28,7 +28,7 @@ Use external data to improve budgeting and forecasting 
 
 In a post-pandemic world, uncertainty and volatility are becoming more of the norm than the exception when it comes to business. As a CFO, you must be more flexible with budgeting and resources in order to respond to change quickly and effectively. External data sources can help you better predict and plan for potential future events, and enable you  to adapt quickly to anything that may come up unexpectedly. 
 
-Forecasting is more accurate and useful when it is powered by a mix of quality internal and external data. Market data can help CFOs predict trends, sales, supply, and demand. It can also help you make decisions when it comes to budgeting and allocating resources. For example, [location data](https://blog.narrative.io/the-complete-guide-to-location-data) can help CFOs make the right financial decisions when it comes to allocating resources toward store locations. 
+Forecasting is more accurate and useful when it is powered by a mix of quality internal and external data. Market data can help CFOs predict trends, sales, supply, and demand. It can also help you make decisions when it comes to budgeting and allocating resources. For example, [location data](/blog/the-complete-guide-to-location-data) can help CFOs make the right financial decisions when it comes to allocating resources toward store locations. 
 
 By acquiring the data that illustrates the financial state of your market and your competition, your organization can stay ahead of the curve when it comes to making better financial decisions and strategies. 
 
@@ -46,7 +46,7 @@ Buying from a data collaboration platform also [ensures that you won’t buy dup
 Improve internal data accessibility with data sharing 
 ------------------------------------------------------
 
-[Data sharing](https://blog.narrative.io/what-is-data-sharing) is the act of making data available to other individuals or groups within an organization. Companies that share data make better informed business decisions and provide better clarity across their organization. In fact, 76% of finance leaders say decision makers increasingly have access to important data about business operations and performance through systems/providers outside of finance. 
+[Data sharing](/blog/what-is-data-sharing) is the act of making data available to other individuals or groups within an organization. Companies that share data make better informed business decisions and provide better clarity across their organization. In fact, 76% of finance leaders say decision makers increasingly have access to important data about business operations and performance through systems/providers outside of finance. 
 
 A CFO’s access to data from other departments within their own organization keeps them up-to-date with everything they need to know to make the best financial decisions. The most accurate and successful financial planning and strategy is made when every aspect of a company is taken into account. With direct access to all sales data, product data, marketing data, and more, you’ll be able to put all of the pieces of your financial puzzle together.  
 
@@ -59,7 +59,7 @@ Just as you’re willing to spend money to get the external data that your compa
 
 As a CFO, you’re always looking for ways to generate more revenue. Selling data assets that your company is constantly collecting is one of the best ways to start raking in a new stream of revenue without too much risk. You know there are companies willing to buy your data sources, and that data is already sitting in hard drives waiting to be used. It just needs to be packaged and put into a marketplace.
 
-Turning your own data assets into a new stream of revenue can seem daunting, but the barriers to entry have significantly lowered with the introduction of new technology and more modern methods of data monetization. Nowadays, you can [start selling your company’s data](https://blog.narrative.io/how-to-start-selling-your-data) with just a few clicks and start generating a new stream of revenue quickly and easily. 
+Turning your own data assets into a new stream of revenue can seem daunting, but the barriers to entry have significantly lowered with the introduction of new technology and more modern methods of data monetization. Nowadays, you can [start selling your company’s data](/blog/how-to-start-selling-your-data) with just a few clicks and start generating a new stream of revenue quickly and easily. 
 
 How Narrative can help CFOs improve financial performance 
 ----------------------------------------------------------

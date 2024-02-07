@@ -19,7 +19,7 @@ With increasing demand for data scientists’ analysis and insights, how can bus
 **Have your data cleaned for you with the latest data technology**
 ==================================================================
 
-What if the external data you received was already formatted exactly how you need it? By freeing up your data analysts’ hours, they’ll have more time to analyze the data you’ve acquired and help [create data products](https://blog.narrative.io/5-steps-to-building-a-successful-data-product) that will bring in revenue for your company. 
+What if the external data you received was already formatted exactly how you need it? By freeing up your data analysts’ hours, they’ll have more time to analyze the data you’ve acquired and help [create data products](/blog/5-steps-to-building-a-successful-data-product) that will bring in revenue for your company. 
 
 Data scientists can win back hundreds of hours of productivity, reduce costs associated with errors, and help their organization make well-informed decisions. They just need the right technology to decrease the amount of time spent on data wrangling. That technology is available through [data commerce platforms like Narrative](/faq/what-is-data-collaboration).
 
@@ -49,8 +49,8 @@ You’ll practically eliminate error in your data cleansing when cutting-edge te
 
 Whenever you are combining multiple data sources, there are many opportunities for data to be duplicated or mislabeled. Narrative’s software has the ability to fix or remove incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. This ensures that all buyers and sellers are dealing with high-quality and relevant data within the Narrative ecosystem. 
 
-If you are a [data provider](https://blog.narrative.io/how-to-start-selling-your-data), all you have to do is ingest your data in its native form into Narrative’s platform and our software will validate, clean, store, and organize your data. Your data will be prepared for you to package into a sellable product, with minimal time and effort on your part. 
+If you are a [data provider](/blog/how-to-start-selling-your-data), all you have to do is ingest your data in its native form into Narrative’s platform and our software will validate, clean, store, and organize your data. Your data will be prepared for you to package into a sellable product, with minimal time and effort on your part. 
 
-If you are a [data consumer](https://blog.narrative.io/buyer-studio), you can trust that the data you’re ingesting has been expertly processed by our automated system. Instead of risking ingesting irrelevant or bad quality data from a data broker, you can rest assured that Narrative’s automated platform is giving you clean and standardized data that has been processed by the latest data technology. Once your data has been processed for you, your data scientists and engineers can use that spotless data to perform analyses, glean insights, and generate solutions.
+If you are a [data consumer](/blog/buyer-studio), you can trust that the data you’re ingesting has been expertly processed by our automated system. Instead of risking ingesting irrelevant or bad quality data from a data broker, you can rest assured that Narrative’s automated platform is giving you clean and standardized data that has been processed by the latest data technology. Once your data has been processed for you, your data scientists and engineers can use that spotless data to perform analyses, glean insights, and generate solutions.
 
 **Stop wasting time wrangling data.** [**Get clean data instantly with the Narrative data commerce platform**](/contact)**.**

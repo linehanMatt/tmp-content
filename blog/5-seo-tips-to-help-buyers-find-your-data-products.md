@@ -8,14 +8,14 @@ image: '/img/blog/2022/01/Screen-Shot-2022-01-19-at-4.05.36-PM.png'
 tags: ['data shops', 'distribute']
 
 ---
-If you’ve started an ecommerce data business in order to capitalize on the growing data monetization market, you know that one of the most important steps in [selling your data products](https://blog.narrative.io/how-to-start-selling-your-data) is making your data products discoverable to buyers. In the ecommerce world, one of the best ways to greatly increase the probability that your products will be organically found by the right buyers is to implement good search engine optimization (SEO) practices.
+If you’ve started an ecommerce data business in order to capitalize on the growing data monetization market, you know that one of the most important steps in [selling your data products](/blog/how-to-start-selling-your-data) is making your data products discoverable to buyers. In the ecommerce world, one of the best ways to greatly increase the probability that your products will be organically found by the right buyers is to implement good search engine optimization (SEO) practices.
 
-An [ecommerce data business](https://blog.narrative.io/guide-to-data-shops) requires the same strategic attention and execution as an ecommerce clothing store. In order to build a good SEO strategy around the ecommerce data products you want your customers to find, you’ll need to know the basics.
+An [ecommerce data business](/blog/guide-to-data-shops) requires the same strategic attention and execution as an ecommerce clothing store. In order to build a good SEO strategy around the ecommerce data products you want your customers to find, you’ll need to know the basics.
 
 **What are SEO best practices?**
 ================================
 
-SEO best practices are guidelines designed to help improve search engine rankings. You can’t [monetize your data](https://blog.narrative.io/3-ways-to-monetize-data) products if they aren’t being found. You want your data to be easily discoverable by the people who are actively searching for the data you have to offer, and SEO will help get your data products in front of those buyers. There are many different strategies that you can implement in order to get higher Google rankings, but there are a few universal basics that will never steer you wrong. 
+SEO best practices are guidelines designed to help improve search engine rankings. You can’t [monetize your data](/blog/3-ways-to-monetize-data) products if they aren’t being found. You want your data to be easily discoverable by the people who are actively searching for the data you have to offer, and SEO will help get your data products in front of those buyers. There are many different strategies that you can implement in order to get higher Google rankings, but there are a few universal basics that will never steer you wrong. 
 
 **1\. Identify and include keywords** 
 ======================================

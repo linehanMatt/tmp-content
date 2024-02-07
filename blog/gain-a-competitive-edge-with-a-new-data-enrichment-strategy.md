@@ -17,7 +17,7 @@ That’s where data enrichment comes in.
 What is data enrichment?
 ========================
 
-[Data enrichment](https://blog.narrative.io/data-enrichment) is the process of incorporating raw data from outside sources to enhance and improve your own first-party data. It is the key to developing insights that are critical to marketing strategies and brand growth. 
+[Data enrichment](/blog/data-enrichment) is the process of incorporating raw data from outside sources to enhance and improve your own first-party data. It is the key to developing insights that are critical to marketing strategies and brand growth. 
 
 Using data from external sources is the only way to fill in the gaps of discovering who your customers are, especially if you haven’t collected massive amounts of internal data yet. With better data accuracy and customer targeting, your company can provide the tailor-made experiences that customers are expecting.
 
@@ -26,7 +26,7 @@ All successful companies are enriching their data, so how can you gain a competi
 Acquire enrichment data the right way 
 ======================================
 
-To keep up with the data-powered business world, you’ll need to collect lots of data, and you’ll need to do it fast. You could [acquire enrichment data](https://www.narrative.io/solutions/customer-enrichment) by partnering directly with other companies or using a third-party service, but both of these options have massive drawbacks.
+To keep up with the data-powered business world, you’ll need to collect lots of data, and you’ll need to do it fast. You could [acquire enrichment data](/solutions/data-enrichment) by partnering directly with other companies or using a third-party service, but both of these options have massive drawbacks.
 
 Striking up a deal with one or two companies to [buy their data](/blog/how-to-find-and-buy-the-data-you-need-to-succeed) ensures that you are getting transparent and quality data you can trust, but it takes up excessive amounts of time and resources to ingest data from just a few sources. A third-party data provider allows you to access a variety of data from multiple sources in less time, but the aggregated data you are ingesting is not transparent at all. You won’t have straight answers to where the data has come from, how the data was defined, or how well the data was tested for accuracy. 
 

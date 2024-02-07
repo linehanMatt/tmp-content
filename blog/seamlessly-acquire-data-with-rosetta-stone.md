@@ -19,7 +19,7 @@ Once Rosetta Stone does its job, the systems acquiring and ingesting the data wo
 **How does Rosetta Stone work?**
 ================================
 
-To illustrate an example of Rosetta Stone in action, observe the [weather data](https://blog.narrative.io/the-complete-guide-to-weather-data) below. This data was collected by three suppliers that want to make their data available to buyers:
+To illustrate an example of Rosetta Stone in action, observe the [weather data](/blog/the-complete-guide-to-weather-data) below. This data was collected by three suppliers that want to make their data available to buyers:
 
 ![Screenshot 2023-05-15 at 2.29.21 PM](https://solutions.narrative.io/hubfs/Screenshot%202023-05-15%20at%202.29.21%20PM.png)
 
@@ -42,12 +42,12 @@ Rosetta Stone can then create this combined output:
 
 Rosetta Stone is the secret sauce that makes Narrative the #1 data collaboration platform in the world. It allows for buyers using Narrative to scale their data acquisition and buy lots of data from numerous suppliers at once. It breaks down barriers, opens new doors, and is blazing a new trail for the data economy.
 
-With Rosetta Stone, a buyer just has to ask and they shall receive. Someone [buying data](https://blog.narrative.io/how-to-find-and-buy-the-data-you-need-to-succeed) can request the data they want and Rosetta Stone will find where that data resides, transform it, and normalize it. Rosetta Stone also keeps the provenance of the data attached to the record so that buyers know where their data is coming from. This ensures quality, precision, and transparency for all data acquirers. 
+With Rosetta Stone, a buyer just has to ask and they shall receive. Someone [buying data](/blog/how-to-find-and-buy-the-data-you-need-to-succeed) can request the data they want and Rosetta Stone will find where that data resides, transform it, and normalize it. Rosetta Stone also keeps the provenance of the data attached to the record so that buyers know where their data is coming from. This ensures quality, precision, and transparency for all data acquirers. 
 
-Rosetta Stone makes buying precise third party data from numerous suppliers at once effortless. Data analysts and engineers often sink too much time into [data cleansing](https://blog.narrative.io/how-to-save-time-get-clean-data-automatically-streamline-data-wrangling) and normalization across disparate datasets. The tedious task of [cleaning](https://blog.narrative.io/how-to-save-time-get-clean-data-automatically-streamline-data-wrangling) and formatting any data you’ve acquired is taken care of for you on the backend. Data can be taken from several providers and delivered to a buyer’s preferred endpoint in a preferred format within hours. 
+Rosetta Stone makes buying precise third party data from numerous suppliers at once effortless. Data analysts and engineers often sink too much time into [data cleansing](/blog/how-to-save-time-get-clean-data-automatically-streamline-data-wrangling) and normalization across disparate datasets. The tedious task of [cleaning](/blog/how-to-save-time-get-clean-data-automatically-streamline-data-wrangling) and formatting any data you’ve acquired is taken care of for you on the backend. Data can be taken from several providers and delivered to a buyer’s preferred endpoint in a preferred format within hours. 
 
 As a data seller, you also won’t need to worry about transforming your data to be ingested by a potential buyer. You can upload all of your raw data into Narrative as it is natively stored. Rosetta Stone then makes it possible to combine datasets and create data products that will be instantly compatible with a buyer’s systems once they’ve ingested it. 
 
-Whether you are looking to [buy data](https://blog.narrative.io/how-to-find-and-buy-the-data-you-need-to-succeed) to improve internal operations and strategies, [sell data](https://blog.narrative.io/how-to-start-selling-your-data) to generate a brand new revenue stream, or [share data internally](https://blog.narrative.io/what-is-data-sharing) across your organization, Narrative’s Rosetta Stone makes fast and seamless data transference a reality.
+Whether you are looking to [buy data](/blog/how-to-find-and-buy-the-data-you-need-to-succeed) to improve internal operations and strategies, [sell data](/blog/how-to-start-selling-your-data) to generate a brand new revenue stream, or [share data internally](/blog/what-is-data-sharing) across your organization, Narrative’s Rosetta Stone makes fast and seamless data transference a reality.
 
 **Narrative's Rosetta Stone makes buying and selling data easier than ever.** [**Our experts can help you get started!**](/contact)

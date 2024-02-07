@@ -8,7 +8,7 @@ image: '/img/blog/2019/10/identity-resolution-social.png'
 tags: ['acquire', 'identity']
 
 ---
-[Identity resolution](https://www.narrative.io/solutions/identity-resolution) is the process of connecting multiple [identifiers](https://www.narrative.io/data-types/digital-identity-data) across devices and channels to build a cohesive, omnichannel view of individual consumers.
+[Identity resolution](/solutions/identity-resolution) is the process of connecting multiple [identifiers](https://www.narrative.io/data-types/digital-identity-data) across devices and channels to build a cohesive, omnichannel view of individual consumers.
 
 In this era of people-based marketing, getting identity resolution right is foundational to the success of all aspects of marketing strategy, impacting everything from insight generation and media optimization to measurement, attribution, and the delivery of better individual customer experiences.
 
@@ -64,7 +64,7 @@ In the late 2000s, [demand-side platforms (DSPs) transformed the world of digita
 
 Narrative is rebuilding the data industry in a similar way. Using Narrative, brands are able to evaluate [identity data](https://www.narrative.io/data-types/digital-identity-data) from numerous suppliers at once, and then purchase the precise data points they need based on their explicit criteria. 
 
-With Narrative, brands can quickly and easily [build a proprietary identity graph](https://www.narrative.io/solutions/identity-resolution) according to their specific business needs, strategies, and goals. With full control and ownership of their identity graphs—and the data and linkages that underlie them—brands reduce risk, eliminate costly licensing fees, and gain the ability to build fully attributable, measurable, and actionable marketing strategies across the full customer experience.
+With Narrative, brands can quickly and easily [build a proprietary identity graph](/solutions/identity-resolution) according to their specific business needs, strategies, and goals. With full control and ownership of their identity graphs—and the data and linkages that underlie them—brands reduce risk, eliminate costly licensing fees, and gain the ability to build fully attributable, measurable, and actionable marketing strategies across the full customer experience.
 
 Building an in-house identity graph with Narrative
 ==================================================

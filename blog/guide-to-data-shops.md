@@ -69,7 +69,7 @@ It’s important to be aware of the [different types of laws, regulations, and o
 **Step 2: Upload & Optimize Your Raw Data** 
 ============================================
 
-Now that you have determined what data you want to monetize and who you want to market that data to, the next step is to ingest your data into Narrative’s data collaboration platform using the first app in [Data Shop’s](https://blog.narrative.io/data-shops) suite of apps, [Dataset Manager](https://app.narrative.io/app/dataset-manager). 
+Now that you have determined what data you want to monetize and who you want to market that data to, the next step is to ingest your data into Narrative’s data collaboration platform using the first app in [Data Shop’s](/blog/data-shops) suite of apps, [Dataset Manager](https://app.narrative.io/app/dataset-manager). 
 
 ![](https://lh6.googleusercontent.com/xbRxpzvqpFz0YxpvIzVAxstfaNnsSo2xpysIQxhE3qYttb3C9BW7LFyphGbFsF1MqI-FDAXybAjOVuFEcc_wQRHSEVnwXMySue5iEPE01BV5L9OP6Ieo0dETpfk5DBN_Q12fXwlE)
 

@@ -57,7 +57,7 @@ Answering questions like this could help organizations find a ballpark range of 
 
 After carefully evaluating all of the factors that go into determining the worth of your company’s data, you might realize that your data could be worth a lot more than you thought! 
 
-But how do you [get started on selling that data](https://blog.narrative.io/how-to-start-selling-your-data)? There are a number of ways that you can sell your data to other organizations and begin generating revenue. 
+But how do you [get started on selling that data](/blog/how-to-start-selling-your-data)? There are a number of ways that you can sell your data to other organizations and begin generating revenue. 
 
 The first option is to directly sell to another company. This would require finding and building a relationship with a company that might be interested in your data, hiring data engineers to transform and transfer your data, and getting legal teams involved to negotiate contracts. This process often takes months to years, becoming costly and tedious. And, once one direct data transaction has been finalized, you must repeat the process all over again if you want to sell to a different company. 
 

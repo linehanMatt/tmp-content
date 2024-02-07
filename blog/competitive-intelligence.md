@@ -24,7 +24,7 @@ There are many different [types of data](https://www.narrative.io/data-types) th
 
 ### Location data for better marketing and site-planning
 
-[Location data](https://blog.narrative.io/the-complete-guide-to-location-data) can give you insight into where your customers are going and if they are coming into contact with any of your competitor’s ads, brick-and-mortar locations, or events. By analyzing trends in footfall, your organization can see the locations that are frequented by customers and how this varies over time.
+[Location data](/blog/the-complete-guide-to-location-data) can give you insight into where your customers are going and if they are coming into contact with any of your competitor’s ads, brick-and-mortar locations, or events. By analyzing trends in footfall, your organization can see the locations that are frequented by customers and how this varies over time.
 
 Are your customers always passing by a billboard that your competitor advertises on? Are they getting coffee right around the corner from one of your competitor’s store locations? Did several of them attend a pop-up sales event that your competitor orchestrated? With information like this, your organization can make better informed decisions about where to advertise, where to open competing stores, and how to outperform your competitors' advertising and marketing efforts.
 
@@ -57,6 +57,6 @@ How do you get all of the competitive intelligence data you need?
 
 If you combine all of the data we discussed above plus any other relevant competitor data that you know will provide critical insights, you’ll have the power to grow your business multi-fold. But how do you get all of this data? There are so many different types of relevant data and so many different sources of data that organizations are often daunted by the task of acquiring all of the data they need.
 
-The easiest, fastest, and most effective way to get access to competitor data that will boost your business is to use a [data commerce](https://blog.narrative.io/5-principles-of-data-commerce) platform. [Narrative’s data commerce platform](https://www.narrative.io/) gives organizations access to multiple data sources and multiple data types all at once. By simplifying and automating the most time- and labor-intensive aspects of data acquisition, you’ll be able to find and buy the exact data points you need from the data providers you select. And you’ll be able to browse and cherry-pick the data you want with just a few clicks. No negotiations needed and no technical expertise required.
+The easiest, fastest, and most effective way to get access to competitor data that will boost your business is to use a [data commerce](/blog/5-principles-of-data-commerce) platform. [Narrative’s data commerce platform](https://www.narrative.io/) gives organizations access to multiple data sources and multiple data types all at once. By simplifying and automating the most time- and labor-intensive aspects of data acquisition, you’ll be able to find and buy the exact data points you need from the data providers you select. And you’ll be able to browse and cherry-pick the data you want with just a few clicks. No negotiations needed and no technical expertise required.
 
 Want to learn more? [Our experts will get you started.](/contact)

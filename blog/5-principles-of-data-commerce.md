@@ -26,7 +26,7 @@ Every data collaboration platform should operate on five fundamental principles 
 
 There is no one-size-fits-all solution in the world of data collaboration. Each organization comes with unique challenges and goals, which require custom data solutions. You should feel empowered to create a data strategy that fits your organization’s unique journey.
 
-The tools provided by a data collaboration platform should give you maximum control over your data monetization initiatives and [data acquisition strategies](https://blog.narrative.io/building-a-data-acquisition-strategy-for-2022). Whether you are a buyer or a seller, you want to have complete autonomy over budgets, partners, and customizing data products. 
+The tools provided by a data collaboration platform should give you maximum control over your data monetization initiatives and [data acquisition strategies](/blog/building-a-data-acquisition-strategy-for-2023). Whether you are a buyer or a seller, you want to have complete autonomy over budgets, partners, and customizing data products. 
 
 **2\. Liquidity** 
 ==================

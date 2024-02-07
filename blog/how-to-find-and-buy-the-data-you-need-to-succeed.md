@@ -22,7 +22,7 @@ Fortunately, you can get started acquiring the data you need to succeed as soon 
 
 It’s important to determine what kind of data will bring value to your organization and how you intend to use that data to help your company grow and evolve. Are you seeking to acquire data in order to answer a specific question? Are you trying to optimize an existing solution? Are you trying to gain insights to solve a series of problems?
 
-Whether you are trying to answer a specific question with new insights or optimize an existing system, you will want a large and diverse set of data related to your area of concern. In order to fine-tune your focus, you’ll want to pinpoint the ways that [external data](https://blog.narrative.io/first-party-second-party-third-party-data) is going to improve your organization so that you have a clear mission in your data acquisition search.
+Whether you are trying to answer a specific question with new insights or optimize an existing system, you will want a large and diverse set of data related to your area of concern. In order to fine-tune your focus, you’ll want to pinpoint the ways that [external data](/blog/first-party-second-party-third-party-data) is going to improve your organization so that you have a clear mission in your data acquisition search.
 
 Once you have figured out what kind of data you need, you’ll also want to determine what kinds of companies might have the data you’re searching for. For instance, if you’re searching for data on transactions and purchasing patterns, you might acquire that data from marketing companies or credit card companies. If you are searching for medical or pharmaceutical data, you might find that data available from healthcare provider websites or apps. 
 
@@ -63,7 +63,7 @@ There are a few different ways that you can [find and buy data](https://www.narr
 
 You can make a direct negotiation with another company that has the data you want to buy. This is a tried-and-true way to acquire precise and trustworthy data, since you know exactly where the data is coming from and have a direct relationship with the company whose data you will be using. However, this can be a time and labor-intensive process. 
 
-You’ll need to go through several steps with this method: doing research to find companies that might have the data you need, [evaluating data from various sources](https://blog.narrative.io/kill-the-data-bake-off), negotiating a deal, and then having your data engineers integrate their data with yours.
+You’ll need to go through several steps with this method: doing research to find companies that might have the data you need, [evaluating data from various sources](/blog/kill-the-data-bake-off), negotiating a deal, and then having your data engineers integrate their data with yours.
 
 This process generally takes a few months to a few years before you actually see any of the data you want to acquire. And if you decide you need a new type of data, you’ll have to repeat this time-consuming and labor-intensive process over again.
 
@@ -79,7 +79,7 @@ You also aren’t able to pick and choose which datasets you want. Data brokers 
 **Buy from a data exchange**
 ----------------------------
 
-[Data exchanges](https://blog.narrative.io/what-is-a-data-exchange) are marketplaces where data providers and data consumers are able to buy or sell data to one another. Much like marketplaces, they are spaces that allow for vendors and buyers to meet, evaluate, and transact.
+[Data exchanges](/blog/what-is-a-data-exchange) are marketplaces where data providers and data consumers are able to buy or sell data to one another. Much like marketplaces, they are spaces that allow for vendors and buyers to meet, evaluate, and transact.
 
  Buying data from a data exchange is also a fast and easy route to go. However, there is still little to no opportunity to customize the data you’re ingesting. You can purchase pre-packaged data the way the distributor gives it to you and that’s it. 
 
@@ -103,7 +103,7 @@ Essentially, a data collaboration platform combines all of the benefits of the o
 
 [Narrative’s data collaboration platform](/faq/what-is-data-collaboration) provides an easy way to buy data, with advanced filtering options, customization tools, and subscription options. You can find the exact data you need from dozens of providers and have it delivered in your preferred format within hours.
 
-These tools also help you automate data discovery, [streamline cleaning](https://blog.narrative.io/how-to-save-time-get-clean-data-automatically-streamline-data-wrangling) and formatting tasks, and eliminate duplicate data. Since the most frustrating parts of data acquisition are automated on the backend, Narrative’s platform makes buying data as easy as ordering groceries online. The user-friendly interface requires no technical expertise to purchase data with just a few clicks. 
+These tools also help you automate data discovery, [streamline cleaning](/blog/how-to-save-time-get-clean-data-automatically-streamline-data-wrangling) and formatting tasks, and eliminate duplicate data. Since the most frustrating parts of data acquisition are automated on the backend, Narrative’s platform makes buying data as easy as ordering groceries online. The user-friendly interface requires no technical expertise to purchase data with just a few clicks. 
 
 This quick tutorial takes you through the steps to purchase data in Narrative's [Buyer Studio in one minute or less:](/blog/buyer-studio)
 

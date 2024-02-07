@@ -42,7 +42,7 @@ By having convenient access to large amounts of actionable data from multiple so
 
 Through data collaboration, data can be utilized more than once between multiple parties, both internally and externally. Appending your first-party data with quality external data enriches your data to be more well-rounded, trustworthy, and useful.
 
-Not only can you access valuable data sources through data collaboration, you can also cash in on the value of your own data assets. By [selling your own first-party data](https://blog.narrative.io/how-to-start-selling-your-data) to organizations that are actively seeking it, your company can begin generating an entirely new source of revenue.
+Not only can you access valuable data sources through data collaboration, you can also cash in on the value of your own data assets. By [selling your own first-party data](/blog/how-to-start-selling-your-data) to organizations that are actively seeking it, your company can begin generating an entirely new source of revenue.
 
 Barriers to effective data collaboration
 ----------------------------------------

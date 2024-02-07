@@ -48,7 +48,7 @@ Or review the steps below.
 
 #### 1\. Upload your data into Narrative’s platform using Dataset Manager
 
-You can find detailed instructions on how to upload your data [here](https://blog.narrative.io/guide-to-data-shops) or watch our demo video [here](https://www.youtube.com/watch?v=F2_mKd0UCtI).
+You can find detailed instructions on how to upload your data [here](/blog/guide-to-data-shops) or watch our demo video [here](https://www.youtube.com/watch?v=F2_mKd0UCtI).
 
 #### 2\. Slice and dice your data into meaningful segments using Seller Studio
 

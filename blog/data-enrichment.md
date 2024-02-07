@@ -12,7 +12,7 @@ Having access to high-quality granular data is mission-critical for any modern b
 
 While all brands get data from their customers, there’s a limit to the amount of information that they can collect without negatively impacting the customer experience. Gaps in customer profiles lowers the efficacy of digital marketing efforts, reduce the return on marketing spend, and limits opportunities for new insights.
 
-To fill in these gaps in their customer profiles, brands use [data enrichment](https://www.narrative.io/solutions/customer-enrichment).
+To fill in these gaps in their customer profiles, brands use [data enrichment](/solutions/data-enrichment).
 
 ### What is data enrichment?
 
@@ -39,7 +39,7 @@ Typically, there have been two ways for brands to acquire external data for enri
 
 When brands need access to raw data, they'll often make deals with other companies to purchase their first-party data directly.
 
-The process by which they select this partner is often known as a [data bake-off](https://blog.narrative.io/kill-the-data-bake-off). Brands will ask suppliers with the data they need to compete for a contract by sending over sample datasets, which the brand will test for accuracy, match rate, overlap, and scale. Once they’ve selected a winning supplier, both companies’ legal teams will draft a contract and negotiate terms and pricing, after which the engineering teams will integrate their systems. 
+The process by which they select this partner is often known as a [data bake-off](/blog/kill-the-data-bake-off). Brands will ask suppliers with the data they need to compete for a contract by sending over sample datasets, which the brand will test for accuracy, match rate, overlap, and scale. Once they’ve selected a winning supplier, both companies’ legal teams will draft a contract and negotiate terms and pricing, after which the engineering teams will integrate their systems. 
 
 The benefit of this approach is that, by partnering directly with a data originator, brands know exactly how and when the data they're using was collected. This [transparency](https://www.narrative.io/pillar-data-transparency) allows brands to execute with confidence, as they can rest assured that the data informing their decisions, strategies, and campaigns meets their specific criteria for accuracy and quality.
 
@@ -85,7 +85,7 @@ With no way to know the answers to these questions, brands forgo an element of c
 
 ### A new approach to data enrichment
 
-The typical approaches to acquiring enrichment data come with tradeoffs that limit their effectiveness at powering digital marketing initiatives. To fully realize the value that [data enrichment](https://www.narrative.io/solutions/customer-enrichment) can deliver, brands need to be able to acquire data that is granular and transparent in a fast and scalable way.
+The typical approaches to acquiring enrichment data come with tradeoffs that limit their effectiveness at powering digital marketing initiatives. To fully realize the value that [data enrichment](/solutions/data-enrichment) can deliver, brands need to be able to acquire data that is granular and transparent in a fast and scalable way.
 
 Narrative's data collaboration platform provides direct access to an extensive network of raw data providers with software that automates the entire process, helping you increase speed to market, save money, and reduce risk.
 
@@ -96,4 +96,4 @@ With Narrative, you can:
 *   **Buy with confidence.** Know exactly where your data is coming from. While all suppliers are held to strict standards of quality and transparency, Narrative also gives you the resources to do your own due diligence as well.
 *   **Save time and money.** Narrative’s tools and workflows automate the time- and labor-intensive processes for finding, purchasing, and activating data, saving your employees time and money on sourcing, negotiations, and integrations.
 
-**Interested in learning more about how Narrative can help power your [data enrichment](https://www.narrative.io/solutions/customer-enrichment) strategy? [Request a demo today.](/contact)**
+**Interested in learning more about how Narrative can help power your [data enrichment](/solutions/data-enrichment) strategy? [Request a demo today.](/contact)**

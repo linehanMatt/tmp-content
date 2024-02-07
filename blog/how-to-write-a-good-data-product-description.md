@@ -10,9 +10,9 @@ tags: ['data shops']
 ---
 Data products have the potential to drive new business value and generate new revenue streams for your organization. However, creating your data product and listing it in a [data marketplace](https://www.narrative.io/data-marketplace) won’t be enough to ensure that your data products sell. Potential customers need to see why they should buy your product. That’s why the description is the key to success – it’s not just about what data your product contains, but how you sell it to your buyers. 
 
-The data product description is the only chance you have to convince your customers that they should purchase your data product, so it’s important to write it with care. It’s your opportunity to tell a story about your data and to highlight your data product’s unique characteristics and uses. It’s also [very important for SEO](https://blog.narrative.io/5-seo-tips-to-help-buyers-find-your-data-products) to write product descriptions that search engines will be able to find, index, and push to buyers that are searching for data like yours. 
+The data product description is the only chance you have to convince your customers that they should purchase your data product, so it’s important to write it with care. It’s your opportunity to tell a story about your data and to highlight your data product’s unique characteristics and uses. It’s also [very important for SEO](/blog/5-seo-tips-to-help-buyers-find-your-data-products) to write product descriptions that search engines will be able to find, index, and push to buyers that are searching for data like yours. 
 
-In this blog post, we’ll explore how to create a good product description for your [data products](https://blog.narrative.io/5-steps-to-building-a-successful-data-product) and offer examples and templates that will help get you started.
+In this blog post, we’ll explore how to create a good product description for your [data products](/blog/5-steps-to-building-a-successful-data-product) and offer examples and templates that will help get you started.
 
 Give your data product a unique and descriptive name
 ====================================================
@@ -53,7 +53,7 @@ The above description gave a lot of useful information about the characteristics
 Include keywords, phrases, and internal links to improve discoverability 
 =========================================================================
 
-In addition to wanting to make your product descriptions appealing to humans who are searching for your products, you’ll also want to make them appealing to search engines. To rank well in search engines and earn organic search traffic, you’ll need to make your product descriptions [SEO friendly](https://blog.narrative.io/5-seo-tips-to-help-buyers-find-your-data-products) by including a handful of keywords and phrases. 
+In addition to wanting to make your product descriptions appealing to humans who are searching for your products, you’ll also want to make them appealing to search engines. To rank well in search engines and earn organic search traffic, you’ll need to make your product descriptions [SEO friendly](/blog/5-seo-tips-to-help-buyers-find-your-data-products) by including a handful of keywords and phrases. 
 
 Identify the main words and phrases that you think your buyers will be searching for and then be sure to include them in your description in an organic way. For instance, if you are offering fitness data, think about what someone searching for your fitness data might type into a search bar. You might want to include keywords like: fitness, heart rate, exercise, endurance, strength, health, etc. 
 
@@ -78,7 +78,7 @@ Check out the rest of our cardio data products here. 
 Example product description templates to get you started
 ========================================================
 
-You will want each and every product description to be unique and different from your other product descriptions. This is because search engines want to see unique content and will penalize content that is too similar to other pages. It also will get boring for your buyers if every [data product](https://blog.narrative.io/5-steps-to-building-a-successful-data-product) has a cookie-cutter description. However, if you’re stuck on how to structure a good product description, here are a few templates that can give you inspiration:
+You will want each and every product description to be unique and different from your other product descriptions. This is because search engines want to see unique content and will penalize content that is too similar to other pages. It also will get boring for your buyers if every [data product](/blog/5-steps-to-building-a-successful-data-product) has a cookie-cutter description. However, if you’re stuck on how to structure a good product description, here are a few templates that can give you inspiration:
 
 Example Template 1 
 

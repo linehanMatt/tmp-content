@@ -57,7 +57,7 @@ If your organization has an established data warehouse, it might be a good idea 
 **Narrative’s data lake is vast, transparent, and swimming with data**
 ======================================================================
 
-One of our foundations at Narrative is our commitment to [always keep data raw](https://blog.narrative.io/the-narrative-manifesto-part-two), never modeled or transformed. We aim to maximize the potential of all data’s specificity and usefulness. That’s why we use a data lake to store our buyer’s and seller’s data. The data lake model adapts and scales easily for large volumes of data and it can handle any data type or structure. The ease of feeding data into our data lake empowers data distributors to monetize large quantities of natively stored data while the flexibility of accessing the data in our data lake allows data buyers to explore and transform data in its purest form.
+One of our foundations at Narrative is our commitment to [always keep data raw](/blog/the-narrative-manifesto-part-two), never modeled or transformed. We aim to maximize the potential of all data’s specificity and usefulness. That’s why we use a data lake to store our buyer’s and seller’s data. The data lake model adapts and scales easily for large volumes of data and it can handle any data type or structure. The ease of feeding data into our data lake empowers data distributors to monetize large quantities of natively stored data while the flexibility of accessing the data in our data lake allows data buyers to explore and transform data in its purest form.
 
 **Narrative makes it easy to buy and sell raw data.** 
 ======================================================

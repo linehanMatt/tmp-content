@@ -15,7 +15,7 @@ The movement of people and objects in the real world reveals valuable informatio
 
 Location data is geographical information about a specific device’s whereabouts associated with a time identifier. The movement of each device is assumed to be associated with a person and is used as an anonymous identifier to that individual’s movement and location.
 
-Devices that allow tracking location data, like smartphones or laptops, help organizations understand how customers move and behave in the real-world. Understanding this movement can lead to better decision-making when it comes to [marketing and advertising](https://blog.narrative.io/data-driven-marketing), forecasting and investing, and site-planning for a multitude of industries and organizations.
+Devices that allow tracking location data, like smartphones or laptops, help organizations understand how customers move and behave in the real-world. Understanding this movement can lead to better decision-making when it comes to [marketing and advertising](/blog/data-driven-marketing), forecasting and investing, and site-planning for a multitude of industries and organizations.
 
 **Types of location data**
 ---------------------------

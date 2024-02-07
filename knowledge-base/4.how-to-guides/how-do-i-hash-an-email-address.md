@@ -143,7 +143,7 @@ All lists uploaded to Narrative must be in _.csv_ format. See [How Do I Upload a
 
 #### Additional Information
 
-* [Blog Post: Convert email addresses into privacy-safe identifiers with Touchless PII Hasher](https://blog.narrative.io/touchless-pii-hasher)
+* [Blog Post: Convert email addresses into privacy-safe identifiers with Touchless PII Hasher](/blog/touchless-pii-hasher)
 * [How do I use the Touchless PII Hasher app?](https://kb.narrative.io/how-do-i-use-the-touchless-pii-hasher-app)
 * Wikipedia: [MD5 message-digest algorithm](https://en.wikipedia.org/wiki/MD5)
 * Wikipedia: [SHA-1 (Secure Hash Algorithm 1)](https://en.wikipedia.org/wiki/SHA-1)

@@ -40,7 +40,7 @@ Once upon a time, data analysts had to prepare tremendous amounts of data to try
 
 6. **Data Marketplaces and Exchanges Will Ensure a Competitive Edge**
 
-Gartner predicts that by 2022, 35% of large organizations will be either sellers or buyers of data within online [data marketplaces](https://blog.narrative.io/what-is-a-data-exchange). These marketplaces and exchanges make buying and selling data more accessible, cost-effective, and scalable than it has ever been before. By taking advantage of these marketplaces, companies can generate new streams of revenue and also acquire valuable data from other organizations without heavy negotiating.
+Gartner predicts that by 2022, 35% of large organizations will be either sellers or buyers of data within online [data marketplaces](/blog/what-is-a-data-exchange). These marketplaces and exchanges make buying and selling data more accessible, cost-effective, and scalable than it has ever been before. By taking advantage of these marketplaces, companies can generate new streams of revenue and also acquire valuable data from other organizations without heavy negotiating.
 
 Data monetization will generate massive waves of revenue in the coming years. According to a recent market study published by [Global Industry Analysts Inc.](https://www.prnewswire.com/news-releases/valued-to-be-4-1-billion-by-2026--data-monetization-slated-for-robust-growth-worldwide-301392899.html), the global market for data monetization is set to reach $4.1 billion by 2026, growing at 16.7% annually. By utilizing data exchanges, organizations can participate in this growing market.
 

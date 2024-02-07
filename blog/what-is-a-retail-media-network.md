@@ -48,7 +48,7 @@ Giving brand marketers the data they need is how retailers are going to unlock b
 How retailers can turn their audience data into revenue with Narrative and The Trade Desk
 ==========================================================================================
 
-[The partnership between Narrative and The Trade Desk](https://blog.narrative.io/simplify-audience-onboarding-and-activation-with-narratives-the-trade-desk-connector) makes it easier for buyers and sellers in all industries to share, collaborate, and monetize data. The Trade Desk works with retailers across the globe to build data solutions for them to monetize their data with brand marketers. Narrative provides the technology and software that allows advertisers or third-party data providers to send their data quickly, safely, and easily into The Trade Desk and other endpoints.
+[The partnership between Narrative and The Trade Desk] makes it easier for buyers and sellers in all industries to share, collaborate, and monetize data. The Trade Desk works with retailers across the globe to build data solutions for them to monetize their data with brand marketers. Narrative provides the technology and software that allows advertisers or third-party data providers to send their data quickly, safely, and easily into The Trade Desk and other endpoints.
 
 **Automate the standardization of your data without extra hassle or cost**
 --------------------------------------------------------------------------
@@ -57,7 +57,7 @@ One roadblock for retailers and marketers is that it can be expensive, tedious, 
 
 Historically, consulting services were the middlemen that organizations called to transfer data. But in this current fast-paced advertising ecosystem, services like this are often expensive and provide little added value.
 
-With Narrative, organizations can take their data and put it in a place where it can be easily ingested and used without having to hire middleman services. Using the app [Dataset Manager](https://app.narrative.io/app/dataset-manager) and a new software called [Rosetta Stone](https://blog.narrative.io/seamlessly-acquire-data-with-rosetta-stone), any data can be transformed into a format and stream that can be easily understood and accessed. This allows business users to be able to transfer data seamlessly to an advertiser on their own.
+With Narrative, organizations can take their data and put it in a place where it can be easily ingested and used without having to hire middleman services. Using the app [Dataset Manager](https://app.narrative.io/app/dataset-manager) and a new software called [Rosetta Stone](/blog/seamlessly-acquire-data-with-rosetta-stone), any data can be transformed into a format and stream that can be easily understood and accessed. This allows business users to be able to transfer data seamlessly to an advertiser on their own.
 
 Without Narrative’s software, a retailer’s technical team would be responsible for transforming data from one system to another. But with Narrative, this complex endeavor is made into a quick and easy self-service process that any business user can execute end-to-end.
 
@@ -68,7 +68,7 @@ Narrative enables data providers to upload their data into a system in its origi
 
 But in order to get data in The Trade Desk, it needs to be tied to an identity that The Trade Desk understands. Narrative takes retailers' data and maps it to UID2s, which are unencrypted universal identifiers that can be used to establish identity without third-party cookies.
 
-UID2s last longer than traditional cookies and are more privacy-safe by design. And since retailers are actually getting permission from their customers to use their data, these data points don’t have the weight around them that traditional identifiers have had. Once data has been turned into UID2s, Narrative can then [deliver it seamlessly into The Trade Desk system](https://blog.narrative.io/simplify-audience-onboarding-and-activation-with-narratives-the-trade-desk-connector) so it can be leveraged by advertisers.
+UID2s last longer than traditional cookies and are more privacy-safe by design. And since retailers are actually getting permission from their customers to use their data, these data points don’t have the weight around them that traditional identifiers have had. Once data has been turned into UID2s, Narrative can then deliver it seamlessly into The Trade Desk system so it can be leveraged by advertisers.
 
 **Dramatically cut down the time it takes to complete a data transaction**
 ---------------------------------------------------------------------------
@@ -79,7 +79,7 @@ Digital advertising moves very quickly. If a brand wants to acquire a retailer�
 
 For example, a brand may seek data from a sports merchandise retailer like Fanatics that can be used around the World Cup. The World Cup is an event with a set date so this data acquisition is time sensitive. Fanatics would have to take two to six weeks to get this brand their data if they used a services-oriented business.
 
-But by using [Narrative](https://blog.narrative.io/simplify-audience-onboarding-and-activation-with-narratives-the-trade-desk-connector), Fanatics can speed up the supply chain to as little as a couple hours and get this brand their data in the timeframe they need it. Within hours, data is ready to be used by the buyer. This process can then be repeated as often as it needs to be.
+But by using Narrative, Fanatics can speed up the supply chain to as little as a couple hours and get this brand their data in the timeframe they need it. Within hours, data is ready to be used by the buyer. This process can then be repeated as often as it needs to be.
 
 Case study: How Fanatics monetizes their sports consumers audience with Narrative and The Trade Desk
 ====================================================================================================
