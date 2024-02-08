@@ -7,7 +7,7 @@ image: /img/team/headshots/frank-campanella.jpeg
 linkedin: https://www.linkedin.com/in/frankcampanella/
 bio: Frank Campanella is Head of Experiences at Narrative I/O, where he leverages over two decades of expertise in creating intuitive, valuable, and innovative software products
 ---
-Frank has over 15 years of experience designing digital products with a passion for making the complicated simple.
+Frank has over 20 years of experience designing digital products with a passion for making the complicated simple.
 
 Prior to Narrative, Frank helped drive product and innovation within Samsung’s Content & Services team, touching everything from Samsung’s Bixby AI assistant to the Family Hub Smart Refrigerator.
 
