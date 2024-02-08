@@ -29,7 +29,7 @@ This is where Data Shops comes in.
 How can Narrative help?
 -----------------------
 
-[Data Shops](https://www.narrative.io/data-shops) is perfectly suited to help data providers take advantage of this new feature and reach new customers on Google. Here are three reasons why:
+[Data Shops](/solutions/data-monetization) is perfectly suited to help data providers take advantage of this new feature and reach new customers on Google. Here are three reasons why:
 
 ### **Automated metadata and technical SEO**
 

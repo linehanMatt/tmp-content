@@ -50,7 +50,7 @@ A [data collaboration platform](/faq/what-is-data-collaboration) provides softwa
 
 New software like [Rosetta Stone](https://www.youtube.com/watch?v=N8v_1vYBbvA) makes it possible for data collaboration platforms to take data as it is natively stored and “translate” that data to be understood by external systems. You won’t need to get data engineers on the job of reformatting data, since it will be automatically formatted for you right out of the box. Instead of waiting days or weeks for data to be reformatted and transferred, it can take mere hours to get the data you need in the exact format you need.
 
-Other technologies available through data collaboration platforms make it possible to organize data so that it is easily discoverable. Thanks to apps like [Data Shops](https://www.narrative.io/data-shops), departments can organize their data into “products” and put them into “shops,” making it easy to browse through and find datasets in a familiar ecommerce experience.
+Other technologies available through data collaboration platforms make it possible to organize data so that it is easily discoverable. Thanks to apps like [Data Shops](/solutions/data-monetization), departments can organize their data into “products” and put them into “shops,” making it easy to browse through and find datasets in a familiar ecommerce experience.
 
 Other apps, like [Query Builder](/products/query-builder), use a simple step-by-step process to find and acquire only the precise data points that match your specific needs, based on your custom filters and parameters. These types of software make it simple and straightforward to share only relevant and actionable data, as opposed to having to comb through tons of unusable data.
 

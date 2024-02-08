@@ -42,7 +42,7 @@ You can use the resulting list on the Narrative data collaboration platform or w
 
 ###Validate and hash massive lists with point-and-click ease
 
-Our customers were constantly frustrated by email lists that were too big for Excel or Google Sheets to handle, or needed to be “cleaned” and pre-formatted prior to hashing. This made it hard for some organizations to take advantage of opportunities on the [Data Streams Marketplace](https://app.narrative.io/#/products).
+Our customers were constantly frustrated by email lists that were too big for Excel or Google Sheets to handle, or needed to be “cleaned” and pre-formatted prior to hashing. This made it hard for some organizations to take advantage of opportunities on the [Data Marketplace](https://app.narrative.io/#/products).
 
 But now, buyers and sellers can use the Touchless PII Hasher to process millions of emails in seconds, no matter the size. It can also “clean” and pre-format your list of emails prior to hashing in accordance with industry standards, to ensure that your hashed emails will be compatible with other data in the ecosystem. With just a few clicks, a CSV file of hashed emails is created and ready to use immediately.
 

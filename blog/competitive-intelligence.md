@@ -40,7 +40,7 @@ Being able to see into the app usage of your competitor’s apps gives you a sec
 
 ### Market share data for identifying customer preferences and trends
 
-Market share data tells organizations the number of shares their competitors hold in the market. By [acquiring](https://www.narrative.io/acquire) market share data, you get to see which of your competitors are doing better or worse than you and you also get to track market shares across different product categories. By analyzing how customers are driving the market in relation to you and your competitors, you can glean insights that will help you determine customer behavior, changes in economic trends, and audience perception and preference in your unique industry.
+Market share data tells organizations the number of shares their competitors hold in the market. By [acquiring](/products/data-marketplace) market share data, you get to see which of your competitors are doing better or worse than you and you also get to track market shares across different product categories. By analyzing how customers are driving the market in relation to you and your competitors, you can glean insights that will help you determine customer behavior, changes in economic trends, and audience perception and preference in your unique industry.
 
 For instance, if you are a swimsuit brand and you can see that a competing swimsuit brand holds 20% more of the market than you do in Florida, you can place focus on why that brand is capturing more of your audience in that region. Does your brand lack a presence in that region? Is there a swimsuit type that is more popular in that region that you aren’t manufacturing?
 

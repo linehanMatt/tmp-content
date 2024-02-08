@@ -4,7 +4,7 @@ description: Sales teams are increasingly responsible for selling data products.
 layout: 'jungle-fever'
 ---
 
-::feature-callout{ :title="Marketing" :description="Narrative's Data Stream Marketplace allows organizations to package and market their data in an easy to consume format" :prompt="Tell me how how Narrative's Data Stream Marketplace can help me sell my data products."}
+::feature-callout{ :title="Marketing" :description="Narrative's Data Marketplace allows organizations to package and market their data in an easy to consume format" :prompt="Tell me how how Narrative's Data Marketplace can help me sell my data products."}
 ::
 
 ::feature-callout{ :title="Easy to Buy" :description="If something is easy to buy, it makes it easy to sell.  Narrative removes the friction from buying data" :prompt="How does Narrative make buying data easier than other solutions?"}

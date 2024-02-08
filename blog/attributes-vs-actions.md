@@ -44,11 +44,8 @@ For example, if you knew that the individual interested in Range Rovers (behavio
 Did you skim this article and just want to see the Cliff’s notes version? We’ve summarized these best practices in the simple chart below. Of course, there is no one-size-fits-all approach, but by letting this framework guide you, you’ll be in a position to know when it makes the most sense to use them on their own and also when to blend them together for an even more [sophisticated, customized approach](https://analytics-iq.com/want-to-be-consumer-centric-let-the-data-and-analytics-lead-you/).
 
 **Data Type**
-
 **Examples**
-
 **Top Use Cases**
-
 **Usage Details**
 
 People

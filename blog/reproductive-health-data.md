@@ -6,7 +6,7 @@ author: 'Nick Jordan'
 tags: ['privacy', 'reproductive-health']
 authorSlug: 'nick-jordan'
 ---
-In light of potential forthcoming changes to policies surrounding women’s reproductive rights, Narrative has updated our policy to remove menstruation and pregnancy tracking app install data from the Narrative Data Streams Marketplace in order to prevent the potential misuse of such data.
+In light of potential forthcoming changes to policies surrounding women’s reproductive rights, Narrative has updated our policy to remove menstruation and pregnancy tracking app install data from the Narrative Data Marketplace in order to prevent the potential misuse of such data.
 
 App install data purchased from third parties via the Marketplace includes pseudoanonymized identifiers of mobile devices that have that specific app installed on their phone. The data does not provide information about any actions taken within or usage of the app.
 

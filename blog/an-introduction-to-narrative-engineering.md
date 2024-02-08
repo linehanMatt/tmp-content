@@ -8,7 +8,7 @@ image: '/img/blog/2019/05/intro-to-engineering.jpg'
 tags: ['engineering']
 
 ---
-### A look inside Narrative's approach to technical feature development.
+### A look inside Narrative's approach to technical feature development
 
 Every team has their own ideas about how to run technical product development. You can ask ten teams and probably get twelve different answers back. At Narrative we believe in small 3-5 person teams owning entire features, from scoping to implementation to maintenance and operations. The exact makeup of the team depends on the project: a UI-heavy dashboard project might include a frontend dev, a backend dev, and a UI/UX designer; a more infrastructure-focused project might just be three backend devs. But regardless of the team makeup, we adhere to the same high level process for major development.
 

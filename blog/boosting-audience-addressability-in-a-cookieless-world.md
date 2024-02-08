@@ -40,7 +40,7 @@ An onboarding service such as [Narrative](/) takes that same list of customer da
 
 ## Narrative helps you match your digital identifiers with Universal Onboarding
 
-Build an omnichannel view of your customers with help from [Narrative’s transparent, self-service, and fast onboarding app](https://app.narrative.io/app/universal-onboarding). Narrative matches digital identifiers from a pool of  billions of IDs in a matter of minutes. You’ll be able to link disparate identifiers to create consistent personalized experiences across channels and devices.
+Build an omnichannel view of your customers with help from [Narrative’s transparent, self-service, and fast onboarding](/solutions/identity-resolution). Narrative matches digital identifiers from a pool of  billions of IDs in a matter of minutes. You’ll be able to link disparate identifiers to create consistent personalized experiences across channels and devices.
 
 Just upload your customer records into [Narrative’s data collaboration platform](/products/data-marketplace) and you’ll be able to match them against hundreds of providers in real time. Our built-in PII hasher will securely encrypt your private customer data before you upload to ensure privacy compliance. Then, after matching your information to relevant information across channels, your newly enriched customer profiles will be delivered securely to you. Choose where your matched results are sent to, and only pay for the IDs that match. You’ll also be able to set your preferred spend with custom budget controls.
 

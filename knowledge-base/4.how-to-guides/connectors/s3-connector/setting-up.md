@@ -40,7 +40,7 @@ Click "Save And Finish" to complete the setup.
 
 ### Using Your S3 Destination During Checkout
 
-1. **Select S3 Connector:** During checkout in Buyer Studio or Data Streams Marketplace, activate the S3 connector and choose your profile.
+1. **Select S3 Connector:** During checkout in Buyer Studio or Data Marketplace, activate the S3 connector and choose your profile.
 2. **Subdirectory Organization:** Optionally, specify a subdirectory for better organization of data deliveries.
 3. **Multiple Profiles:** To send data to multiple buckets, select "Add An Additional Profile" and configure each as needed.
 

@@ -10,8 +10,7 @@ authorSlug: 'matt-linehan'
 ---
 In today's fast-paced business landscape, the demand for data is higher than ever. The rise of machine learning and AI has only intensified this hunger. However, data acquirers and suppliers often have different priorities and face distinct challenges on their path to success. In this blog post, we'll explore the preferences of data acquirers, the challenges faced by data suppliers, and how data collaboration platforms can facilitate wins on both sides.
 
-**What data acquirers want  
-**
+## What data acquirers want
 
 When obtaining data, an extensive list of considerations influences the data collected for specific use cases. However, beyond overarching decisions and industry-specific variables, data procurers consistently prioritize the following factors during the data-sourcing process:
 

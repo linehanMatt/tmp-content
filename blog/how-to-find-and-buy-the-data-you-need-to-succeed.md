@@ -29,7 +29,7 @@ Once you have figured out what kind of data you need, you’ll also want to dete
 **Data acquisition considerations and concerns**
 ================================================
 
-When [buying data](https://www.narrative.io/acquire), you’ll need to consider:
+When [buying data](/products/data-marketplace), you’ll need to consider:
 
 **Labor** 
 ----------
@@ -56,7 +56,7 @@ These are all important factors to consider when you are deciding the method tha
 **Choose your method for buying data**
 ======================================
 
-There are a few different ways that you can [find and buy data](https://www.narrative.io/acquire). Essentially, you can make direct purchases or go through third parties. The best method for you depends on your organization’s priorities and abilities. 
+There are a few different ways that you can [find and buy data](/products/data-marketplace). Essentially, you can make direct purchases or go through third parties. The best method for you depends on your organization’s priorities and abilities. 
 
 **Buy directly from another company**
 -------------------------------------

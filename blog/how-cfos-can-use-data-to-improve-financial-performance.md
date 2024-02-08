@@ -39,7 +39,7 @@ You know that the best CFOs are leveraging external data to gain deeper financia
 
 However, finding and acquiring this external data can be a tedious, time-consuming, and expensive process. To acquire the most relevant data and gain the richest insights, CFOs must systematically integrate quality external data sources with their internal data. Using a [data collaboration platform](https://www.narrative.io/) will automate, simplify, and expedite this process. 
 
-A data collaboration platform connects [data buyers](https://www.narrative.io/acquire) with many [data providers](https://www.narrative.io/distribute) in one place, so that buyers can purchase from multiple sources at once. It also gives buyers full control of what data they’re ingesting and from whom. You’ll be able to pick and choose the exact data points you want from the exact providers you want and have it delivered to your preferred endpoint all at once, without worrying about duplicate data.
+A data collaboration platform connects [data buyers](/products/data-marketplace) with many [data providers](https://www.narrative.io/distribute) in one place, so that buyers can purchase from multiple sources at once. It also gives buyers full control of what data they’re ingesting and from whom. You’ll be able to pick and choose the exact data points you want from the exact providers you want and have it delivered to your preferred endpoint all at once, without worrying about duplicate data.
 
 Buying from a data collaboration platform also [ensures that you won’t buy duplicate data points or data you don’t need](https://www.narrative.io/customers/global-food-beverage-company). You won’t have to waste money on buying the same data points twice, or on data that you don’t really need. You’ll be able to filter through and select only the data that will benefit your financial planning needs. 
 
@@ -66,6 +66,6 @@ How Narrative can help CFOs improve financial performance 
 
 Gain access to new data sources for projects and initiatives with [Narrative's data collaboration platform](/faq/what-is-data-collaboration). You'll be able to optimize spend by centralizing data procurement, while enjoying the ability to use automatic deduplication and custom filters to buy just what you need and nothing you don’t.
 
-You'll also be able to generate new revenue by commercializing the data you are already collecting. Using our [user-friendly apps](https://www.narrative.io/data-shops), you can quickly and easily launch a lucrative data business online, even if you have no technical expertise or coding experience. We automate and simplify every step of the process. 
+You'll also be able to generate new revenue by commercializing the data you are already collecting. Using our [user-friendly apps](/solutions/data-monetization), you can quickly and easily launch a lucrative data business online, even if you have no technical expertise or coding experience. We automate and simplify every step of the process. 
 
 Want to learn how Narrative can help you acquire new data sources, improve operational efficiency, and generate revenue? [Get in contact with our experts today to get started](/contact)!

@@ -46,6 +46,6 @@ Data monetization will generate massive waves of revenue in the coming years. Ac
 
 ### Get Ahead of These Trends With Narrative
 
-Narrative ’s data collaboration platform makes it easy to [buy](https://www.narrative.io/acquire) and [sell](https://www.narrative.io/distribute) data. Data suppliers can ingest, package, and deliver their data, and data consumers can discover and acquire valuable data sets that can be delivered to any preferred endpoint. You have access to billions of data points and can also contribute your own to start generating new revenue!
+Narrative ’s data collaboration platform makes it easy to [buy](/products/data-marketplace) and [sell](/products/data-marketplace) data. Data suppliers can ingest, package, and deliver their data, and data consumers can discover and acquire valuable data sets that can be delivered to any preferred endpoint. You have access to billions of data points and can also contribute your own to start generating new revenue!
 
-Want to learn more? Speak to a member of our [sales team](/contact?hsCtaTracking=3cc18a2d-34ee-48ae-8dc5-f0accaa8ada4%7C6b8edba4-0356-4ffa-8e48-de5ce3d8fb0e) today!
+Want to learn more? Speak to a member of our [sales team](/contact) today!

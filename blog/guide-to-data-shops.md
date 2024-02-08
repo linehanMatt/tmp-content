@@ -203,7 +203,7 @@ You can search through your data lake with the **Search** bar in the left-hand c
 
 The next step is to add data to your dataset, a process called "ingestion.”
 
-Once data is ingested into your dataset, you can use Seller Studio's customizable filters to create, package, and sell different data products on your Data Shop and/or the Data Streams Marketplace.
+Once data is ingested into your dataset, you can use Seller Studio's customizable filters to create, package, and sell different data products on your Data Shop and/or the Data Marketplace.
 
 To ingest your data, you’ll have to [set up a managed bucket](https://kb.narrative.io/how-do-i-set-up-a-managed-bucket) and [use your managed bucket to upload files for ingestion to your datasets](https://kb.narrative.io/how-do-i-ingest-data-using-my-managed-bucket). Information on how to complete both of these processes is available in [Narrative's Knowledge Base](https://kb.narrative.io/selling-data).
 
@@ -269,7 +269,7 @@ Once you’ve made your modifications and organized the data into a product you�
 **Making Your Data Streams Available to Buyers**
 ------------------------------------------------
 
-You have the option to make your data stream available for sale in the [Narrative Data Streams Marketplace](https://www.narrative.io/data-marketplace) as well as in your own Data Shop. To increase visibility and maximize sales, I recommend selecting both **Sell on the Data Streams Marketplace** and **Sell on my Data Shop**. This way, your data streams will be available to all potential buyers and will be found much more frequently.
+You have the option to make your data stream available for sale in the [Narrative Data Marketplace](https://www.narrative.io/data-marketplace) as well as in your own Data Shop. To increase visibility and maximize sales, I recommend selecting both **Sell on the Data Marketplace** and **Sell on my Data Shop**. This way, your data streams will be available to all potential buyers and will be found much more frequently.
 
 If for whatever reason you don’t want your data streams available in one or the other, simply switch that option off.
 
@@ -330,7 +330,7 @@ Click Continue to **Review.**
 **Activating Your Data Stream**
 -------------------------------
 
-Preview the product card as it'll appear on the Data Stream Marketplace and/or on your Data Shop. Make sure your product card is attractive, descriptive, categorized, and aptly priced.
+Preview the product card as it'll appear on the Data Marketplace and/or on your Data Shop. Make sure your product card is attractive, descriptive, categorized, and aptly priced.
 
 ![](https://lh4.googleusercontent.com/KD36lJhjbh4vYuAbYhKTHrt9nMom-DdlRphcGL21qUxLTkfKTaAgfHqUx1fC8d1V5ZpunNNl1gt05Vdv4HPCkvfBzi1a5ws__9U8bNO4G8nvVmE5J4rcCVmeVJdqOPDobZJyTRKI)
 
@@ -425,7 +425,7 @@ Now, you’ll need to optimize your data store by using best SEO practices to ge
 
 ![](https://lh4.googleusercontent.com/-Nv09yyMY_-ZGL-oLQgURIFSE_rUm_ntYWMT6yE8T6DtSa_aQHixXzcj7YVd9GK2zHU_c9uVf40u7G8EKQmH6GJ7iqqwuDUcmBNT1lBebzMBq6QnSYJLVUaO6MQGQxeUjABo7B_b)
 
-You can choose to list your shop on the [Narrative Data Streams Marketplace](https://www.narrative.io/data-marketplace) or require visitors to login and/or register before entering your Data Shop. To make your shop the most discoverable, you should choose the **Data Streams Marketplace** option.
+You can choose to list your shop on the [Narrative Data Marketplace](https://www.narrative.io/data-marketplace) or require visitors to login and/or register before entering your Data Shop. To make your shop the most discoverable, you should choose the **Data Marketplace** option.
 
 **Customizing Your Shop’s Appearance** 
 ---------------------------------------
@@ -452,4 +452,4 @@ You can also notify your customers with an email invite that you have set up you
 
 Once your data has been reviewed, organized into marketable products, and displayed in an attractive ecommerce shop front, you can sit back and relax. When a buyer makes a purchase from your data shop, Narrative will deliver the purchased data automatically to the buyer, so you can simply check in on your data business at your leisure without having to monitor purchases. 
 
-**Have questions or need more guidance on getting your custom** [**Data Shop**](https://www.narrative.io/data-shops) **up and running?** [**Schedule a consultation with one of our experts**](/contact) **today!**
+**Have questions or need more guidance on getting your custom** [**Data Shop**](/solutions/data-monetization) **up and running?** [**Schedule a consultation with one of our experts**](/contact) **today!**
