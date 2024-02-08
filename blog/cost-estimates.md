@@ -7,7 +7,7 @@ ogImage: '/img/blog/2022/06/6-2.png'
 image: '/img/blog/2022/06/6-2.png'
 tags: ['product updates']
 ---
-### Data stream row count and cost estimates in Data Shops and [Data Streams Marketplace](https://www.narrative.io/data-marketplace)
+### Data stream row count and cost estimates in Data Shops and [Data Streams Marketplace](/products/data-marketplace)
 
 Now both sellers and buyers will be able to transact data with even more transparency. Sellers will be able to let their customers know upfront how many rows of data are available in each data stream and also provide the cost to purchase the entirety of the data within each stream.
 
@@ -15,10 +15,10 @@ Now both sellers and buyers will be able to transact data with even more transpa
 
 ![Screen Shot 2022-06-28 at 10.27.43 AM](https://solutions.narrative.io/hubfs/Screen%20Shot%202022-06-28%20at%2010.27.43%20AM.png)
 
-### Dataset statistics in [Dataset Manager](https://app.narrative.io/app/dataset-manager)
+### Dataset statistics in [My Data](/products/my-data)
 
-You will now also be able to find summary statistics for your datasets in [Dataset Manager](https://app.narrative.io/app/dataset-manager). You are now able to see the current size of your dataset, when your dataset was last successfully ingested, and a log of all previous ingestions. This includes the row count, size, date and time of each ingestion. This is very useful for validating your ingestion process and understanding how much data [Narrative](/faq/what-is-data-collaboration) is storing on your behalf for billing purposes.
+You will now also be able to find summary statistics for your datasets in [My Data](/products/my-data). You are now able to see the current size of your dataset, when your dataset was last successfully ingested, and a log of all previous ingestions. This includes the row count, size, date and time of each ingestion. This is very useful for validating your ingestion process and understanding how much data [Narrative](/faq/what-is-data-collaboration) is storing on your behalf for billing purposes.
 
 ![Untitled-2](https://solutions.narrative.io/hubfs/Untitled-2.png)
 
-Buy and sell data the easy way. Visit the [Narrative Data Streams Marketplace](https://www.narrative.io/data-marketplace), or [contact one of our experts](/contact) to get started.
+Buy and sell data the easy way. Visit the [Narrative Data Streams Marketplace](/products/data-marketplace), or [contact one of our experts](/contact) to get started.

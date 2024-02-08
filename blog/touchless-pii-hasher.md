@@ -60,4 +60,4 @@ And voila! In a few seconds, you'll have a list of hashed emails that you can us
 
 [Touchless PII Hasher](https://app.narrative.io/app/touchless-pii-hasher) is available for free to everyone.
 
-If you’d like to learn more about how Touchless PII Hasher works, [visit the knowledge base](https://kb.narrative.io/how-do-i-use-the-touchless-pii-hasher-app) or [schedule a call with a member of our sales team](https://www.narrative.io/contact).
+If you’d like to learn more about how Touchless PII Hasher works, [visit the knowledge base](https://kb.narrative.io/how-do-i-use-the-touchless-pii-hasher-app) or [schedule a call with a member of our sales team](/contact).
