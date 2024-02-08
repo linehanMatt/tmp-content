@@ -26,6 +26,6 @@ Suppliers using Narrative Distribute to monetize their data can use Distribute R
 
 ### Try it
 
-Reports are now available to all Narrative Acquire and Narrative Distribute customers via the navigation bar in the [dashboard](https://data.narrative.io/).
+Reports are now available to all Narrative Acquire and Narrative Distribute customers via the navigation bar in the [dashboard](https://app.narrative.io/platform).
 
 If you’d like to learn more about how Narrative’s data transaction reporting features can help you optimize your data strategy, reach out to your partner success manager or [get in](/contact) **[touch with a member of our team](/contact).**

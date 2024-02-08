@@ -7,8 +7,7 @@ ogImage: '/img/blog/2017/06/become-a-better-data-scientist.png'
 image: '/img/blog/2017/06/become-a-better-data-scientist.png'
 tags: ['acquire', 'data science']
 ---
-Too much of a data scientist's time is focused on data cleansing, and not enough on the math.
----------------------------------------------------------------------------------------------
+## Too much of a data scientist's time is focused on data cleansing, and not enough on the math
 
 As a former computational chemist, I rode into the world of data science on a wave of eigenvectors and correlations functions.
 

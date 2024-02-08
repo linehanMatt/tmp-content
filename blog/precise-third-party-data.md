@@ -14,8 +14,8 @@ Understanding your customer is paramount to any successful growth strategy, and 
 
 Those blocks come in two forms: first-party data and third-party data.
 
-*   **First-party data** is the data you own. You can generally trust it to be correct because you collected it, but there is usually never enough of it.
-*   **Third-party data** is data that was collected outside of your organization. It can be used to help fill in the gaps in your own data.
+* **First-party data** is the data you own. You can generally trust it to be correct because you collected it, but there is usually never enough of it.
+* **Third-party data** is data that was collected outside of your organization. It can be used to help fill in the gaps in your own data.
 
 I often hear people assert that first-party data is high quality and third-party data is crap. It’s an opinion that is rooted in some historical truth, but there is nothing inherently crappy about third-party data. Instead, it relates to how third-party data has been packaged for consumption.
 
@@ -87,7 +87,7 @@ Companies like LiveRamp, Oracle Data Cloud, and Lotame, among others, pay publis
 
 The incentive for these companies is to collect as much data as possible from as many different sources in order to maximize the scope and reach of their audience segments. With data coming from so many sources and no way to verify the original source of any individual data point, the potential for inaccuracy is high.
 
-Instead of using pre-packaged segments of questionably useful data from unknown sources, brands must be able to access precise data sets from verifiable suppliers. Only then will they be able to build the high-resolution view of their customers needed to generate actionable insights and informed decisions off of third-party data. 
+Instead of using pre-packaged segments of questionably useful data from unknown sources, brands must be able to access precise data sets from verifiable suppliers. Only then will they be able to build the high-resolution view of their customers needed to generate actionable insights and informed decisions off of third-party data.
 
 Using the [Narrative Acquire](https://www.narrative.io/platform-acquire) platform, brands can utilize highly customizable filtering options to buy only the exact observations needed, and none they don’t. The platform also provides tools for analyzing dataset overlap, match rates, and truth sets to ensure the data being purchased is accurate and precise.
 

@@ -22,11 +22,11 @@ On the other side of the spectrum, engineers are often not keen on handling ETL 
 
 Marketing teams are not to be left behind in this complex dance. The term ‘data-driven marketing’ has become prevalent. However, there is often a disconnect between the use of the word 'data' and understanding what it entails. Marketing teams might pressure product managers for data without comprehending the complexity involved in extracting meaningful insights, adding another layer of pressure to the product manager's role.
 
-#### A Unified Data Collaboration Platform:
+#### A Unified Data Collaboration Platform
 
 #### A Beacon of Hope?
 
-One of the potential solutions for product managers could be an integrated data collaboration platform (DCP). Such a platform can streamline data pipelines and provide a single source of truth. A well-integrated DCP not only enables seamless collaboration and sharing but can also [automate the ETL processes](https://www.narrative.io/rosetta-stone). This means engineers can focus on more value-driven tasks, leaving the monotonous aspects to automation.
+One of the potential solutions for product managers could be an integrated data collaboration platform (DCP). Such a platform can streamline data pipelines and provide a single source of truth. A well-integrated DCP not only enables seamless collaboration and sharing but can also [automate the ETL processes](/products/rosetta-stone). This means engineers can focus on more value-driven tasks, leaving the monotonous aspects to automation.
 
 Furthermore, through DCP, data scientists are empowered with tools that allow them to independently access and manipulate data. They can also explore external data partnerships, which can sometimes satiate their need for more data. This means they would not have to rely on product managers for every dataset, and the product manager can have more time to focus on other pressing issues.
 
