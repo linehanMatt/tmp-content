@@ -1,6 +1,6 @@
 ---
 title: 'Education'
-description: 'Powers your educational institution with scalable data collaboration tools for student success and research advancement.'
+description: 'Power your educational institution with scalable data collaboration tools for student success and research advancement.'
 primaryColor: "#00ff00"
 layout: 'urban-dawn'
 ---
