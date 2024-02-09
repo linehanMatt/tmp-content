@@ -14,5 +14,5 @@ layout: 'jungle-fever'
 ::feature-callout{title="Automate Customer Profile Updates" description="Leverage AI-driven tools to automatically update and enrich customer profiles. Ensure your marketing and sales teams have the latest information at their disposal." prompt="Learn how automation can keep your CRM data fresh and relevant."}
 ::
 
-::mega-feature-callout{title="Point & Click Workflows" subtitle="No engineers required" description="Narrative's easy to use data ingestion capabilities make integrating with any CRM a breeze." prompt="How do I upload data from my CRM into Narrative so I can enrich it?"}
+::mega-feature-callout{title="Point & Click Workflows" subtitle="No engineers required" description="Narrative's easy to use data ingestion capabilities make integrating with any CRM a breeze. Simply point, click, and watch as your customer data is enriched with valuable insights, empowering your teams to create personalized experiences at scale." prompt="How do I upload data from my CRM into Narrative so I can enrich it?"}
 ::
