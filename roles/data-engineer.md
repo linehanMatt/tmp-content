@@ -5,6 +5,7 @@ description: Simplify data infrastructure so you and your team can do more impor
 layout: 'digital-horizons'
 ---
 
+::item-grid
 ::feature-callout{title="Automate Data Standardization" description="Data from multiple sources is normalized into a single feed. Retain record level provenance by source. Spend your time doing data science, not ETL" prompt="Tell me about Narrative's patent-pending Rosetta Stone Technology."}
 ::
 
@@ -15,3 +16,4 @@ layout: 'digital-horizons'
 ::
 
 ::mega-feature-callout{title="DATA ENGINEERING SUPERPOWERS." subtitle="Upgrade to a flexible, modern stack" description="Flexible file formats and protocols. Streaming or batch. Support for multiple cloud platforms." prompt="Why is Narrative the best platform for data engineers?"}
+::

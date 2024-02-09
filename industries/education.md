@@ -4,6 +4,8 @@ description: 'Power your educational institution with scalable data collaboratio
 primaryColor: "#00ff00"
 layout: 'urban-dawn'
 ---
+
+::item-grid
 ::feature-callout{title="Empower Students" description="Improve student outcomes with detailed analytics at both the individual and cohort levels." prompt="Tell me more about how data can enhance student outcomes."}
 ::
 
@@ -20,4 +22,5 @@ layout: 'urban-dawn'
 ::
 
 ::feature-callout{title="Create Next-Gen Learning Tools" description="Facilitate the adoption and effectiveness of educational technologies with integrated data management." prompt="How does data enable educators to create next-generation learning tools?"}
+::
 ::

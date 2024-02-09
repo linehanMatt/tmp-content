@@ -3,6 +3,8 @@ title: 'Manufacturing'
 description: "Modernize manufacturing through strategic data collaboration with Narrative's scalable platform, designed to streamline processes and enhance product innovation."
 layout: 'jungle-fever'
 ---
+
+::item-grid
 ::feature-callout{title="Unify Supply Chain Management" description="Synchronize and optimize your supply chain activities with integrated data flow across all stakeholders." prompt="How can Narrative unify supply chain data across various manufacturing systems?"}
 ::
 
@@ -19,4 +21,5 @@ layout: 'jungle-fever'
 ::
 
 ::feature-callout{title="Drive Innovation with Data Variety" description="Harness the collective intelligence of extensive data networks to fuel research and development." prompt="Tell me how Narrative taps first and third-party data sources for deeper insights."}
+::
 ::

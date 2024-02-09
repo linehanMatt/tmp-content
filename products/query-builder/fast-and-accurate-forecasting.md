@@ -4,8 +4,6 @@ description: Get insights from your data without waiting an eternity
 image: /img/products/query-builder/forecasting.png
 ---
 
-###### Big Data often means long wait times.  We build forecasting into our query engine so you can get insights without watching the clock
-
 ::item-grid{}
     ::feature-callout{title="Fast & Accurate" description="Forecasting is made possible by managing a representative sample of your underlying data that can be queried instead of the entire dataset." prompt="How does Narrative's forecasting work?"}
     ::

@@ -58,7 +58,7 @@ When evaluating data onboarding partners, be sure to ask about their onboarding 
 
 Legacy data onboarders often take a week or longer to process and deliver your onboarded data. This can be a frustrating experience, especially when you’re eager to launch a new campaign. These delays can also lead to missed opportunities to target customers who may have been interested in your product or service.
 
-With Narrative, onboarding and activating offline customer data takes 15 minutes or less. The platform [automatically formats and normalizes your data](https://www.narrative.io/rosetta-stone), eliminating the need for your engineers to do so manually, and instantly delivers the onboarded data to advertising platforms so you can start using it as soon as possible.
+With Narrative, onboarding and activating offline customer data takes 15 minutes or less. The platform [automatically formats and normalizes your data](/products/rosetta-stone), eliminating the need for your engineers to do so manually, and instantly delivers the onboarded data to advertising platforms so you can start using it as soon as possible.
 
 ### Cost
 

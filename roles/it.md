@@ -4,6 +4,7 @@ description: As an IT Manager, you're tasked with ensuring the seamless operatio
 layout: 'nebula'
 ---
 
+::item-grid
 ::feature-callout{title="Efficiency" description="Narrative's single point of integration optimizes your IT workflows, resulting in a significant reduction in operational time and resources." prompt="How much time can Narrative's solution save IT Managers on average?"}
 ::
 
@@ -14,4 +15,5 @@ layout: 'nebula'
 ::
 
 ::mega-feature-callout{title="Data Operations Made Easy" description="Let us show you how we can take save you time, money, and effort as you run your data collaboration systems." link-url="/contact" link-text="Contact us"}
+::
 ::

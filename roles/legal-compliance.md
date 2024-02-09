@@ -5,6 +5,7 @@ description: Easy Data Collaboration doesn't mean sacrificing security or compli
 layout: 'jungle-fever'
 ---
 
+::item-grid
 ::feature-callout{title="Implement Existing Policies" description="Narrative allows you to take your existing policies and relationships and implement them natively" prompt="How do Access Rules and Query Policies work?"}
 ::
 
@@ -15,4 +16,5 @@ layout: 'jungle-fever'
 ::
 
 ::mega-feature-callout{title="Privacy First" subtitle="Easily hash your existing identifiers to keep them safe" description="Read about our PII Hashing App" link-url="/blog/touchless-pii-hasher" link-text="Read More"}
+::
 ::

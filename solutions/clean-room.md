@@ -5,6 +5,7 @@ description: Use our advanced data cleanroom solutions to collaborate confidentl
 layout: 'nebula'
 ---
 
+::item-grid
 ::feature-callout{title="Secure Data Collaboration" description="Narrative AI’s Data Collaboration Platform provides a data cleanroom environment, enabling secure collaboration without compromising on data privacy. Share insights, not data, with partners across the ecosystem." prompt="Understand the secure collaboration capabilities within our data cleanroom."}
 ::
 
@@ -15,4 +16,5 @@ layout: 'nebula'
 ::
 
 ::mega-feature-callout{title="Harness the Power of a Data Cleanroom" subtitle="Collaboration without compromise" description="Embrace the full potential of Narrative AI’s Data Collaboration Platform to protect data privacy, normalize data, and collaborate across various clouds." prompt="How can I get started with a secure data cleanroom environment?"}
+::
 ::

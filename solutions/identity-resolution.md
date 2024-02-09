@@ -5,6 +5,7 @@ description: Seamlessly match and merge customer identifiers across channels to 
 layout: 'jungle-fever'
 ---
 
+::item-grid
 ::feature-callout{title="Unify Customer Touchpoints" description="Link disparate identifiers to forge a complete customer journey across devices and channels, enabling personalized interactions every step of the way." prompt="Show me how Narrative simplifies creating a unified customer view."}
 ::
 
@@ -15,4 +16,5 @@ layout: 'jungle-fever'
 ::
 
 ::mega-feature-callout{title="IDENTITY ON YOUR TERMS" subtitle="Effortless Upload and Match Process" description="Upload clientele data, match with digital identifiers, then activate enriched profiles across your marketing ecosystem with precision and ease." prompt="Can you take me through Narrative's upload-to-activation workflow?"}
+::
 ::

@@ -5,6 +5,7 @@ description: Acquire more customers and enhance engagement & satisfaction with h
 layout: 'nebula'
 ---
 
+::item-grid
 ::feature-callout{title="Gain Loyal, Satisfied Customers" description="Quickly set up custom strategies via a point-and-click UI. Shorten the window between idea and performance. No long-term commitment minimizes the risk in data exploration." prompt="How can Narrative help marketers quickly find the best data strategy?"}
 ::
 
@@ -15,3 +16,4 @@ layout: 'nebula'
 ::
 
 ::mega-feature-callout{title="UNMATCHED DATA VARIETY." subtitle="Many sources. Hundreds of attributes. ONE integration." description="With just a few clicks, you can find and buy new data and send it directly to your activation channels - no technical expertise required." prompt="How does Narrative's query builder help non-technical customers access a large variety of data from multiple sources?"}
+::

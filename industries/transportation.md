@@ -3,6 +3,8 @@ title: 'Transportation'
 description: "Narrative's dynamic data collaboration platform propels the transportation industry forward, optimizing logistics and enhancing passenger experiences."
 layout: 'urban-dawn'
 ---
+
+::item-grid
 ::feature-callout{title="Create Intelligent Routing Systems" description="Implement advanced routing algorithms using diverse data sets to reduce costs and improve service quality." prompt="How can Narrative unify disparate datasets to power algorithms transportation routing?"}
 ::
 
@@ -19,4 +21,5 @@ layout: 'urban-dawn'
 ::
 
 ::feature-callout{title="Drive Sustainability With Green Analytics" description="Leverage data to drive sustainability initiatives in transportation, from fuel efficiency to carbon footprint reduction." prompt="How can Narrative’s access to vast, standardized data help with sustainability in the transportation industry?"}
+::
 ::

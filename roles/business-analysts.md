@@ -5,6 +5,7 @@ description: Transform data into decisions, accelerate decision-making, and forg
 theme: 'innovative-horizons'
 ---
 
+::item-grid
 ::feature-callout{title="Enhance your customer records" description="Enrich your customer records with their activities beyond your walls - push those records to your existing systems" prompt="Tell me about Narrative's data enrichment capabilities"}
 ::
 
@@ -15,3 +16,4 @@ theme: 'innovative-horizons'
 ::
 
 ::mega-feature-callout{title="SUPERCHARGED BUSINESS ANALYSIS" subtitle="See The BIG Picture" description="Quickly and easily tie disparate data sets together for a 360° view. Slice & dice data in new ways for new insights." prompt="Can you help me understand how Narrative's data variety and innovative query builder can supercharge business analysis?"}
+::

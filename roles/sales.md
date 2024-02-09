@@ -4,6 +4,7 @@ description: Sales teams are increasingly responsible for selling data products.
 layout: 'jungle-fever'
 ---
 
+::item-grid
 ::feature-callout{ :title="Marketing" :description="Narrative's Data Marketplace allows organizations to package and market their data in an easy to consume format" :prompt="Tell me how how Narrative's Data Marketplace can help me sell my data products."}
 ::
 
@@ -20,3 +21,4 @@ layout: 'jungle-fever'
 ::
 
 ::feature-callout{ :title="Easy to Use" :description="Narrative's Data Commerce Platform is easy to use and understand.  No need to be a data scientist to sell data.  Empower your sales team directly!" :prompt="Can a Sales Person use Narrative's Data Commerce Platform?"}
+::

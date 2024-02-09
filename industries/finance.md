@@ -4,6 +4,7 @@ description: "Empower your financial institution with Narrative's expansive data
 layout: 'digital-horizons'
 ---
 
+::item-grid
 ::feature-callout{title="Gain Market Edge with Data Variety" description="Unlock access to a vast ecosystem of data sources for comprehensive financial analysis and market insights." prompt="How does easy access to data variety help financial institutions?"}
 ::
 
@@ -20,4 +21,5 @@ layout: 'digital-horizons'
 ::
 
 ::feature-callout{title="Trade Smartly Using Real-Time Data" description="Leverage real-time financial data for instant market responses and optimized trading strategies." prompt="How does access to real-time data give an edge to financial trading?"}
+::
 ::

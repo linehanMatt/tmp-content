@@ -5,6 +5,7 @@ description: Use a single platform of record to simplify the data partnership li
 layout: 'prince'
 ---
 
+::item-grid
 ::feature-callout{title="Centralize Management" description="Manage commercial terms and reporting in one place so you can easily measure the effectiveness of your strateies." prompt="Tell me about the benefits of using one platform for business development."}
 ::
 
@@ -15,3 +16,4 @@ layout: 'prince'
 ::
 
 ::mega-feature-callout{title="STOP MANAGING. START TAKING ACTION." subtitle="Bring all of your relationships under one contract" description="Manage all of your partnership through a single interface. Full transparency allows you to negotiate your own terms." prompt="Tell me about the benefits of using one contract for my business development relationships."}
+::

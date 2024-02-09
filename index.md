@@ -3,6 +3,7 @@ title: AI-enabled Data Collaboration Made Simple and Secure'
 description: "Harness No-code, AI-Enabled Tools for Scalable, Secure, and Sophisticated Data Collaboration."
 ---
 
+::item-grid
 ::feature-callout{title="Powerful tools. One platform." description="Create a centralized hub for all of your data needs, enabling seamless collaboration across different departments and teams." prompt="How can a unified data ecosystem enhance collaboration in my organization?"}
 ::
 
@@ -19,4 +20,5 @@ description: "Harness No-code, AI-Enabled Tools for Scalable, Secure, and Sophis
 ::
 
 ::feature-callout{title="Easily Scale Up or Down" description="Easily scale your data operations up or down according to your business needs, ensuring flexibility and efficiency." prompt="Can you discuss how the platform's scalable infrastructure adapts to changing business needs?"}
+::
 ::

@@ -5,6 +5,7 @@ description: Assure the quality of your data against industry standards while un
 layout: 'nebula'
 ---
 
+::item-grid
 ::feature-callout{title="Quantify Overlap & Incrementality" description="Discover the unique contribution of each dataset with in-depth overlap and incrementality analysis, optimizing your data strategy." prompt="Guide me through analyzing my data for overlap and incremental gains."}
 ::
 
@@ -15,4 +16,5 @@ layout: 'nebula'
 ::
 
 ::mega-feature-callout{title="SUPPLIER DATA STRATEGIST" subtitle="Compare Data Effortlessly" description="Optimize your data strategy by comparing and evaluating suppliers, whether brought onto the platform by you or sourced from our marketplace, streamlining efficiency and insights." prompt="What tools does Narrative offer to compare data suppliers for strategic advantage?"}
+::
 ::

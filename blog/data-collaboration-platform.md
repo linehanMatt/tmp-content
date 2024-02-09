@@ -135,7 +135,7 @@ Narrative is the world’s #1 data collaboration platform
 
 #### Automated data standardization
 
-Using [Rosetta Stone technology](https://www.narrative.io/rosetta-stone), data can be ingested in its native format from any source and be translated into a format that will be compatible with any system that acquires it.
+Using [Rosetta Stone technology](/products/rosetta-stone), data can be ingested in its native format from any source and be translated into a format that will be compatible with any system that acquires it.
 
 #### Custom filters and controls
 

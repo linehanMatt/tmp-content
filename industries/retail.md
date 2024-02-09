@@ -3,6 +3,8 @@ title: 'Retail'
 description: "Drive retail innovation and customer engagement with Narrative's cutting-edge data collaboration platform, designed for scalability and user-friendly experiences."
 layout: 'purple-prodigy'
 ---
+
+::item-grid
 ::feature-callout{title="Uncover Complete Customer Insights" description="Gain a 360-degree view of your customers by integrating and analyzing data from multiple sources, enabling deeper understanding and personalized engagement." prompt="How does Narrative use first and third-party data for deeper customer insights?"}
 ::
 
@@ -19,4 +21,5 @@ layout: 'purple-prodigy'
 ::
 
 ::feature-callout{title="Power Retail Media Networks" description="Enable your organization to create and manage effective retail media networks, leveraging our comprehensive data tools for impactful advertising and brand promotion." prompt="How does the suite of Narrative products allow an organization to set up and power a retail media network?"}
+::
 ::

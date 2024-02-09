@@ -4,8 +4,6 @@ description: Narrative's SQL extension (NQL) has all of the power of SQL with al
 youtubeId: 2778bdd8c69a8fca403e51ac58d33e6a
 ---
 
-###### A query language that puts data collaboration first
-
 ::item-grid
 ::feature-callout{title="Familiar" description="NQL Expands on SQL making it easy to learn and incredibly powerful" prompt="Is all SQL supported in NQL?"}
 ::

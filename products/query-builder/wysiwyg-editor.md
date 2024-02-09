@@ -4,16 +4,16 @@ description: Narrative's WYSIWYG Editor allows you to easily create and manage y
 youtubeId: a91a3ab6c7f3752a32404398c55cc955
 ---
 
+::item-grid
 ::mega-feature-callout{title="Point & Click Collaboration" subtitle="Create Complex Strategies w/Ease" description="Narrative's WYSIWYG Editor allows you to easily create and manage your data collaboration requests with your partners.  Instead of writing code, get stuff done." prompt="Tell me more about the WYSIWYG Editor"}
 ::
 
-::item-grid
-    ::feature-callout{title="No Code Required" description="Our WYSIWYG Editor allows you to create complex data collaboration strategies without writing a single line of code." prompt="Can I use the WYSIWYG Editor without writing code?"}
-    ::
+::feature-callout{title="No Code Required" description="Our WYSIWYG Editor allows you to create complex data collaboration strategies without writing a single line of code." prompt="Can I use the WYSIWYG Editor without writing code?"}
+::
 
-    ::feature-callout{title="Rosetta Stone Enabled" description="The editor has access to the Narrative Rosetta Stone data noramlization engine, meaning you can focus on what you're looking for, not how to clean it" prompt="Does Rosetta Stone work in Query Builder?"}
-    ::
+::feature-callout{title="Rosetta Stone Enabled" description="The editor has access to the Narrative Rosetta Stone data noramlization engine, meaning you can focus on what you're looking for, not how to clean it" prompt="Does Rosetta Stone work in Query Builder?"}
+::
 
-    ::feature-callout{title="Powerful" description="From simple queries to the most complex requests, our WYSIWYG interface has you covered." prompt="Can Query Builder do complex things like joins?"}
-    ::
+::feature-callout{title="Powerful" description="From simple queries to the most complex requests, our WYSIWYG interface has you covered." prompt="Can Query Builder do complex things like joins?"}
+::
 ::

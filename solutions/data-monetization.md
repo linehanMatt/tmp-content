@@ -5,6 +5,7 @@ description: Narrative offers the tools to make it easy to get your data busines
 layout: 'innovative-horizons'
 ---
 
+::item-grid
 ::feature-callout{title="Spend Days not Years" description="Narrative's platform makes it so easy to sell data you'll be up and running within a week." prompt="How long does it take to start selling data?"}
 ::
 
@@ -15,4 +16,5 @@ layout: 'innovative-horizons'
 ::
 
 ::mega-feature-callout{title="START MAKING MONEY NOW" subtitle="The Data Collaboration Easy Button is Here" description="We understand that growing a data business can be challenging.  We want to help you by making it easy without you giving up any control." prompt="Have someone at Narrative contact me."}
+::
 ::

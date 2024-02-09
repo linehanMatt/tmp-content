@@ -5,6 +5,7 @@ description: Leverage geofencing and advanced geographic queries to acquire prec
 layout: 'purple-prodigy'
 ---
 
+::item-grid
 ::feature-callout{title="Refine Geofencing Tactics" description="Leverage geographic intelligence to execute advanced strategies in areas ranging from competitive intelligence gathering to Digital Out-of-Home (DOOH) reach measurement." prompt="What are some best practices for using geospatial data in targeted advertising?"}
 ::
 
@@ -15,4 +16,5 @@ layout: 'purple-prodigy'
 ::
 
 ::mega-feature-callout{title="Geo-Marketplace Advantages" subtitle="Unlock Richer Location Insights" description="Dive into a diverse location data marketplace offering real-time, granular insights to power your campaigns and elevate your geo-marketing analysis." prompt="Explore how granular location data from Narrative can transform my marketing strategy."}
+::
 ::

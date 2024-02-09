@@ -5,6 +5,7 @@ description: Dive into market dynamics and competitor activities to anticipate s
 layout: 'urban-dawn'
 ---
 
+::item-grid
 ::feature-callout{title="Insightful Data at Your Fingertips" description="Narrative's platform unlocks actionable insights, helping you to align your strategies with customer expectations." prompt="What kind of insights can I unlock with Narrative?"}
 ::
 
@@ -15,3 +16,5 @@ layout: 'urban-dawn'
 ::
 
 ::mega-feature-callout{title="CUSTOMER INTELLIGENCE REIMAGINED" subtitle="Holistic Customer Analysis" description="Craft strategic initiatives by analyzing an array of customer data points, including lesser-known behavioral indicators." prompt="Can you help me understand the customer behavior that isn't directly observable?"}
+::
+::

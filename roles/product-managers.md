@@ -5,6 +5,7 @@ description: Discover how Narrative's Data Collaboration Platform transforms pro
 layout: 'digital-horizons'
 ---
 
+::item-grid
 ::feature-callout{title="Market Intelligence" description="Leverage Narrative for comprehensive market insights from a variety of sources to inform your product strategy and stay ahead of trends." link-path="/solutions/competitive-intelligence" link-text="Learn more"}
 ::
 
@@ -15,4 +16,5 @@ layout: 'digital-horizons'
 ::
 
 ::mega-feature-callout{title="EXPLORE THIRD-PARTY DATA" subtitle="Unlock New Opportunities" description="Access Narrative's marketplace of third-party data to uncover insights, validate hypotheses, and drive product innovation with informed decision-making." prompt="As a product manager, how can Narrative help me validate my hypotheses with data?"}
+::
 ::

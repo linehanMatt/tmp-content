@@ -5,6 +5,7 @@ description: Easily onboard and deliver your data to activation platforms in min
 layout: 'purple-prodigy'
 ---
 
+::item-grid
 ::feature-callout{title="Give your engineers their time back" description="No-code software and AI assistants simplify the process, so anyone can onboard and activate data, even without technical know-how." prompt="Brainstorm ideas about how my software engineers could better spend their time than cleaning data to build marking audiences."}
 ::
 
@@ -15,4 +16,5 @@ layout: 'purple-prodigy'
 ::
 
 ::mega-feature-callout{title="NEW ACTIVATION PLATFORM" subtitle="Instantly deliver your data to The Trade Desk" description="Activate your audiences on the world's largest independent DSP. Narrative seamlessly integrates with The Trade Desk so you can reach customers across every digital channel and device." link-url="/products/connectors/tradedesk-connector" link-text="Learn More"}
+::
 ::
