@@ -60,7 +60,7 @@ The more that data acquisition becomes associated with mystery, the less desirab
   
 Technology is changing those conditions quickly. Buyers are now able to see what data they are acquiring before they make a decision on whether to acquire it. As data play such a crucial role in so many of an organization’s decisions, the more they are able to know about where it comes from, the more confident buyers will become in data’s power overall.
   
-[Transparency](https://www.narrative.io/pillar-data-transparency) also has downstream benefits beyond data quality. In a world where the regulatory environment around data has become more rigorous, transparency allows organizations to ensure GDPR compliance by shining a light on the source of the data, their consent frameworks, collection methodologies, and privacy policies.
+[Transparency](https://www.narrative.io/about) also has downstream benefits beyond data quality. In a world where the regulatory environment around data has become more rigorous, transparency allows organizations to ensure GDPR compliance by shining a light on the source of the data, their consent frameworks, collection methodologies, and privacy policies.
 
 #### Raw data is going programmatic
 

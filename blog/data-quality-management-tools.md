@@ -12,7 +12,7 @@ authorSlug: 'nick-jordan'
 
 Anyone that uses data in their job has heard the saying “garbage in, garbage out.” Put another way, your results are only as good as the data that you use to generate them. This is true whether you’re using Excel for business intelligence or creating machine learning and artificial intelligence models.
 
-The “garbage in, garbage out” mantra has led to an increased focus on data quality within the enterprise. The topic of data quality is complex. There is no silver bullet when it comes to ensuring that you have access to [high quality data](https://www.narrative.io/pillar/data-quality).
+The “garbage in, garbage out” mantra has led to an increased focus on data quality within the enterprise. The topic of data quality is complex. There is no silver bullet when it comes to ensuring that you have access to [high quality data](https://www.narrative.io/about).
 
 A number of companies are now focusing on data quality management. We’ll explore three of them here to better understand their perspective and their solutions.[](https://www.claravine.com/)
 
@@ -64,13 +64,13 @@ This leads to higher quality data, increased trust, and compliance in the data s
 
 ### Narrative’s take
 
-At Narrative, we believe that data quality is table stakes for a well executed data strategy. [Data analysts](https://www.narrative.io/solution/business-intelligence), [data scientists](https://www.narrative.io/solution/data-science), and [data engineers](https://www.narrative.io/solution/data-engineering) are only as good as their data.
+At Narrative, we believe that data quality is table stakes for a well executed data strategy. [Data analysts](ttps://www.narrative.io/roles/business-analysts), [data scientists](https://www.narrative.io/roles/data-scientists), and [data engineers](https://www.narrative.io/roles/data-engineer) are only as good as their data.
 
 Our goal from the start has been to create an open and transparent ecosystem. We’re excited to have companies that bring unique approaches to data quality to be part of that ecosystem. We welcome solutions being built by companies like Claravine, Neutronian, and Truth{set} to ensure the vitality of the data economy.
 
 ### Summary
 
-[Data quality](https://www.narrative.io/pillar/data-quality) will continue to be top of mind for data practitioners. There exist a number of solutions to help folks ensure that they aren’t putting “garbage in,” avoiding getting “garbage out.” We’ve explored a variety of solutions to the problem including those that:  
+[Data quality](https://www.narrative.io/about) will continue to be top of mind for data practitioners. There exist a number of solutions to help folks ensure that they aren’t putting “garbage in,” avoiding getting “garbage out.” We’ve explored a variety of solutions to the problem including those that:  
 
 * Focus on standardizing data collection
 * Offer data benchmarking for existing data sets

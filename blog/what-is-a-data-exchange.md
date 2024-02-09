@@ -76,7 +76,7 @@ Why is Narrative the #1 data collaboration platform?
 Guaranteed quality data
 ------------------------
 
-Narrative focuses on providing [quality data](https://www.narrative.io/pillar/data-quality), ensuring bots are eliminated and data buyers know exactly where their data is coming from. Because companies have access to fully transparent sources, they can be confident that the data they purchase is reliable and compliant.
+Narrative focuses on providing [quality data](https://www.narrative.io/about), ensuring bots are eliminated and data buyers know exactly where their data is coming from. Because companies have access to fully transparent sources, they can be confident that the data they purchase is reliable and compliant.
 
 **Reduce wasted expenses**
 --------------------------

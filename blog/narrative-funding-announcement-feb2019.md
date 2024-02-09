@@ -14,7 +14,7 @@ tags: ['newsdesk']
 
 \[New York, NY, February 26, 2019\] —
 
-Narrative has secured new funding to help build an advanced, automated platform designed to make the buying and selling of data fast, safe and [transparent](https://www.narrative.io/pillar-data-transparency) across industries.
+Narrative has secured new funding to help build an advanced, automated platform designed to make the buying and selling of data fast, safe and [transparent](https://www.narrative.io/about) across industries.
 
 Unlike existing data firms, which typically employ clunky, manual processes for obtaining and transferring data to customers, Narrative offers a software-centric solution which employs signals to process and procure data. That means that companies looking to acquire more data get exactly what they need for their business.
 

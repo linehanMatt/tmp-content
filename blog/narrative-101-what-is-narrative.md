@@ -65,7 +65,7 @@ You can think of the marketplace as optionally where the rubber meets the road. 
 
 If you're a procurement team that needs someone to fill out a data security questionnaire, instead of sending them a PDF and then someone filling it out and faxing it back to you, we'll give you a workflow where you can ask the questions you need from a compliance perspective within our software.
 
-If you're a [seller](https://www.narrative.io/solution/sales) that's trying to optimally price what your data is worth, we have pricing and yield optimization tools that you can use before you put data into the marketplace.
+If you're a [seller](https://www.narrative.io/roles/sales) that's trying to optimally price what your data is worth, we have pricing and yield optimization tools that you can use before you put data into the marketplace.
 
 If you're a finance team and you just want to see how much money you made last month, and what you're forecasted to make this month, we have tools for the finance team to do that. And then we'll take your actual revenue and push it into your backend systems.
 

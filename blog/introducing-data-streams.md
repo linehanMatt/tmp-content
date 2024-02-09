@@ -43,7 +43,7 @@ You shouldn’t have to be an engineer to get the data you need to do your job. 
 Accessibility and transparency
 ------------------------------
 
-[Transparency](https://www.narrative.io/pillar/data-transparency) has always been at the core of Narrative’s belief system. We’ve continued that tradition in new and exciting ways with Data Streams. The platform is open to anyone that wants to use it. Accessibility is an important component to moving the data streaming market forward. By making Data Streams open and transparent to everyone, we can shine a light on what is actually happening.
+[Transparency](https://www.narrative.io/about) has always been at the core of Narrative’s belief system. We’ve continued that tradition in new and exciting ways with Data Streams. The platform is open to anyone that wants to use it. Accessibility is an important component to moving the data streaming market forward. By making Data Streams open and transparent to everyone, we can shine a light on what is actually happening.
 
 No lengthy set-up
 -----------------

@@ -32,7 +32,7 @@ Nearly every industry is becoming increasingly sophisticated and scientific when
 
 Yet buying and selling of data is trapped in an analog world.
 
-Indeed, companies that buy data are all pushing for more control, [transparency](https://www.narrative.io/pillar-data-transparency), and options—and partners who can deliver on those needs. Yet they are continually settling for what they have instead of what they want.
+Indeed, companies that buy data are all pushing for more control, [transparency](https://www.narrative.io/about), and options—and partners who can deliver on those needs. Yet they are continually settling for what they have instead of what they want.
 
 Meanwhile, companies that sell data are equally as frustrated and need to figure out how to respond to this growing dissatisfaction.
 

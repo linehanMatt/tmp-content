@@ -22,7 +22,7 @@ One of the challenges of determining the worth of your organization’s data is 
 
 First, understand what [types of data](https://www.narrative.io/data-types) your company owns and how useful that data is. You probably have data on products, internal processes, employees, consumer behavior, transactions, finances, etc. Consider which types of data would be remarketable and valuable to outside companies. Could some of your data help other companies improve their processes? Could some of your data be helpful for identifying trends in your business category?
 
-If you are interested in selling any type of consumer data, make sure that it is the type of data that can be anonymized. [Privacy](https://www.narrative.io/pillar/data-privacy) is important and data must be anonymized before it is shared outside of your organization.
+If you are interested in selling any type of consumer data, make sure that it is the type of data that can be anonymized. [Privacy](https://www.narrative.io/about) is important and data must be anonymized before it is shared outside of your organization.
 
 **Uniqueness and usability**
 -----------------------------
@@ -34,7 +34,7 @@ You must also strongly consider the usability of your data by external parties. 
 **Accuracy, recency, and resolution**
 -------------------------------------
 
-Data is only as good as its detail and [quality.](https://www.narrative.io/pillar/data-quality) The more detailed, relevant, reliable and accurate your data is, the more valuable it is. Determine the detail and relevancy of your data points and evaluate the overall quality of the data your organization has stored. Outside companies will validate data in order to determine its accuracy, so make sure yours is up to par.
+Data is only as good as its detail and [quality.](https://www.narrative.io/about) The more detailed, relevant, reliable and accurate your data is, the more valuable it is. Determine the detail and relevancy of your data points and evaluate the overall quality of the data your organization has stored. Outside companies will validate data in order to determine its accuracy, so make sure yours is up to par.
 
 Also consider how “fresh” your data is. How long ago was it collected and how relevant will it remain into the future? Is your data generated on a daily basis? A weekly basis? More recent data is generally considered more valuable. However, historical data can also be valuable, depending on what type it is and what it is being used for.
 

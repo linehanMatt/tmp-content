@@ -49,7 +49,7 @@ How fast do you need the data you’re looking to acquire? Are you trying to acq
 **Quality**
 ------------
 
-You’ll also want to consider that [data quality](https://www.narrative.io/pillar/data-quality) can be difficult to guarantee, but is critical to your organization’s success. Your organization’s decisions will only be as good as the data that fuels them–bad data leads to bad decisions. That means that you’ll have to be scrupulous in your data acquisition search. Transparent sources will help you verify the quality of the data you’re acquiring.
+You’ll also want to consider that [data quality](https://www.narrative.io/about) can be difficult to guarantee, but is critical to your organization’s success. Your organization’s decisions will only be as good as the data that fuels them–bad data leads to bad decisions. That means that you’ll have to be scrupulous in your data acquisition search. Transparent sources will help you verify the quality of the data you’re acquiring.
 
 These are all important factors to consider when you are deciding the method that you’ll be using in order to acquire your data. Once you have a basic idea of what your data acquisition needs and limitations are, you can decide which data acquisition method is best for you.
 

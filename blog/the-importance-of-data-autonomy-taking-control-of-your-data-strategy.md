@@ -8,7 +8,7 @@ image: '/img/blog/2022/09/04-8.png'
 tags: ['solutions']
 
 ---
-Your data strategy should be as unique as your business. The evolution of your company’s data strategy influences everything in your organization from products to marketing to culture. Having full control over every input and output, as well as guiding your data to work for you at every step, is the only way to lead your industry and market. That’s why mastering [data autonomy](https://www.narrative.io/pillar/data-autonomy) is so crucial for success.
+Your data strategy should be as unique as your business. The evolution of your company’s data strategy influences everything in your organization from products to marketing to culture. Having full control over every input and output, as well as guiding your data to work for you at every step, is the only way to lead your industry and market. That’s why mastering [data autonomy](https://www.narrative.io/about) is so crucial for success.
 
 **What is data autonomy?**
 ===========================
@@ -24,9 +24,9 @@ The way your organization collects, applies, and distributes data should fit you
 
 *  **Monitor data collection**
 
-Your organization is only as good as the data it collects. As you generate or ingest data, make sure that you are taking note of exactly where it is coming from, how it was collected, and how trustworthy it is. Don’t [input garbage](/blog/data-quality-management-tools) or you will get [garbage output](/blog/data-quality-management-tools). You want to ensure that the data you are feeding your models is [quality data](https://www.narrative.io/pillar/data-quality) that you can trust.
+Your organization is only as good as the data it collects. As you generate or ingest data, make sure that you are taking note of exactly where it is coming from, how it was collected, and how trustworthy it is. Don’t [input garbage](/blog/data-quality-management-tools) or you will get [garbage output](/blog/data-quality-management-tools). You want to ensure that the data you are feeding your models is [quality data](https://www.narrative.io/about) that you can trust.
 
-One way to ensure that you are collecting quality data is to put the appropriate checks and balances in place for [first-party data](/blog/first-party-second-party-third-party-data) collection. Attach tracking pixels to your website and advertisements, ensure that you are asking all the right questions on customer surveys, and don’t let any information slip through the cracks. Another way to ensure [quality data](https://www.narrative.io/pillar/data-quality) collection is to acquire quality [first-and-third-party](/blog/first-party-second-party-third-party-data) data from trustworthy external sources. This can be done by negotiating direct data transactions with organizations that you trust or ingesting data through reliable [data collaboration platforms](/faq/what-is-data-collaboration).
+One way to ensure that you are collecting quality data is to put the appropriate checks and balances in place for [first-party data](/blog/first-party-second-party-third-party-data) collection. Attach tracking pixels to your website and advertisements, ensure that you are asking all the right questions on customer surveys, and don’t let any information slip through the cracks. Another way to ensure [quality data](https://www.narrative.io/about) collection is to acquire quality [first-and-third-party](/blog/first-party-second-party-third-party-data) data from trustworthy external sources. This can be done by negotiating direct data transactions with organizations that you trust or ingesting data through reliable [data collaboration platforms](/faq/what-is-data-collaboration).
 
 * **Protect your data**
 

@@ -40,7 +40,7 @@ Cannabis industries aren’t the only industries that can make use of this kind 
 
 Entertainment and media industries might make use of cannabis user data in order to produce better content or experiences for a cannabis consumer demographic. Food and beverage companies might use cannabis consumer data in order to create and market their products and services to cannabis users.
 
-Understanding a cannabis audience’s needs and wants can help several industries create better products, customer experiences, and [marketing](https://www.narrative.io/role/marketing) messaging. They are an audience segment that industries should be tapping into as they are contributing to a rapidly booming industry and more data is being generated than ever before on their preferences and habits.
+Understanding a cannabis audience’s needs and wants can help several industries create better products, customer experiences, and [marketing](https://www.narrative.io/roles/marketers) messaging. They are an audience segment that industries should be tapping into as they are contributing to a rapidly booming industry and more data is being generated than ever before on their preferences and habits.
 
 ### Buying and selling data related to the cannabis industry
 

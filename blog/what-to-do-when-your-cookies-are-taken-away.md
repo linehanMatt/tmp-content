@@ -52,7 +52,7 @@ This isn’t an accessory technology adding some bells and whistles; this is the
 
 While it is the main purpose of many identity providers to provide this information, it can also be risky to rely on another party to determine the corresponding linkages of your customers, and few identity providers allow you to validate supply against your own verified truth set.
 
-Even with 100% deterministic providers, do you have [transparency](https://www.narrative.io/pillar-data-transparency) into the individual suppliers of said linkages? Would you buy a car insurance plan if you didn’t know what it covered?
+Even with 100% deterministic providers, do you have [transparency](https://www.narrative.io/about) into the individual suppliers of said linkages? Would you buy a car insurance plan if you didn’t know what it covered?
 
 ### 3\. You implement your own native stable ID
 
