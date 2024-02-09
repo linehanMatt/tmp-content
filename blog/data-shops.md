@@ -86,7 +86,7 @@ Once you’ve created your data products, you’ll need a place to showcase them
 
 Once your shop is up and running, you can leave delivery up to us. After a customer makes a purchase, we’ll deliver the data in their preferred format within an hour.
 
-Start selling data today!
+Start selling data today
 -------------------------
 
 Data Shops is an end-to-end data monetization solution. Businesses can manage their monetization strategy from start to finish, using a set of intuitive tools and workflows to evaluate their data, load it into the platform, define and price products for sale, create an e-commerce storefront, and collect payouts from customer purchases without any assistance.

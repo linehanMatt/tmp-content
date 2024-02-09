@@ -8,7 +8,7 @@ image: '/img/blog/2019/09/assistant---for-social-%281%29.png'
 tags: ['narrative features']
 
 ---
-### Narrative’s Data Discovery Assistant helps data buyers uncover new features to enrich their data sets and unlock new insights.
+### Narrative’s Data Discovery Assistant helps data buyers uncover new features to enrich their data sets and unlock new insights
 
 There’s a wealth of data available in the [Narrative Data Marketplace](https://www.narrative.io/data-marketplace), and the organizations that can successfully leverage that data to enrich their own data sets gain a valuable competitive advantage. However, being able to identify the attributes that boost a signal among those that just add noise has so far proven challenging. To address this, Narrative built [Data Discovery Assistant](https://app.narrative.io/#/app/data-discovery-assistant).
 

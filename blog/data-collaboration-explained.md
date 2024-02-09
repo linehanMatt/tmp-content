@@ -19,9 +19,9 @@ What is data collaboration?
 
 There are three main use cases for data collaboration:
 
-1.  [**Sharing data between lines of business:**](https://www.narrative.io/share) Disseminating data between business units, departments, and teams within an organization to improve coordination and productivity.
-2.  [**Acquiring data from external sources:**](/products/data-marketplace) Accessing third-party data from data suppliers and business partners in order to uncover new insights about their customers, their company, and the markets they operate in.
-3.  [**Monetizing first-party data assets:**](https://www.narrative.io/sell) Generating revenue by licensing the use of first-party data for a fee.
+1. [**Sharing data between lines of business:**](https://www.narrative.io/share) Disseminating data between business units, departments, and teams within an organization to improve coordination and productivity.
+2. [**Acquiring data from external sources:**](/products/data-marketplace) Accessing third-party data from data suppliers and business partners in order to uncover new insights about their customers, their company, and the markets they operate in.
+3. [**Monetizing first-party data assets:**](https://www.narrative.io/sell) Generating revenue by licensing the use of first-party data for a fee.
 
 What are the benefits of data collaboration?
 --------------------------------------------

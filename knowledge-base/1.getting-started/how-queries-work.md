@@ -22,5 +22,4 @@ Forecasts are estimates that predict the outcome of running a query. They reveal
 
 Jobs are tasks within the Narrative's platform. Every operation, like running a forecast or a quer, leads to the creation of a job. Jobs allow for tracking of these operations and their status.  
   
-
 ![](https://solutions.narrative.io/hubfs/Screenshot%202023-06-09%20at%205-19-36%20PM-png.png)

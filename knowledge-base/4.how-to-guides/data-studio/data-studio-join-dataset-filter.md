@@ -19,7 +19,7 @@ To initiate a join filter operation in Data Studio, follow these steps:
 
 1. **Select Your Datasets:** Begin by choosing your primary dataset and the dataset(s) you wish to join. Data Studio provides an intuitive user interface enabling easy selection and management of these datasets.
 
-2. **Specify Your Join Type:** NQL supports various join types including INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN. Select the appropriate join type based on your analytical requirements. 
+2. **Specify Your Join Type:** NQL supports various join types including INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN. Select the appropriate join type based on your analytical requirements.
 
 3. **Define the Join Condition:** Clearly define the join condition by using fully qualified column names. This condition determines how rows from the combined datasets will correlate with one another.
 
@@ -27,7 +27,7 @@ To initiate a join filter operation in Data Studio, follow these steps:
 
 5. **Execute and Analyze:** With everything set, execute your NQL query. Data Studio processes your join filter and returns the merged dataset, which you can then proceed to analyze or visualize as needed.
 
-### Real-World Example of NQL Join Filter:
+### Real-World Example of NQL Join Filter
 
 Suppose we have two datasets: `sales_data` containing sales transactions and `product_catalog` containing product details. To analyze sales figures against product types, we'd perform a join as follows:
 
@@ -49,7 +49,7 @@ WHERE
 
 Through this query, we integrate data from both datasets based on a shared `product_id`, focusing on 'Electronics' products sold since the start of 2023.
 
-### Tips for Effective Use of Join Filters:
+### Tips for Effective Use of Join Filters
 
 - **Attribute Alignments:** Ensure the attributes used in the join condition have a logical correspondence, such as IDs or timestamps.
 - **Data Consistency:** Verify that data formats and value ranges align across datasets to prevent mismatches or incorrect join results.

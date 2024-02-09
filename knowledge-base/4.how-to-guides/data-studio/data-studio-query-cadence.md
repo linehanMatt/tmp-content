@@ -14,7 +14,7 @@ When creating a materialized view using NQL, you can define how frequently the v
 
 The `REFRESH_SCHEDULE` accepts cron expressions for fine-grained control, as well as preset interval strings like `@hourly`, `@daily`, `@weekly`, `@monthly`, and `@once`. These settings ensure that your materialized views remain an accurate reflection of the underlying datasets.
 
-## Example of a Materialized View with Refresh Schedule:
+## Example of a Materialized View with Refresh Schedule
 
 To provide a practical example, let's create a materialized view of sales data that refreshes at the start of each week:
 

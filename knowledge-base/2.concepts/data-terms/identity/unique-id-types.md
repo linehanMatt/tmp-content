@@ -20,13 +20,13 @@ When data is collected within a web browser (both desktop and mobile) context th
 
 Mobile Ad Identifiers (MAIDS) are identifiers that are tied to a specific device and can be accessed through the APIs.  When data is collected via this mechanism, it will have a corresponding ID Type for the operating system where it was collected.  The most prevalent MAIDs are:
 
-*   _idfa_:  The ID Type for data collected via Apple's iOS.
-*   _adid_: The ID Type fo data collected via Google's Android 
+* _idfa_:  The ID Type for data collected via Apple's iOS.
+* _adid_: The ID Type fo data collected via Google's Android
 
 #### Hashed Emails
 
 Some data records are associated with a user's email address.  Emails are considered Personally Identifiable Information (PII).  In order to pseudonymize the e-mails, making them non-PII, they are hashed at the source of the data collection.  Hashing creates an irreversible string that uniquely represents the email address without being able to see or use the underlying email address.  There are three prevalent hashing methodologies used:
 
-*   _md5\_email_: The email is lowercased and then hashed using the [MD5](https://en.wikipedia.org/wiki/MD5) hashing algorithm.
-*   _sha1\_email_: The email is lowercased and then hashed using the [SHA-1](https://en.wikipedia.org/wiki/SHA-1) hashing algorithm.
-*   _sha256\_email_: The email is lowercased and then hashed using the [SHA-2](https://en.wikipedia.org/wiki/SHA-2) hashing algorithm with a 256-bit digest.
+* _md5\_email_: The email is lowercased and then hashed using the [MD5](https://en.wikipedia.org/wiki/MD5) hashing algorithm.
+* _sha1\_email_: The email is lowercased and then hashed using the [SHA-1](https://en.wikipedia.org/wiki/SHA-1) hashing algorithm.
+* _sha256\_email_: The email is lowercased and then hashed using the [SHA-2](https://en.wikipedia.org/wiki/SHA-2) hashing algorithm with a 256-bit digest.

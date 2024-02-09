@@ -55,10 +55,10 @@ Researching and locating data, negotiating contracts, building infrastructure, a
 
 In order to minimize costs and maximize efficiency, organizations should look for ways to reduce the amount of time these processes require:
 
-*   To minimize the time associated with sourcing data, companies can make use of data marketplaces, where they can quickly identify relevant data sources.
-*   Negotiating contracts can be made more efficient by standardizing contract terms and conditions.
-*   Building infrastructure connections can be streamlined by using existing data platforms or APIs, rather than building custom integrations from scratch.
-*   Processing large datasets can be accelerated through the use of machine learning algorithms and other advanced data processing techniques.
+* To minimize the time associated with sourcing data, companies can make use of data marketplaces, where they can quickly identify relevant data sources.
+* Negotiating contracts can be made more efficient by standardizing contract terms and conditions.
+* Building infrastructure connections can be streamlined by using existing data platforms or APIs, rather than building custom integrations from scratch.
+* Processing large datasets can be accelerated through the use of machine learning algorithms and other advanced data processing techniques.
 
 By reducing the time involved in these processes, organizations can allocate their resources more efficiently and generate value more quickly.
 

@@ -10,9 +10,7 @@ image: '/img/blog/2017/04/042417-data-economy.jpg'
 tags: ['data economy']
 authorSlug: 'nick-jordan'
 ---
-### As data has become more important the data toolchain hasn't kept up 
-
-  
+### As data has become more important the data toolchain hasn't kept up
 
 The amount of data in the world today is staggering and companies are eager to take advantage of that data to make strategic decisions, such as who, when and how they market their offerings.
 
@@ -20,19 +18,18 @@ For example, back in 2012, as Apple was launching the iPhone 5 to replace the iP
 
 Instead, managing director Gene Munster sent Jaffray staffers to count the number of people standing in line at Apple Stores around the country to see how the number compared to the year before [when the 4S was being released](http://mashable.com/2012/09/21/iphone-5-line-2//#pTbjbtIGUiqG).
 
-  
 ![apple-store-line-iPhone-release](https://solutions.narrative.io/hubfs/apple-store-line-iPhone-release.png)
 
 The news was good for Apple. The number of people standing in line was up 68% at Apple’s 5th Avenue location. The total number of people counted over the two launches? 1235.
 
 The two points I find most interesting about the Piper Jaffray story are:
 
-*   They didn’t have the data they needed to run their analysis
-*   To get the data, they implemented an incredibly inefficient, unscalable, and inaccurate solution.
+* They didn’t have the data they needed to run their analysis
+* To get the data, they implemented an incredibly inefficient, unscalable, and inaccurate solution.
 
 Sending humans to manually count large numbers of other humans is a labor-intensive process. Apple has hundreds of retail locations globally. Sending someone to each one isn’t possible and, even if it was, you’d still have the problem of not counting people purchasing phones at non-Apple Store retailers. The obvious solution is to try to measure at stores that are representative of the entire population. Any pollster can tell you [this is easier said than done.](https://fivethirtyeight.com/features/what-the-stunning-bernie-sanders-win-in-michigan-means/)
 
-Piper Jaffray, an investment bank with over $8 billion of assets under management, needed information but they didn’t have the data they required to efficiently model iPhone sales. So, despite their extensive resources, they had to resort to an unsustainable process to get the data. 
+Piper Jaffray, an investment bank with over $8 billion of assets under management, needed information but they didn’t have the data they required to efficiently model iPhone sales. So, despite their extensive resources, they had to resort to an unsustainable process to get the data.
 
 This is an often-overlooked reality in the era of ubiquitous “big data.”
 
@@ -60,8 +57,8 @@ This is what I refer to as a sell-side discovery problem. For most companies, mo
 
 For buyers, this looks like 75% of potential sellers opting not to sell their data because:
 
-*   They have no way to quantify the size of the opportunity, or
-*   They want to avoid distractions them from their core business.
+* They have no way to quantify the size of the opportunity, or
+* They want to avoid distractions them from their core business.
 
 For the seller, it’s a missed opportunity to monetize a core asset.
 
@@ -83,15 +80,15 @@ It’s like a collector buying baseball cards by the pack. They purchase a bulk 
   
 The same applies to buying data: The buyer is getting less return for their investment because duplicate data adds no incremental value.
 
-#### Delivery: Sending and receiving a virtual asset 
+#### Delivery: Sending and receiving a virtual asset
 
 If the parties can overcome the inefficiencies of discovery and and the difficulty of pricing the data, they graduate to the challenge of how to send and receive the data.  
   
 There’s no real standard for how parties deliver data and this creates a host of issues:
 
-*   Every data transaction deal results in a net new integration that needs to be done. The added work often limits the number of deals either side is willing to do.
-*   Prioritizing the work on both sides can take a long time. There have been instances where the actual integration is completed over a year after the data contracts were signed.
-*   Completing the integration is really only just the beginning. Data integrations are notorious for how fragile they are. That fragility leads to long-term maintenance costs that are often poorly understood by the organizations involved.
+* Every data transaction deal results in a net new integration that needs to be done. The added work often limits the number of deals either side is willing to do.
+* Prioritizing the work on both sides can take a long time. There have been instances where the actual integration is completed over a year after the data contracts were signed.
+* Completing the integration is really only just the beginning. Data integrations are notorious for how fragile they are. That fragility leads to long-term maintenance costs that are often poorly understood by the organizations involved.
 
 The sooner we establish a centralized platform based on best practices for sourcing, valuing and integrating data being purchased, the sooner we’ll truly benefit from the data that’s available for use.  
   
@@ -101,14 +98,14 @@ The most obvious way that data deals are done is through point-to-point relation
 
 There are some disadvantages to this type of deal:
 
-*   Most notably, these deals require an incredible amount of human capital to sign, so they’re hard to scale. To put it in perspective a single data deal likely involves resources on both sides from business development, product management, engineering, legal, and finance.
-*   Direct deals also don’t allow for optimization by either the buyer or seller. Each side is locked into whatever terms were negotiated upfront. The seller can’t efficiently increase yield through competition and the buyer can’t easily tune the data they’re buying.
+* Most notably, these deals require an incredible amount of human capital to sign, so they’re hard to scale. To put it in perspective a single data deal likely involves resources on both sides from business development, product management, engineering, legal, and finance.
+* Direct deals also don’t allow for optimization by either the buyer or seller. Each side is locked into whatever terms were negotiated upfront. The seller can’t efficiently increase yield through competition and the buyer can’t easily tune the data they’re buying.
 
 Data Economy 2.0  
   
 Airlines long ago figured out that running their systems point-to-point from every city wasn’t scalable. They addressed this by creating a hub and spoke model to create efficiencies in how they get passengers from point A to point B.
 
-Though point-to-point deals have downsides, it’s worth noting they often give buyers access to data sets that their competitors can’t obtain. This is a side effect of the general inefficiency of direct data deals but it’s not exclusive to this type of deal. 
+Though point-to-point deals have downsides, it’s worth noting they often give buyers access to data sets that their competitors can’t obtain. This is a side effect of the general inefficiency of direct data deals but it’s not exclusive to this type of deal.
 
 #### Data Arbitrage / Networks
 

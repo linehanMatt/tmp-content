@@ -7,7 +7,7 @@ ogImage: '/img/blog/2019/11/data-singles.png'
 image: '/img/blog/2019/11/data-singles.png'
 tags: ['acquire', 'data economy']
 ---
-### Data should be able to be found, bought, and sold as easily as digital singles.
+### Data should be able to be found, bought, and sold as easily as digital singles
 
 In today’s data economy, growth is slowed by friction created in how data is bought and sold. Contracts, integrations, and firehoses of data make transactions a slog. Unless the last mile which connects buyers and sellers of data is joined, all industries that use data as their fuel will suffer.
 

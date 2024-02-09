@@ -6,15 +6,15 @@ tags: ['Data Types', 'Device Characteristics']
 ---
 ### Overview
 
-Device Alias provides details of a user's device, broken out into make, model, and operating system. Device Alias data is found in two data package types in the Narrative Platform - device characteristics & digital consumption data - and is found in both desktop & mobile environments. 
+Device Alias provides details of a user's device, broken out into make, model, and operating system. Device Alias data is found in two data package types in the Narrative Platform - device characteristics & digital consumption data - and is found in both desktop & mobile environments.
 
-This data is typically collected in a variety of scenarios, including through SDKs given user permission or Real-Time Bidding environments where this data is made accessible through programmatic auctions. 
+This data is typically collected in a variety of scenarios, including through SDKs given user permission or Real-Time Bidding environments where this data is made accessible through programmatic auctions.
 
 #### Examples
 
-*   iPhone X, iOS 13.3.1
-*   Pixel 3, Android 10.0
-*   Samsung Galaxy, Android 10.0
+* iPhone X, iOS 13.3.1
+* Pixel 3, Android 10.0
+* Samsung Galaxy, Android 10.0
 
 ### Within Narrative
 

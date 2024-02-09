@@ -17,4 +17,3 @@ The Policy aspect of Access Rules lays out the guidelines for how your data is a
 #### Governance
 
 The Governance component of Access Rules defines the terms and conditions for data access. It sets a price per row for access, if there is one, and establishes the license conditions, which could vary from public domain to specific licensing agreements. This data is incorporated into the query results on a row-by-row basis to ensure that all downstream data access adheres to these specified terms.
-

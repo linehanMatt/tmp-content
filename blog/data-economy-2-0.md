@@ -10,9 +10,8 @@ authorSlug: 'nick-jordan'
 ---
 ### Data practitioners need to focus on data quality, transparency, and compliance to keep up
 
-  
+####
 
-####   
 There’s no denying data’s immense power... and its current limitations.
 
 Data is increasingly one of the most valuable resources in nearly every industry. But that doesn’t mean its value is being realized.
@@ -21,13 +20,13 @@ As Ann Winblad, co-founder and a Managing Director of Hummer Winblad Ventures, s
 
 Too often, it’s neither.
 
-#### A robust, fluid data market must emerge for it to unlock its massive potential.
+#### A robust, fluid data market must emerge for it to unlock its massive potential
 
 Data has the power to transform business, and is already doing so. Simply put, in today's digital era, for companies to survive and ultimately thrive, they must participate in the emerging data economy.
 
 Unfortunately, the data that will help these companies thrive is rarely at their fingertips. It’s spread out across multiple vendors, buried inside broad segments, or locked up within walled gardens.
 
-#### All data isn’t created equal.
+#### All data isn’t created equal
 
 Nearly every industry is becoming increasingly sophisticated and scientific when it comes to data and analytics.
 
@@ -37,7 +36,7 @@ Indeed, companies that buy data are all pushing for more control, [transparency]
 
 Meanwhile, companies that sell data are equally as frustrated and need to figure out how to respond to this growing dissatisfaction.
 
-#### For businesses to survive and thrive, the proper tools needs to exist.
+#### For businesses to survive and thrive, the proper tools needs to exist
 
 To extract the maximum value from data and ultimately make it useful, companies need data with specificity. (Think of specificity as the difference between saying it’s hot out and saying it’s 93 degrees out.)
 
@@ -49,15 +48,14 @@ Creating the tools needed to clean, organize, and analyze data internally is jus
 
 We’ve created a software-driven marketplace designed to facilitate data acquisition. We’ve built the supply chain and infrastructure to bring data acquisition and monetization into 2019. Our goal is to help make data from other companies as accessible and useful as your first-party data.
 
-#### Some of the attributes of our product: 
+#### Some of the attributes of our product
 
-*   Overall, our software is designed to deliver data specificity. To make data useful for all parties
-*   Data transactions are fast and straightforward for both buyers and sellers
-*   Our marketplace is fully transparent. That means we go beyond just producing a report with a list of customers. We want to make it dead simple for buyers and sellers to interact directly. If you’re going to jump on the phone with a customer and ask data questions, you’re able to do that with Narrative
-*   The platform isn’t limited to a single use case. It can be used for data enrichment, consumer analytics, acquisition marketing, attribution, building predictive models, or anything your team dreams up
-*   Narrative is safe. Our marketplace was built from the ground up with security in mind
-*   Perhaps most importantly, Narrative makes data accessible and actionable for buyers and monetizable for sellers  
-     
+* Overall, our software is designed to deliver data specificity. To make data useful for all parties
+* Data transactions are fast and straightforward for both buyers and sellers
+* Our marketplace is fully transparent. That means we go beyond just producing a report with a list of customers. We want to make it dead simple for buyers and sellers to interact directly. If you’re going to jump on the phone with a customer and ask data questions, you’re able to do that with Narrative
+* The platform isn’t limited to a single use case. It can be used for data enrichment, consumer analytics, acquisition marketing, attribution, building predictive models, or anything your team dreams up
+* Narrative is safe. Our marketplace was built from the ground up with security in mind
+* Perhaps most importantly, Narrative makes data accessible and actionable for buyers and monetizable for sellers  
 
 #### Marketing technology provides a substantial case study for the current data conundrum
 

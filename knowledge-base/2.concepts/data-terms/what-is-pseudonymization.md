@@ -52,9 +52,9 @@ CCPA is a data protection regulation passed in the State of California. Like GDP
 
 Learn more about pseudonymization:
 
-*   Wikipedia: [Pseudonymization](https://en.wikipedia.org/wiki/Pseudonymization)
-*   Wikipedia: [De-identification](https://en.wikipedia.org/wiki/De-identification)
-*   Wikipedia: [Hashing function](https://en.wikipedia.org/wiki/Hash_function)
-*   Wikipedia: [Data re-identification](https://en.wikipedia.org/wiki/Data_re-identification)
-*   European Commission: [Data protection](https://ec.europa.eu/info/law/law-topic/data-protection_en)
-*   State of California: [CCPA](https://oag.ca.gov/privacy/ccpa)
+* Wikipedia: [Pseudonymization](https://en.wikipedia.org/wiki/Pseudonymization)
+* Wikipedia: [De-identification](https://en.wikipedia.org/wiki/De-identification)
+* Wikipedia: [Hashing function](https://en.wikipedia.org/wiki/Hash_function)
+* Wikipedia: [Data re-identification](https://en.wikipedia.org/wiki/Data_re-identification)
+* European Commission: [Data protection](https://ec.europa.eu/info/law/law-topic/data-protection_en)
+* State of California: [CCPA](https://oag.ca.gov/privacy/ccpa)

@@ -71,4 +71,4 @@ aws s3 ls --profile your-bucket-profile-name s3://your-bucket-name/
 
 ### Next Steps
 
-With your managed bucket successfully set up and accessible, you're poised to start the data ingestion process into Narrative. 
+With your managed bucket successfully set up and accessible, you're poised to start the data ingestion process into Narrative.

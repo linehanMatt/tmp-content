@@ -8,7 +8,7 @@ image: '/img/blog/2022/10/04-11.png'
 tags: ['distribute']
 
 ---
-Quickly and easily onboard and deliver audiences to The Trade Desk for advertiser activation.
+Quickly and easily onboard and deliver audiences to The Trade Desk for advertiser activation
 ---------------------------------------------------------------------------------------------
 
 The Trade Desk is the world’s largest independent demand-side platform. Advertisers use The Trade Desk’s platform to run targeted, data-driven digital advertising campaigns across media channels. Data providers can supply additional information and insights to advertisers using The Trade Desk to enable them to fine-tune their targeting of potential customers.
@@ -37,7 +37,7 @@ Easily enrich offline data with Unified ID 2.0 identifiers without going outside
 No-code audience creation
 -------------------------
 
-Create audience segments that specifically benefit your buyers in the simplest and most straightforward way possible with Narrative’s no-code tools. Business users with little to no technical experience are able to point-and-click their way through a self-service process of uploading data, processing data, slicing data, pricing data, and delivering data to third party endpoints and marketplaces. 
+Create audience segments that specifically benefit your buyers in the simplest and most straightforward way possible with Narrative’s no-code tools. Business users with little to no technical experience are able to point-and-click their way through a self-service process of uploading data, processing data, slicing data, pricing data, and delivering data to third party endpoints and marketplaces.
 
 How it works
 ------------

@@ -14,22 +14,19 @@ Data onboarding is a critical process for businesses that want to utilize their 
 
 In this blog, we'll explain what data onboarding is, why it's important, and how the process works. We'll also explore key factors to consider when choosing a data onboarding partner, such as speed, cost, ease of use, and control. By the end of this blog, you'll have a better understanding of how data onboarding can benefit your business and what to look for in a data onboarding partner.
 
-What is data onboarding?
-------------------------
+## What is data onboarding?
 
 Data onboarding is the process of transferring your offline or online customer data into an online platform in order to use it for targeted advertising, personalization, or analytics. This is done by matching customer data to digital identifiers, pieces of information that can be used to identify a specific user online, such as an email address or a cookie.
 
 By onboarding your [first-party data](/blog/first-party-second-party-third-party-data), you can create more personalized experiences for your customers and reach your target audience more effectively. By doing so, you can increase the chances of converting these prospects into paying customers, and ultimately drive more revenue for your business.
 
-Why is data onboarding important?
----------------------------------
+## Why is data onboarding important?
 
 Data onboarding is becoming increasingly important as digital marketing continues to evolve. With the rise of privacy regulations such as GDPR and CCPA, third-party cookies are being phased out, making it more difficult to track user behavior across websites. By onboarding your first-party data, you can still target your customers with relevant ads even if third-party cookies are no longer available.
 
 In addition, onboarding your first-party data allows you to create a more complete view of your customers. By combining offline and online data, you can gain insights into your customers' behavior across all channels, which can inform your marketing and business strategies.
 
-How does the data onboarding process work?
-------------------------------------------
+## How does the data onboarding process work?
 
 The data onboarding process can be broken down into several steps:
 
@@ -51,8 +48,7 @@ After hashing your data, the next step is to match your customer data to online 
 
 The final step of the data onboarding process is to activate your data. This means that your onboarded data is now ready to be used for targeted advertising, personalization, or analytics. By activating your data, you can create more personalized experiences for your customers and target them with relevant advertising messages.
 
-Key factors for successful data onboarding
-------------------------------------------
+## Key factors for successful data onboarding
 
 To ensure a smooth and cost-effective data onboarding process that provides you with necessary control over your data, pay attention to several critical factors when selecting a data onboarding partner.
 
@@ -94,12 +90,11 @@ Finally, it's important to consider how much control you will have over how your
 
 Overall, having control over your data is essential for ensuring that it is properly managed and used in a way that aligns with your business goals and values. When evaluating data onboarding vendors, make sure to consider data ownership, security, and usage options to ensure that you have the level of control you need.
 
-Narrative: Fast, Cost-Effective, and Easy Data Onboarding
----------------------------------------------------------
+## Narrative: Fast, Cost-Effective, and Easy Data Onboarding
 
-Data onboarding allows you to create more personalized experiences for your customers and target them with relevant advertising messages. Narrative’s [data collaboration platform](https://www.narrative.io/data-collaboration-platform) makes the onboarding process as fast, cost-effective, and user-friendly as possible.
+Data onboarding allows you to create more personalized experiences for your customers and target them with relevant advertising messages. Narrative’s [data collaboration platform](/faq/what-is-data-collaboration) makes the onboarding process as fast, cost-effective, and user-friendly as possible.
 
-With Narrative, [onboarding and activating](https://www.narrative.io/solutions/audience-activation) offline customer data takes 15 minutes or less. The platform automatically formats and normalizes your data, eliminating the need for your engineers to do so manually, and instantly delivers the onboarded data to advertising platforms so you can start using it as soon as possible.
+With Narrative, [onboarding and activating](/solutions/identity-resolution) offline customer data takes 15 minutes or less. The platform automatically formats and normalizes your data, eliminating the need for your engineers to do so manually, and instantly delivers the onboarded data to advertising platforms so you can start using it as soon as possible.
 
 Narrative also offers competitive pricing, with a variety of pricing plans to fit every budget. And with its user-friendly interface and minimal technical expertise required, Narrative makes it easy for businesses of all sizes to onboard their data and start using it for targeted advertising, personalization, or analytics.
 

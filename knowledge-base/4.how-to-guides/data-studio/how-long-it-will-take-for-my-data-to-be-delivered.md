@@ -6,4 +6,4 @@ tags: ['Data Marketplace', 'Delivery']
 ---
 Narrative's Data Marketplace will immediately start processing your data at order confirmation. We're sifting through billions of individual data points looking for exactly what you bought. That process usually takes less than an hour, but sometimes can take up to 2 hours.
 
-If your data hasn't been delivered within two hours please reach out to support@narrative.io with your query ID and we'll figure out what is going on.
+If your data hasn't been delivered within two hours please reach out to <support@narrative.io> with your query ID and we'll figure out what is going on.

@@ -34,8 +34,8 @@ MAIDs were initially developed to be privacy-safe identifiers that would allow f
 
 By design, these identifiers are resettable and Apple and Android both offer mechanisms to opt-out of data collection:
 
-*   [iPhone Users Guide: Limit Ad Tracking](https://support.apple.com/guide/iphone/limit-ad-targeting-iphf60a6a256/ios)
-*   [Google Support: Control the Ads You See](https://support.google.com/ads/answer/2662856?co=GENIE.Platform%3DAndroid&hl=en)
+* [iPhone Users Guide: Limit Ad Tracking](https://support.apple.com/guide/iphone/limit-ad-targeting-iphf60a6a256/ios)
+* [Google Support: Control the Ads You See](https://support.google.com/ads/answer/2662856?co=GENIE.Platform%3DAndroid&hl=en)
 
 ### Recap
 

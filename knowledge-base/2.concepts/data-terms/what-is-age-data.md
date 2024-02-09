@@ -18,18 +18,18 @@ In Narrative, user age data is stored individually, allowing ID lists of MAIDs o
 
 Buyers can still use age ranges to define the boundaries of their order - i.e. buy all age data between 21-45 against an ID Datas - but each ID will have its own value:
 
-*   Maid\_1; **25**
-*   Maid\_2; **42**
-*   HEM\_1; **21**
-*   HEM\_2; **38**
+* Maid\_1; **25**
+* Maid\_2; **42**
+* HEM\_1; **21**
+* HEM\_2; **38**
 
 With a source of truth against each ID, companies can more effectively use this data by creating their own segments, targeting individual ages with more personalized messaging, and perform richer analytics at the most granular level.
 
 ### Sources
 
-*   Mobile ID collection from registration / login events via a mobile SDK
-*   Cookie collection from registration, login, or email view events in a browser
+* Mobile ID collection from registration / login events via a mobile SDK
+* Cookie collection from registration, login, or email view events in a browser
 
 ### Want to learn more?
 
-Contact your Partner Success Manager today or reach us at partner-success@narrative.io to learn more about how the Narrative platform can power your data strategy.
+Contact your Partner Success Manager today or reach us at <partner-success@narrative.io> to learn more about how the Narrative platform can power your data strategy.

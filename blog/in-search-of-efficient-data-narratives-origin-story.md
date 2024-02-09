@@ -9,7 +9,7 @@ image: '/img/blog/2019/04/narrative-origin-BLOG.jpg'
 tags: ['data economy']
 authorSlug: 'nick-jordan'
 ---
-### Buried under a mountain of inefficiencies was an idea for a new Narrative.
+## Buried under a mountain of inefficiencies was an idea for a new Narrative
 
 It used to happen all the time and it drove us nuts.
 
@@ -73,4 +73,4 @@ Then it hit me. If we were experiencing this wildly effective set of market circ
 
 If somebody could get this right - by building data acquisition software (and the accompanying data monetization software) that makes things easily discoverable, transparent and selective - we could unlock the full potential of the data-driven economy. If we could make acquisition and monetization operate with the exact precision and monster scale we’d seen in programmatic ad buying, our product could be revolutionary for buyers and sellers. We’d transform how organizations thought about and use data.
 
-So we got to work on a new Narrative.
+So we got to work on a new [Narrative](/).

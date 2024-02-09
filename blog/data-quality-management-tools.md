@@ -8,7 +8,7 @@ image: '/img/blog/2020/03/Nick-data-quality-post.png'
 tags: ['data quality']
 authorSlug: 'nick-jordan'
 ---
-### Data quality is a hot topic with data practitioners. Here's how three companies are tackling the problem and what it means to you.
+### Data quality is a hot topic with data practitioners. Here's how three companies are tackling the problem and what it means to you
 
 Anyone that uses data in their job has heard the saying “garbage in, garbage out.” Put another way, your results are only as good as the data that you use to generate them. This is true whether you’re using Excel for business intelligence or creating machine learning and artificial intelligence models.
 
@@ -42,11 +42,11 @@ Neutronian takes a comprehensive approach to their definition of data quality. T
 
 Their solution includes a deep dive into all aspects of the data supply chain. Neutronian works with suppliers to document a number of different factors including:  
 
-*   Compliance and regulatory processes
-*   Data sourcing and provenance
-*   Data quality control
-*   Modeling methodology
-*   Performance characteristics
+* Compliance and regulatory processes
+* Data sourcing and provenance
+* Data quality control
+* Modeling methodology
+* Performance characteristics
 
 By understanding each of these dimensions, Neutronian can score and offer certification to suppliers as to the quality of their data. In addition to their comprehensive audit, they also provide ongoing monitoring in order to help detect any variance from certified standards. Buyers of data then have a precise understanding of what they are getting and confidence that it meets their quality standards.
 
@@ -56,7 +56,7 @@ By understanding each of these dimensions, Neutronian can score and offer certif
 
 Truth{set} helps data buyers discover, evaluate, and activate data with accuracy and compliance thresholds. They allow data sellers to evaluate, optimize, and monetize their data by focusing on quality. Together, they enable transparency and trust in data, powering efficient marketplaces for data.
 
-Truth{set} establishes “Truthscores” which are numerical scores between 0.00 and 1.00. Truthscores denote the accuracy of identity pairs and people based attributes. 
+Truth{set} establishes “Truthscores” which are numerical scores between 0.00 and 1.00. Truthscores denote the accuracy of identity pairs and people based attributes.
 
 Truthscores are the product of the wisdom of the crowd algorithms that run across what they call their Truth Partner Network. Truth{set} benefits from access to a diverse array of data owners. In addition, Truth{set} leverages independent truth sets to train and validate Truthscore outputs.
 
@@ -72,9 +72,9 @@ Our goal from the start has been to create an open and transparent ecosystem. We
 
 [Data quality](https://www.narrative.io/pillar/data-quality) will continue to be top of mind for data practitioners. There exist a number of solutions to help folks ensure that they aren’t putting “garbage in,” avoiding getting “garbage out.” We’ve explored a variety of solutions to the problem including those that:  
 
-*   Focus on standardizing data collection
-*   Offer data benchmarking for existing data sets
-*   That offer data certification programs
+* Focus on standardizing data collection
+* Offer data benchmarking for existing data sets
+* That offer data certification programs
 
 There isn’t a single solution for avoiding data quality problems. We feel that if data practitioners are well informed, they can choose the tools that are right for their specific needs.
 

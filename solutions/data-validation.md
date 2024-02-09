@@ -11,5 +11,8 @@ layout: 'nebula'
 ::feature-callout{title="Affirm Your Data's Integrity" description="Validate your data against industry truth points for ultimate confidence in its credibility." prompt="How can Narrative help in benchmarking my data against industry standards?"}
 ::
 
+::feature-callout{title="Collaborative Truth" description="It takes a village to produce good data.  Combine multiple high quality data sets to give yourself even more confidence" prompt="Can I combine multiple datasets with Narrative?"}
+::
+
 ::mega-feature-callout{title="SUPPLIER DATA STRATEGIST" subtitle="Compare Data Effortlessly" description="Optimize your data strategy by comparing and evaluating suppliers, whether brought onto the platform by you or sourced from our marketplace, streamlining efficiency and insights." prompt="What tools does Narrative offer to compare data suppliers for strategic advantage?"}
 ::

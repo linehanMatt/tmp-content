@@ -14,15 +14,15 @@ _Depending on the type of data you are supplying, you may need to refresh your d
 
 Create a fresh set of Marketing content including one-sheets, case studies highlighting your success, decks for presentations showcasing how your data is available through the Narrative Marketplace, and then distribute this material across your content channels and with the Narrative team.
 
-*   Browse the Narrative Discover Page to identify your competition
-*   Use LinkedIn: Publish articles with your case studies included
-*   Create social pages to generate followers
-*   Content Marketing and Paid Search to drive site traffic
+* Browse the Narrative Discover Page to identify your competition
+* Use LinkedIn: Publish articles with your case studies included
+* Create social pages to generate followers
+* Content Marketing and Paid Search to drive site traffic
 
 ### **Be Both Proactive and Reactive**
 
-*   **Proactive:** Upload your full supply of data on a regular basis. The more data types and ID’s you have available, the more likely you will fulfill both new and active queries.
-*   **Reactive:** A  buyer could have new demand and may request data or set up a new query. Be ready to ensure these opportunities aren’t missed due to processing delays.
+* **Proactive:** Upload your full supply of data on a regular basis. The more data types and ID’s you have available, the more likely you will fulfill both new and active queries.
+* **Reactive:** A  buyer could have new demand and may request data or set up a new query. Be ready to ensure these opportunities aren’t missed due to processing delays.
 
 ### **Competitive CPM**
 
@@ -30,4 +30,4 @@ As found in any type of marketplace, pricing can fluctuate. Connect with a Partn
 
 **Fixed CPM:** Fixed cost per 1000 events based on raw records for an omni-use 30 day license
 
-*   **Example:** Buyer A uploads a list of MAIDs that they intend to enrich with Age data for targeting in a campaign with a budget of $20,000. They match and purchase 10m events against your data priced at a CPM of $1.25 resulting in revenue of $12,500 reflected in your monthly usage report.
+* **Example:** Buyer A uploads a list of MAIDs that they intend to enrich with Age data for targeting in a campaign with a budget of $20,000. They match and purchase 10m events against your data priced at a CPM of $1.25 resulting in revenue of $12,500 reflected in your monthly usage report.

@@ -39,9 +39,9 @@ For the weather data to be useful, I need it to be specific and useful to my uni
 
 You Can Never Have Enough Useful and Specific Data
 
-Organizations who have not come to terms with understanding the difference of data broadly vs. data with utility are starting to express the sentiment that they “have too much data” or “don’t need any more data.” Logic would tell us that this belief can’t possibly be true. If data is useful you by definition can’t have enough of it and if you have enough of it the net new data isn’t useful. After all, you rarely hear companies complain that they’ve refined too much oil. 
+Organizations who have not come to terms with understanding the difference of data broadly vs. data with utility are starting to express the sentiment that they “have too much data” or “don’t need any more data.” Logic would tell us that this belief can’t possibly be true. If data is useful you by definition can’t have enough of it and if you have enough of it the net new data isn’t useful. After all, you rarely hear companies complain that they’ve refined too much oil.
 
-In economics, utility is a number, most often a currency value. If our objective function is to maximize the benefit to our organization, we can never have enough useful data. If we accept that premise, the question is no longer if we want the data or not, it is if we can obtain the data, by whatever means, for less than its value to us. 
+In economics, utility is a number, most often a currency value. If our objective function is to maximize the benefit to our organization, we can never have enough useful data. If we accept that premise, the question is no longer if we want the data or not, it is if we can obtain the data, by whatever means, for less than its value to us.
 
 ##### Companies Will Have to Source Data Externally
 

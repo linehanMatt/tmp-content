@@ -24,10 +24,10 @@ Because polygons can represent real-world locations they are often used to add c
 
 Location can be encoded using a number of different standards. While the underlying file format and contents may differ, largely each standard is representing the same fundamental object, a location polygon.
 
-*   **geoJSON**: [geoJSON](https://en.wikipedia.org/wiki/GeoJSON) is a standard that is based on JSON making it easy to parse in commonly used programming languages. The files can also be read and edited in a text editors
-*   **Shapefile**: [Shapefiles](https://en.wikipedia.org/wiki/Shapefile) are based on an open specification.  Unlike geoJSON, shapefiles require custom libraries to use and are harder to parse/understand by humans.
-*   **WKT**: WKT stands for [well-known text representation of geometry](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) and is another format used to encode polygons. This format typically requires third-party libraries to parse. It is text-based so WKT files can be edited using a text editor, but the syntax is typically hard for humans to easily parse.
-*   **Point + radius**: Point + radius is not a standard, and technically not a polygon, is when locations are represented by their midpoint and a circle is drawn around the midpoint at a specified radius. Point + radius is most often used when the borders of a point of interest are not known. Many systems will draw a polygon from the point + radius by choosing a number of vertices and using the radius to extrapolate those vertices (seen below).
+* **geoJSON**: [geoJSON](https://en.wikipedia.org/wiki/GeoJSON) is a standard that is based on JSON making it easy to parse in commonly used programming languages. The files can also be read and edited in a text editors
+* **Shapefile**: [Shapefiles](https://en.wikipedia.org/wiki/Shapefile) are based on an open specification.  Unlike geoJSON, shapefiles require custom libraries to use and are harder to parse/understand by humans.
+* **WKT**: WKT stands for [well-known text representation of geometry](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) and is another format used to encode polygons. This format typically requires third-party libraries to parse. It is text-based so WKT files can be edited using a text editor, but the syntax is typically hard for humans to easily parse.
+* **Point + radius**: Point + radius is not a standard, and technically not a polygon, is when locations are represented by their midpoint and a circle is drawn around the midpoint at a specified radius. Point + radius is most often used when the borders of a point of interest are not known. Many systems will draw a polygon from the point + radius by choosing a number of vertices and using the radius to extrapolate those vertices (seen below).
 
 ![Polygon from a circle](https://solutions.narrative.io/hubfs/KB/Concepts/wZbsJ.png)
 

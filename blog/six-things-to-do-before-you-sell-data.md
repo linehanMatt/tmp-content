@@ -16,12 +16,12 @@ On paper, selling data is easy. Collect the data, sell the data, and then transf
 
 There are six important things to do and consider before you decide to build out a data business:
 
-1. [Create a long-term business plan](#one)
-2. [Take inventory of your data](#two)
-3. [Develop a point of view](#three)
-4. [Beware of data brokers](#four)
-5. [Decide which channels to use](#five)
-6. [Be diligent about data regulations](#six)
+1. Create a long-term business plan
+2. Take inventory of your data
+3. Develop a point of view
+4. Beware of data brokers
+5. Decide which channels to use
+6. Be diligent about data regulations
 
 ### 1\. Create a long-term business plan
 

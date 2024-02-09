@@ -8,7 +8,7 @@ image: '/img/blog/2021/11/Buyer-Studio-1.png'
 tags: ['acquire', 'data streams', 'narrative features', 'solutions']
 
 ---
-### Buyer Studio makes it easy to find and buy precise datasets by automating the most time- and labor-intensive aspects of buying data.
+### Buyer Studio makes it easy to find and buy precise datasets by automating the most time- and labor-intensive aspects of buying data
 
 Data is the foundation of all modern enterprises' decision-making, innovation, and growth. The most successful organizations augment their first-party data with valuable external sources to uncover new insights and gain a competitive advantage.
 

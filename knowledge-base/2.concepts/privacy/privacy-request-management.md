@@ -25,14 +25,14 @@ As a data owner, regulatory frameworks like CCPA and GDPR hold you responsible f
 
 Data Privacy requests can be sent to Narrative’s Data Collaboration Platform via the following methodologies:
 
-1.  Update the dataset in your account titled "Privacy Request Identifier Dataset" by appending a row of data containing the identifier of the data subject and the specific type of request you have received.
-2.  Create a new dataset and map it to the Rosetta Stone Attribute "Data Privacy Request Identifier" (ID 232).
-3.  For optimal data management and compliance, set a 30-day Retention Policy on datasets containing PII identifiers subject to opt-out or privacy requests. This approach promotes timely data deletion, aligning with many privacy guidelines. Always tailor your policy to the specific regulations of your jurisdiction, such as GDPR or CCPA.
+1. Update the dataset in your account titled "Privacy Request Identifier Dataset" by appending a row of data containing the identifier of the data subject and the specific type of request you have received.
+2. Create a new dataset and map it to the Rosetta Stone Attribute "Data Privacy Request Identifier" (ID 232).
+3. For optimal data management and compliance, set a 30-day Retention Policy on datasets containing PII identifiers subject to opt-out or privacy requests. This approach promotes timely data deletion, aligning with many privacy guidelines. Always tailor your policy to the specific regulations of your jurisdiction, such as GDPR or CCPA.
 
 When Narrative receives privacy requests, the platform will automatically take the following actions on your behalf:
 
-1.  We prevent the data subject's information from being transacted on after receiving the privacy request. No party will be able to query, receive, or filter on this value if the identifier is provided.
-2.  We pass the identifier downstream to any consumer that has transacted on your data, allowing them to comply with the privacy request wherever they have already exfiltrated this data.
+1. We prevent the data subject's information from being transacted on after receiving the privacy request. No party will be able to query, receive, or filter on this value if the identifier is provided.
+2. We pass the identifier downstream to any consumer that has transacted on your data, allowing them to comply with the privacy request wherever they have already exfiltrated this data.
 
 ### **For Data Buyers**
 
@@ -42,9 +42,9 @@ Whenever you subscribe to data containing user identifiers, we will automaticall
 
 The Data Privacy Request Identifier Attribute expects two values in your data privacy dataset:
 
-1.  **Identifier**: Any unique identifier, such as hashed email, mobile advertising ID (MAID), or cookie. Any identifier will work.
-2.  **Request Type**: One of the following:
-    *   "opt\_out"
-    *   "data\_erasure"
+1. **Identifier**: Any unique identifier, such as hashed email, mobile advertising ID (MAID), or cookie. Any identifier will work.
+2. **Request Type**: One of the following:
+    * "opt\_out"
+    * "data\_erasure"
 
 By following these guidelines, you can ensure that your compliance with data subjects' privacy requests is simple and easy using Narrative's Data Collaboration Platform.

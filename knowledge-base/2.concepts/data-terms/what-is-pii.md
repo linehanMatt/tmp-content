@@ -16,12 +16,12 @@ The National Institute of Standards and Technology defines PII as:
 
 No comprehensive list of personally identifiable attributes exists, but some are universally agreed on as PII:
 
-*   First & last name
-*   Physical address
-*   Email address
-*   Social Security number
-*   Passport number
-*   Phone number
+* First & last name
+* Physical address
+* Email address
+* Social Security number
+* Passport number
+* Phone number
 
 ### Regulations
 
@@ -49,9 +49,9 @@ CCPA defines personal information as:
 
 Other laws and regulations exist that define PII, including:
 
-*   Australia's Privacy Act of 1988
-*   The UK Data Protection Act
-*   Switzerland's Federal Act on Data Protection 
+* Australia's Privacy Act of 1988
+* The UK Data Protection Act
+* Switzerland's Federal Act on Data Protection
 
 ### Pseudonymizing PII
 
@@ -59,7 +59,7 @@ Organizations frequently would like to collect data without its associated PII. 
 
 ### Additional Resources
 
-*   NIST: [Personally Identifiable Information](https://csrc.nist.gov/glossary/term/personally_identifiable_information)
-*   Wikipedia: [Personal data](https://en.wikipedia.org/wiki/Personal_data)
-*   State of California: [CCPA](https://oag.ca.gov/privacy/ccpa)
-*   European Commission: [Data protection](https://ec.europa.eu/info/law/law-topic/data-protection_en)
+* NIST: [Personally Identifiable Information](https://csrc.nist.gov/glossary/term/personally_identifiable_information)
+* Wikipedia: [Personal data](https://en.wikipedia.org/wiki/Personal_data)
+* State of California: [CCPA](https://oag.ca.gov/privacy/ccpa)
+* European Commission: [Data protection](https://ec.europa.eu/info/law/law-topic/data-protection_en)

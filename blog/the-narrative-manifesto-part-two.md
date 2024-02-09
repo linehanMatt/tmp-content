@@ -8,7 +8,7 @@ image: '/img/blog/2019/01/BLOG-032519-narrative-manifesto-2-blog-1.jpg'
 tags: ['data economy']
 authorSlug: 'nick-jordan'
 ---
-### Successful data strategies are built on efficiency, transparency and utility.
+### Successful data strategies are built on efficiency, transparency and utility
 
 If you missed part one: [The Narrative Manifesto - Achieving the Promise of the Data Economy.](https://narrative.io/blog/the-narrative-manifesto/)
 

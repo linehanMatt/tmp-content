@@ -20,7 +20,7 @@ When deduplicating by ID only, you will receive a **single record for every uniq
 
 #### _Deduplication: idValue, consumedResourceURI_
 
-When deduplicating by ID and [Uniform Resource Identifier (URI)](https://kb.narrative.io/what-is-an-uniform-resource-identifier-uri), you will receive **a single record for every unique ID<>URI pair** that satisfies the other parameters of your Order. Every App used by every ID is included. Records showing different [consumptionTypes](https://kb.narrative.io/what-are-consumption-types) are ignored. 
+When deduplicating by ID and [Uniform Resource Identifier (URI)](https://kb.narrative.io/what-is-an-uniform-resource-identifier-uri), you will receive **a single record for every unique ID<>URI pair** that satisfies the other parameters of your Order. Every App used by every ID is included. Records showing different [consumptionTypes](https://kb.narrative.io/what-are-consumption-types) are ignored.
 
 ![dedupe_ID_URI_2](https://solutions.narrative.io/hubfs/dedupe_ID_URI_2.jpg)
 

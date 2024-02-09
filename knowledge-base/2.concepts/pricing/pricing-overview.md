@@ -46,11 +46,11 @@ $150/hr
 
 _varies_
 
-**Storage** is based on the average gigabyte-hours per month of all Client Data stored in Client’s Narrative Account, including all object data and metadata. The average gigabyte-hours per month is calculated by taking an hourly snapshot of all Client Data and averaging this across the total hours in a given month. 
+**Storage** is based on the average gigabyte-hours per month of all Client Data stored in Client’s Narrative Account, including all object data and metadata. The average gigabyte-hours per month is calculated by taking an hourly snapshot of all Client Data and averaging this across the total hours in a given month.
 
 **Processing** is based on the bytes processed per month in the course of Client’s usage of Narrative’s Products and Services, including but not limited to: transactions on the Narrative Marketplace or private transactions, forecasting, and order management and fulfillment. For all transactions, unless otherwise agreed upon in writing, Processing usage and related fees will be allocated to or incurred solely by: (a) the party that orders a given transaction; or (b) the Data Shop Client for transactions taking place within a Data Shop.
 
-**Transfer (Ingress or Egress)**: Transfer is calculated as the volume of bytes transferred per month in or out of Client’s Narrative Account. Transfer to or from Client-owned locations within AWS Region “us-east-1” (US East, N. Virginia) will not incur Transfer Fees. 
+**Transfer (Ingress or Egress)**: Transfer is calculated as the volume of bytes transferred per month in or out of Client’s Narrative Account. Transfer to or from Client-owned locations within AWS Region “us-east-1” (US East, N. Virginia) will not incur Transfer Fees.
 
 **Calculation of Usage:** Storage, Processing, and Transfer are calculated in binary gigabytes (GB), where 1 GB is 2³⁰ bytes. Similarly, 1 TB is 2⁴⁰ bytes, i.e. 1024 GBs.
 

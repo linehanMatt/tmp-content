@@ -8,11 +8,11 @@ image: '/img/blog/2020/08/introducing-data-streams.png'
 tags: ['data streams']
 authorSlug: 'nick-jordan'
 ---
-### Data Streams brings an e-commerce experience to the world of data.
+### Data Streams brings an e-commerce experience to the world of data
 
 Buying and selling data is difficult. But it doesn't have to be. At Narrative, we believe that buying and selling data should be fast, easy, and transparent.
 
-Introducing Data Streams — Data transactions, reimagined.
+Introducing Data Streams — Data transactions, reimagined
 ---------------------------------------------------------
 
 Data Streams are pre-packaged data offerings that can be discovered, purchased, and delivered through simple e-commerce experience.
@@ -76,9 +76,9 @@ This release is a major milestone for us at Narrative, but we’re just getting 
 
 In the coming months we will:
 
-*   Add additional data types to Data Streams
-*   Make it easier for sellers to create unique data offerings
-*   Release features that make it easier for consumers and companies to better understand the data and privacy landscape
-*   Much more
+* Add additional data types to Data Streams
+* Make it easier for sellers to create unique data offerings
+* Release features that make it easier for consumers and companies to better understand the data and privacy landscape
+* Much more
 
 ### {{cta('7cf1d330-ff50-48bf-af87-8c95b0fcadd2')}}

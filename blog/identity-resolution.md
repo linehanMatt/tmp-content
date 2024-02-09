@@ -16,7 +16,7 @@ But identity resolution isn’t easy.
 
 The average US household already has more than 20 internet-enabled devices, meaning consumers can readily switch between screens at a moment’s notice. Every time a consumer uses one of these multiple devices or channels to interact with a brand, a different identifier—such as email address, device ID, [cookie](/blog/what-to-do-when-your-cookies-are-taken-away), IP address, or phone number—is attributed to that individual. It’s up to the brand to understand which identifiers belong to which consumer, as well as what these various signals and behaviors mean.
 
-Marketers must be able to find a way to connect all these disparate cross device identifiers back to the people they stand for by creating and maintaining a database of persistent customer profiles, known as an identity graph. 
+Marketers must be able to find a way to connect all these disparate cross device identifiers back to the people they stand for by creating and maintaining a database of persistent customer profiles, known as an identity graph.
 
 However, most companies’ ability to connect their first-party identifiers to individual profiles at a scale that is consistent and accurate enough to leverage for the benefits and use cases needed is limited. Thus, marketers must augment their first-party identity graphs with third-party data sources and identifiers that allow them to better activate the data.
 
@@ -36,7 +36,7 @@ Using a third-party identity graph gives brands the ability to quickly and easil
 
 Brands don’t own the underlying data sets and linkages, and often have limited visibility into user-level data. Their ability to generate insights, optimize performance, and determine attribution are limited by the provider’s capabilities.
 
-Furthermore, by renting a third-party identity graph, brands must place their trust in the matching methodology of that vendor. Third-party vendors often tout high match rates, but provide little visibility into how they determine what constitutes a match. A high match rate is of little use if the underlying data is inaccurate. 
+Furthermore, by renting a third-party identity graph, brands must place their trust in the matching methodology of that vendor. Third-party vendors often tout high match rates, but provide little visibility into how they determine what constitutes a match. A high match rate is of little use if the underlying data is inaccurate.
 
 As identity becomes increasingly critical to measurement and attribution, insight generation, media optimization, and the delivery of better individual customer experiences, the costs and limitations of renting a third-party identity graph will only grow more acute.
 
@@ -46,7 +46,7 @@ You wouldn’t install a $10,000 speaker system in a rental car, so why would yo
 
 To maintain control over their identity graphs, the most progressive brands are bringing identity resolution in-house. Brands make direct deals with other companies to purchase their first-party identity data, which they can then match to their own within a customer data platform (CDP). With each new source of data, brands can fill in the holes in their customer identity profiles and create a robust ID graph custom-built for their specific needs, strategies, and goals.
 
-Building an ID graph in-house gives brands control over the way that identity data is collected, matched, and stored. By purchasing identity data directly from the originators of that data, brands can ensure the data they’re feeding into their graphs meets their standards for quality, trustworthiness, and compliance. 
+Building an ID graph in-house gives brands control over the way that identity data is collected, matched, and stored. By purchasing identity data directly from the originators of that data, brands can ensure the data they’re feeding into their graphs meets their standards for quality, trustworthiness, and compliance.
 
 Resolving identity in-house also gives brands control over how data is matched by choosing when to employ deterministic matching and when to use probabilistic techniques. When a brand controls their ID graph, they decide what tradeoffs to make for accuracy versus reach depending on the specific use cases and goals.
 
@@ -62,7 +62,7 @@ What brands need is a solution that gives them the precision, transparency, and 
 
 In the late 2000s, [demand-side platforms (DSPs) transformed the world of digital advertising](https://www.mobidea.com/academy/demand-side-platforms/) by enabling advertisers to evaluate ad space on millions of websites instantly, and then buy the inventory that met their specific criteria in real time.
 
-Narrative is rebuilding the data industry in a similar way. Using Narrative, brands are able to evaluate [identity data](https://www.narrative.io/data-types/digital-identity-data) from numerous suppliers at once, and then purchase the precise data points they need based on their explicit criteria. 
+Narrative is rebuilding the data industry in a similar way. Using Narrative, brands are able to evaluate [identity data](https://www.narrative.io/data-types/digital-identity-data) from numerous suppliers at once, and then purchase the precise data points they need based on their explicit criteria.
 
 With Narrative, brands can quickly and easily [build a proprietary identity graph](/solutions/identity-resolution) according to their specific business needs, strategies, and goals. With full control and ownership of their identity graphs—and the data and linkages that underlie them—brands reduce risk, eliminate costly licensing fees, and gain the ability to build fully attributable, measurable, and actionable marketing strategies across the full customer experience.
 
@@ -71,17 +71,17 @@ Building an in-house identity graph with Narrative
 
 [Data collaboration platforms](https://www.narrative.io) like Narrative allow you to evaluate identity data from numerous suppliers at once, and then purchase the precise data points that you need. This can be done in a few, quick steps! Here is how it works:
 
-**Step 1:** 
+**Step 1:**
 ============
 
 First, you'll onboard customer records from your CRM, DMP, or CDP, to Narrative's data collaboration platform. You can take your customer records exactly as they are stored and ingest that data into Narrative's platform with just a few clicks.
 
-**Step 2:** 
+**Step 2:**
 ============
 
 Once you've onboarded your customer records, the next step is connecting all of your data to your ID graph. Email hashes, device identifiers, phone numbers, mobile IDs, cookies, and more can comprise identity graphs. Narrative will enrich your data for you with new connections and send your new customer profiles to your preferred endpoint.
 
-**Step 3:** 
+**Step 3:**
 ============
 
 Once you’ve received your newly enriched customer profiles, you’ll want to activate your data. Connect digital identity profiles to ad platforms, media partners, analytics tools or a combination of endpoints to suit business needs. When an ID graph is already connected to activation channels, customers and consumers can be quickly and continuously recognized.

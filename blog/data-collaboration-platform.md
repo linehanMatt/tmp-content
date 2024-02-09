@@ -131,7 +131,7 @@ Narrative is the world’s #1 data collaboration platform
 
 [Narrative](https://www.narrative.io) provides everything you need to acquire, distribute, or share data. With [Narrative's data collaboration platform](https://www.narrative.io), the most inefficient parts of data collaboration are automated so that you spend less time completing tedious backend work and more time gleaning insights, creating solutions, and driving revenue for your organization. Anyone within your company (even an intern) can point-and-click their way through a self-service process that gives them full control of their data.
 
-### With Narrative’s data collaboration platform, you have access to:
+### With Narrative’s data collaboration platform, you have access to
 
 #### Automated data standardization
 

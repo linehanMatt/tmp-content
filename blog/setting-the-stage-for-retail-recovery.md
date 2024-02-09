@@ -8,7 +8,7 @@ image: '/img/blog/2020/08/EdiNjVvXgAAgvCf.jpeg'
 tags: ['changing the narrative', 'retail']
 authorSlug: 'nick-jordan'
 ---
-#### The impacts of COVID-19 on the retail sector exposed the need for retailers to better plan for future business disruptions. Artificial intelligence and real-time analytics will be the drivers of post-COVID recovery for the retail industry, providing the information needed to restructure inventory and service for an uncertain future.
+#### The impacts of COVID-19 on the retail sector exposed the need for retailers to better plan for future business disruptions. Artificial intelligence and real-time analytics will be the drivers of post-COVID recovery for the retail industry, providing the information needed to restructure inventory and service for an uncertain future
 
 _A version of this article was first published on TotalRetail in [two](https://www.mytotalretail.com/article/changing-the-narrative-setting-the-stage-for-retail-recovery-part-i/) [parts](https://www.mytotalretail.com/article/changing-the-narrative-setting-the-stage-for-retail-recovery-part-2/)._
 

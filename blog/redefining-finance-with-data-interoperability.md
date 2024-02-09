@@ -10,7 +10,7 @@ authorSlug: 'frank-campanella'
 ---
 ### Unleashing the Power of Connected Data
 
-The finance and fintech industry stands on the brink of a revolution not characterized by a single invention or discovery but by a paradigm shift in how data is utilized and understood. This revolution is powered by data interoperability - the seamless, secure, and efficient data exchange and integration across diverse systems, platforms, and organizations.  
+The [finance and fintech](/industries/finance) industry stands on the brink of a revolution not characterized by a single invention or discovery but by a paradigm shift in how data is utilized and understood. This revolution is powered by data interoperability - the seamless, secure, and efficient data exchange and integration across diverse systems, platforms, and organizations.  
 
 ### The Innovation Catalyst  
 

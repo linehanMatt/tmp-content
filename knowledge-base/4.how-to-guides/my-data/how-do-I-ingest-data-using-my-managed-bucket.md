@@ -12,30 +12,29 @@ Once data is ingested into your dataset you can use Seller Studio's customizable
 
 Using your managed bucket you can easily ingest data in just two steps:
 
-1.  Upload data to a specific folder inside your managed bucket.
-2.  Trigger an ingestion of your uploaded data.
+1. Upload data to a specific folder inside your managed bucket.
+2. Trigger an ingestion of your uploaded data.
 
 The process will be explained and then end-to-end examples given using the AWS CLI and the AWS console.
 
 #### Ingestion Process
 
-1.  **Upload Data**
-    
+1. **Upload Data**
+
     To upload files for a dataset they must be uploaded to a specific folder inside your managed bucket that looks like:
-    
+
     /ingestion/datasets/version=1/datasetId=DATASET\_ID/FILE\_SET\_FOLDER/
-    
+
     Substitute the following values in the folder name:
-    
-    *   **DATASET\_ID:** the ID of the dataset you want to update. Your dataset's ID can be found in Dataset Manager after it has been created.
-    *   **FILE\_SET\_FOLDER**: each time you upload a new set of files to your dataset you must put them in a new folder. If you are uploading new files every day a good choice for **FILE\_SET\_FOLDER** would be the day's date, e.g. set **FILE\_SET\_FOLDER** to 2021-09-20 for data being uploaded on September 20th, 2021.
-    
+
+    * **DATASET\_ID:** the ID of the dataset you want to update. Your dataset's ID can be found in Dataset Manager after it has been created.
+    * **FILE\_SET\_FOLDER**: each time you upload a new set of files to your dataset you must put them in a new folder. If you are uploading new files every day a good choice for **FILE\_SET\_FOLDER** would be the day's date, e.g. set **FILE\_SET\_FOLDER** to 2021-09-20 for data being uploaded on September 20th, 2021.
+
     Note:
-    
-    *   In the example above, "version=1" refers to Narrative's ingestion protocol version number. Always use "version=1".
-    *   The format and schema of the files you upload **must match your dataset file configuration and schema settings**. If you provides files in a format such as CSV, or TSV, or any other delimited format, then the order of the fields in the file must match the order of the fields in your dataset's schema.
-2.  **Trigger an Ingestion**
-    
+
+    * In the example above, "version=1" refers to Narrative's ingestion protocol version number. Always use "version=1".
+    * The format and schema of the files you upload **must match your dataset file configuration and schema settings**. If you provides files in a format such as CSV, or TSV, or any other delimited format, then the order of the fields in the file must match the order of the fields in your dataset's schema.
+2. **Trigger an Ingestion**
 
 Once all the data you would like to add to your dataset is in place the next step is instruct Narrative to ingest the data you have uploaded.
 
@@ -58,26 +57,24 @@ Once the ingestion trigger file has been written Narrative's systems will begin 
 
 **Important Notes**
 
-*   The ingestion trigger file must be uploaded as the final step **after** all other files have been uploaded.
-    
-*   The folder to which the ingestion trigger file is uploaded and all its subfolders will be ingested.
-    
-    *   For example, if your folder contains the following:
-    
+* The ingestion trigger file must be uploaded as the final step **after** all other files have been uploaded.
+
+* The folder to which the ingestion trigger file is uploaded and all its subfolders will be ingested.
+
+  * For example, if your folder contains the following:
+
     /ingestion/datasets/version=1/datasetId=DATASET\_ID/FILE\_SET\_FOLDER/file.csv  
     /ingestion/datasets/version=1/datasetId=DATASET\_ID/FILE\_SET\_FOLDER/subdirectory-1/file.csv  
     /ingestion/datasets/version=1/datasetId=DATASET\_ID/FILE\_SET\_FOLDER/subdirectory-2/file.csv  
-      
-    
-    *   Then writing an ingestion trigger file to /ingestion/datasets/version=1/datasetId=DATASET\_ID/FILE\_SET\_FOLDER/ will result in all of file.csv, subdirectory-1/file.csv , and subdirectory-2/file.csv being ingested.
-*   Changing files in a **FILE\_SET\_FOLDER** _after_ you have triggered an ingestion is not supported and can result in none of the intended data being ingested into your dataset. However, before triggering an ingestion you can edit files inside a **FILE\_SET\_FOLDER** as much as you'd like.
-    
-*   Uploaded files will disappear from your bucket after they have been ingested.
-    
-*   If you reuse a **FILE\_SET\_FOLDER** within 24 hours your files will be ignored. This policy is in place to prevent duplicate ingestions in case the ingestion trigger file is accidentally written multiple times.
-    
-*   Files written to /ingestion/datasets/version=1/datasetId=DATASET\_ID/ will be ignored, all ingestions must be triggered from a specific **FILE\_SET\_FOLDER** inside /ingestion/datasets/version=1/datasetId=DATASET\_ID/.
-    
+
+  * Then writing an ingestion trigger file to /ingestion/datasets/version=1/datasetId=DATASET\_ID/FILE\_SET\_FOLDER/ will result in all of file.csv, subdirectory-1/file.csv , and subdirectory-2/file.csv being ingested.
+* Changing files in a **FILE\_SET\_FOLDER** _after_ you have triggered an ingestion is not supported and can result in none of the intended data being ingested into your dataset. However, before triggering an ingestion you can edit files inside a **FILE\_SET\_FOLDER** as much as you'd like.
+
+* Uploaded files will disappear from your bucket after they have been ingested.
+
+* If you reuse a **FILE\_SET\_FOLDER** within 24 hours your files will be ignored. This policy is in place to prevent duplicate ingestions in case the ingestion trigger file is accidentally written multiple times.
+
+* Files written to /ingestion/datasets/version=1/datasetId=DATASET\_ID/ will be ignored, all ingestions must be triggered from a specific **FILE\_SET\_FOLDER** inside /ingestion/datasets/version=1/datasetId=DATASET\_ID/.
 
 Keep in mind that depending on the file configuration used to create a dataset, each new ingestion action will either append new data to the dataset or overwrite the entire dataset with new data.
 
@@ -87,9 +84,9 @@ The examples below work through the task of updating a dataset with the contents
 
 For the purposes of the examples the the following is assumed:
 
-*   The dataset ID is 123456789.
-*   The file to be ingested is called example.csv.
-*   The managed bucket name is nio-example-t2pxc2uync7h .
+* The dataset ID is 123456789.
+* The file to be ingested is called example.csv.
+* The managed bucket name is nio-example-t2pxc2uync7h .
 
 #### Example: Using the AWS CLI
 
@@ -111,15 +108,13 @@ aws s3 cp \\
 
 \--acl bucket-owner-full-control
 
-Any attempt to write data without doing so will result in an "access denied" error. 
+Any attempt to write data without doing so will result in an "access denied" error.
 
 You can confirm the file is in place by running aws s3 ls:
 
 aws s3 ls \\  
   --profile nio-example \\  
   s3://nio-example-t2pxc2uync7h/ingestion/datasets/version=1/datasetId=123456789/2021-09-20/
-
-  
 
 **Trigger an Ingestion**
 
@@ -142,9 +137,9 @@ Start by assuming your bucket access role in the console and navigating to your 
 
 As a reminder, your console bucket access URL looks like:
 
-https://s3.console.aws.amazon.com/s3/buckets/BUCKET\_NAME/
+<https://s3.console.aws.amazon.com/s3/buckets/BUCKET\_NAME/>
 
-Where **BUCKET\_NAME** is the name of your managed bucket. For this example the console access URL would be _https://s3.console.aws.amazon.com/s3/buckets/nio-example-t2pxc2uync7h/_ as our bucket name is "nio-example-t2pxc2uync7h".
+Where **BUCKET\_NAME** is the name of your managed bucket. For this example the console access URL would be _<https://s3.console.aws.amazon.com/s3/buckets/nio-example-t2pxc2uync7h/>_ as our bucket name is "nio-example-t2pxc2uync7h".
 
 **Upload Data**
 

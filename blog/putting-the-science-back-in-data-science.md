@@ -53,4 +53,4 @@ No need to ask their product owner to talk to the head of product to chat with t
 
 Extra bonus, it frees up BD to actually develop the business instead of hungry-hungry-hippoing all the data they can get their hands on and hoping someone downstream will actually use it.
 
-Companies need to change how they build their data science team if they want to get more out of their data and get it faster. Find the right data scientists, then give them the autonomy to do work that will actually meet goals. And stop relying on the same old processes that don’t work and start exploring new ways to find data.
+Companies need to change how they build their [data science](/roles/data-scientists) team if they want to get more out of their data and get it faster. Find the right data scientists, then give them the autonomy to do work that will actually meet goals. And stop relying on the same old processes that don’t work and start exploring new ways to find data.

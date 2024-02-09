@@ -13,7 +13,7 @@ What if you had data that could help you understand your customers’ preference
 What is competitive intelligence?
 ---------------------------------
 
-[Competitive intelligence](https://www.narrative.io/solutions/competitive-intelligence) is the analysis of competitor information. It is the process of defining, gathering, and analyzing information about competitor products, customers, messaging, sales, etc. Understanding how your competitors operate and how their customers respond is important when it comes to your own organization’s own operations and initiatives. 
+[Competitive intelligence](https://www.narrative.io/solutions/competitive-intelligence) is the analysis of competitor information. It is the process of defining, gathering, and analyzing information about competitor products, customers, messaging, sales, etc. Understanding how your competitors operate and how their customers respond is important when it comes to your own organization’s own operations and initiatives.
 
 The most effective competitive intelligence involves the systematic collection and analysis of information from multiple sources. What you’ll need to perform the best competitive analysis is external data that provides information and insights on your direct and indirect competitors.
 

@@ -21,40 +21,40 @@ Using the platform as a buyer, you have the ability to access many different typ
 
 Every data collaboration platform should operate on five fundamental principles that ensure fast, easy, and transparent data transactions:
 
-**1\. Autonomy** 
+**1\. Autonomy**
 =================
 
 There is no one-size-fits-all solution in the world of data collaboration. Each organization comes with unique challenges and goals, which require custom data solutions. You should feel empowered to create a data strategy that fits your organization’s unique journey.
 
-The tools provided by a data collaboration platform should give you maximum control over your data monetization initiatives and [data acquisition strategies](/blog/building-a-data-acquisition-strategy-for-2023). Whether you are a buyer or a seller, you want to have complete autonomy over budgets, partners, and customizing data products. 
+The tools provided by a data collaboration platform should give you maximum control over your data monetization initiatives and [data acquisition strategies](/blog/building-a-data-acquisition-strategy-for-2023). Whether you are a buyer or a seller, you want to have complete autonomy over budgets, partners, and customizing data products.
 
-**2\. Liquidity** 
+**2\. Liquidity**
 ==================
 
-A data collaboration platform makes buying and selling data a piece of cake. The key to efficiency in the data commerce market is ease of access to demand and supply, which requires the disintegration of outdated barriers to entry. 
+A data collaboration platform makes buying and selling data a piece of cake. The key to efficiency in the data commerce market is ease of access to demand and supply, which requires the disintegration of outdated barriers to entry.
 
-Automated tools available within data collaboration platforms make the process of buying and selling data as simple as point-and-click. It’s as easy to create an entire data business as it is to create a shop on Shopify and it’s as easy to purchase data as it is to download music or subscribe to a podcast. 
+Automated tools available within data collaboration platforms make the process of buying and selling data as simple as point-and-click. It’s as easy to create an entire data business as it is to create a shop on Shopify and it’s as easy to purchase data as it is to download music or subscribe to a podcast.
 
 **3\. Data Quality**
 ====================
 
-We know that acquiring data of subpar quality might be unhelpful or even detrimental to your business. In fact, poor data quality costs the United States an estimated $3.1 trillion dollars every year! That’s a lot of waste. 
+We know that acquiring data of subpar quality might be unhelpful or even detrimental to your business. In fact, poor data quality costs the United States an estimated $3.1 trillion dollars every year! That’s a lot of waste.
 
 That’s why it’s so important to only purchase data from trusted sources that you know contain relevant and accurate information. Using a data collaboration platform, you’ll avoid purchasing blind data from questionable sources. You can rest assured that the data going into your organization’s decisions, models, and products is high quality and will yield positive outcomes.
 
-**4\. Transparency** 
+**4\. Transparency**
 =====================
 
-Fully transparent transactions within the data market are the key to sustainability and accountability for both buyers and sellers. No company can have a good data strategy without visibility into all of the moving parts. Organizations with truly strategic initiatives should have a healthy insight into the data they are purchasing and be upfront with the data they are monetizing. 
+Fully transparent transactions within the data market are the key to sustainability and accountability for both buyers and sellers. No company can have a good data strategy without visibility into all of the moving parts. Organizations with truly strategic initiatives should have a healthy insight into the data they are purchasing and be upfront with the data they are monetizing.
 
 The more you know about the data you’re purchasing, the better. Similarly, the more you share about the data you’re selling, the better. Our data collaboration platform gives both buyers and sellers full transparency in order to foster trust, good relationships, and successful business.
 
 **5\. Privacy & Compliance**
 ============================
 
-You know that your company sticks by a strict set of moral and business standards that protect both your business and your customers. That’s why it’s imperative to make sure you are navigating the modern data regulatory environment without incurring undue risk. Smart and competitive enterprises are now more diligent with their approach to data governance and monetization. 
+You know that your company sticks by a strict set of moral and business standards that protect both your business and your customers. That’s why it’s imperative to make sure you are navigating the modern data regulatory environment without incurring undue risk. Smart and competitive enterprises are now more diligent with their approach to data governance and monetization.
 
-You want to ensure that the data you are selling or buying doesn’t violate your organization’s best practices or the [data regulations](https://kb.narrative.io/regulations-compliance-privacy) that have been put in place to protect privacy. A data collaboration platform helps govern your data transactions for you by ensuring we only allow data on our platform that meets the standard privacy and compliance requirements. 
+You want to ensure that the data you are selling or buying doesn’t violate your organization’s best practices or the [data regulations](https://kb.narrative.io/regulations-compliance-privacy) that have been put in place to protect privacy. A data collaboration platform helps govern your data transactions for you by ensuring we only allow data on our platform that meets the standard privacy and compliance requirements.
 
 **Apply Narrative’s guiding principles to your data strategy**
 ==============================================================

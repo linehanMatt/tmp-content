@@ -16,23 +16,23 @@ Imagine a world where every piece of data speaks the same language, where the ba
 
 ### Benefits Across Industries
 
-#### Healthcare:  
+#### Healthcare
 
 In the healthcare sector, interoperability means the difference between life and death. It allows for seamless exchanges of patient records, ensuring that medical professionals have instant access to critical information when emergencies occur, leading to timely and more effective treatments.  
 
-### Finance:  
+### Finance
 
 The finance industry benefits through a better understanding of macroeconomic trends, more efficient transactions, enhanced fraud detection mechanisms, and better risk assessment models by sharing data across institutions & systems while maintaining strict compliance with privacy regulations.  
 
-### Retail:  
+### Retail
 
 For retail, interoperability translates into knowing your customer like never before. By unifying customer data from various sources, retailers can offer unparalleled personalization in their services and marketing campaigns, leading to a superior shopping experience.  
 
-### Manufacturing:  
+### Manufacturing
 
 In manufacturing, the ability to predict and respond to supply chain disruptions is significantly enhanced by data interoperability, allowing companies to maintain operations even under the most challenging circumstances.
 
-### Public Sector:  
+### Public Sector
 
 In the public sector, interoperable data can lead to better-informed policymaking and more efficient public services, as seen in the growing number of smart cities worldwide.  
 

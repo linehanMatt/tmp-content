@@ -10,7 +10,7 @@ Narrative Interfaces provide a practical set of tools that assist users in proce
 
 The Narrative Data Collaboration Platform User Interface exposes all of the functionality of the platform in a simple, familiar interface that is organized in many ways like a file explorer. Users can interact with any Dataset, Access Rule, run Queries, and launch and utilize Native Apps to perform data collaboration activities.
 
-The UI can be access from https://app.narrative.io/platform/
+The UI can be access from <https://app.narrative.io/platform/>
 
 ### API
 

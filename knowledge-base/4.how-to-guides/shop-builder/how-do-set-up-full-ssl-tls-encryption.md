@@ -6,15 +6,15 @@ tags: ['Selling Data', 'Data Shops']
 ---
 Narrative will manage the full SSL/TLS encryption of your Data Shop through Cloudflare. To set up SSL/TLS encryption for your registered domain, please follow these instructions.  
 
-1.  **Log in** to the administrator account for your domain registrar (e.g. GoDaddy).
-2.  **Remove** the existing nameservers.
-3.  **Add** Cloudflare's nameservers:
-    
+1. **Log in** to the administrator account for your domain registrar (e.g. GoDaddy).
+2. **Remove** the existing nameservers.
+3. **Add** Cloudflare's nameservers:
+
     aria.ns.cloudflare.com
-    
+
     santino.ns.cloudflare.com
-    
-4.  **Save** your changes.
+
+4. **Save** your changes.
 
 Registrars can take 24 hours to process nameserver updates.
 

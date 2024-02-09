@@ -17,4 +17,3 @@ Third Party (3P) data is data that is delivered to TTD’s marketplace and made 
 Participation in TTD marketplace requires paperwork signed directly between the data provider (Narrative customer) and TTD. Please reach out to your account representative at TTD for more information on starting this process if you do not already have this paperwork in place.
 
 > 💡 Note that only once paperwork is signed with TTD does a data provider get their TTD data provider “**Brand ID”** which is required to activate Narrative’s TTD 3P Connector App.
-

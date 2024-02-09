@@ -10,7 +10,7 @@ In an effort to do our part in making sure buyers follow the set data licensing 
 
 ### **What**
 
-Purchased data is no longer accessible once the license period has ended, which is usually 30 days if the buyer is using Narrative's standard purchase agreement. The buyer is obligated to cease all operations that use expired data if they have removed it from a Narrative controlled S3 bucket. 
+Purchased data is no longer accessible once the license period has ended, which is usually 30 days if the buyer is using Narrative's standard purchase agreement. The buyer is obligated to cease all operations that use expired data if they have removed it from a Narrative controlled S3 bucket.
 
 ### **Why**
 
@@ -22,7 +22,6 @@ For example, a file delivered to a bucket on November 3rd will automatically be 
 
 Specifically:
 
-> *   Anything older than **30 days** will be automatically deleted from buyer buckets 
-
+> * Anything older than **30 days** will be automatically deleted from buyer buckets
 
 Please don't hesitate to reach out with any questions or concerns about this policy.
