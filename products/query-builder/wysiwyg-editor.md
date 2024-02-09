@@ -1,7 +1,7 @@
 ---
 title: WYSIWYG Editor
 description: Narrative's WYSIWYG Editor allows you to easily create and manage your data collaboration requests with your partners.  Instead of writing code, get stuff done.
-youtubeId: a91a3ab6c7f3752a32404398c55cc955
+youtubeId: 828f10f88dd59fc06da5e001597a6239
 ---
 
 ::item-grid
