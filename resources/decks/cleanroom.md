@@ -84,7 +84,7 @@ date: September 9th, 2023
     How do I learn more?
 
     #left
-    ![](https://avatars.githubusercontent.com/u/12872476?s=200&v=4)
+    ![](/img/n-icon.png)
 
     #right
     ## Let's get started!
