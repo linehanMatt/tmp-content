@@ -42,12 +42,14 @@ date: December 9th, 2023
     #main
     ## Q&A
 
+    In order to get started, we'll need to know a few things about your data and your audiences:
+
     - Approximately how many audiences do you have / plan to build?
     - What types of identifiers do you use? (MAIDs, Hashed Emails, Cookies, etc)
     - How many total unique identifers do you have?
     - On average how many identifiers per audience?
     ::
 
-    ::section-slide{headline="Thanks!"}
+    ::section-slide{headline="Let's Get Started!"}
     ::
 ::
