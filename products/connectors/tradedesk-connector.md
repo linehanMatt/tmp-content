@@ -32,6 +32,7 @@ image: /img/products/connectors/trade_desk_connector.png
         - [The Trade Desk](https://www.thetradedesk.com/)
         - [Unified ID 2.0](https://www.thetradedesk.com/us/about-us/industry-initiatives/unified-id-solution-2-0)
         - [The Trade Desk, Snowflake, and Narrative](/blog/narrative-snowflake-thetradedesk)
+        - [Getting Started Deck](/resources/decks/ttd-connector-integration-overview)
         ::
     ::
 
