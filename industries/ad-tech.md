@@ -1,5 +1,5 @@
 ---
-title: 'Ad Tech'
+title: 'Advertising & Media'
 description: "Narrative's Ad Tech solutions empower companies to harness vast-scale data collaboration, driving targeted advertising and maximizing return on ad spend."
 layout: 'urban-dawn'
 ---
@@ -22,4 +22,6 @@ layout: 'urban-dawn'
 
 ::feature-callout{title="Scalability and Flexibility" description="Our platform scales with your data demands, offering the flexibility needed for dynamic ad tech environments." prompt="Can you discuss how Narrative's platform offers scalability and flexibility for evolving ad tech needs?"}
 ::
+
+::mega-feature-callout{title="Unparralelled Identity Resolution" subtitle="Identity Resolution that is both Scaled & Easy" description="Narrative has created an identity resolution layer that allows you to mix and match providers with ease" link-text="Learn More" link-url="/solutions/identity-resolution"}
 ::

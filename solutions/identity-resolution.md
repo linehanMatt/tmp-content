@@ -15,6 +15,6 @@ layout: 'jungle-fever'
 ::feature-callout{title="Transparent Identity Graphs" description="Craft your identity graph with our fully transparent platform, ensuring your data meets the highest standards of quality, trust, and compliance for your business." prompt="Can you demonstrate how Narrative maintains transparency in identity graph creation?"}
 ::
 
-::mega-feature-callout{title="IDENTITY ON YOUR TERMS" subtitle="Effortless Upload and Match Process" description="Upload clientele data, match with digital identifiers, then activate enriched profiles across your marketing ecosystem with precision and ease." prompt="Can you take me through Narrative's upload-to-activation workflow?"}
+::mega-feature-callout{title="CASE STUDY" subtitle="Go from Identifiers to Identity" description="Read about how Froyoo scaled identity resolution using Narrative's easy to use Data Collaboration Platform" link-text="Read More" link-url="/resources/use-cases/froyoo-identity"}
 ::
 ::
