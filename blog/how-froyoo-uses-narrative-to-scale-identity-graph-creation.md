@@ -31,4 +31,4 @@ Using Narrative’s [Query Builder](/products/query-builder), Froyoo was able to
 
 Froyoo now has a customized ID mapping data monthly subscription, which provides them an ongoing delivery of mobile devices linked to hash emails in MENA countries. They now have a centralized data acquisition strategy that allows them to focus time and energy on creating the best identity graphs and solutions for their customers. As Froyoo continues to use Narrative for their data acquisition needs and discover new data providers, they are able to grow and launch new and exciting projects. Just last month, Froyoo initiated a new location project, adding geolocation observations to their ID mapping subscription.
 
-Want to [find and buy](https://www.narrative.io/buyer-studio) the data you need to succeed? We can help you get started [here](/contact).
+Want to [find and buy](https://app.narrative.io/app/buyer-studio) the data you need to succeed? We can help you get started [here](/contact).

@@ -20,7 +20,7 @@ The Harris Poll needed a way to enrich the data they were collecting in a fast a
 **The Solution**
 ================
 
-By using [Narrative’s Buyer Studio](https://www.narrative.io/buyer-studio), Harris Poll has been able to create an efficiently streamlined data acquisition strategy. Using Harris Poll’s own seed list of IP addresses, Narrative is able to classify each of Harris Poll’s IP addresses as residential, find mappings of those IP addresses to HEMs and MAIDs, and increase addressability of these IP addresses by adding new identifiers.
+By using [Narrative’s Buyer Studio](https://app.narrative.io/app/buyer-studio), Harris Poll has been able to create an efficiently streamlined data acquisition strategy. Using Harris Poll’s own seed list of IP addresses, Narrative is able to classify each of Harris Poll’s IP addresses as residential, find mappings of those IP addresses to HEMs and MAIDs, and increase addressability of these IP addresses by adding new identifiers.
 
 Narrative’s speedy turnaround times allow Harris to receive enriched lists of their data in less than 24 hours, providing them with the data they need as soon as they need it. With their enriched data, Harris Poll is able to target survey respondents using different channels, such as mobile. This has greatly expanded their insights while also cutting down on data acquisition time and costs.
 

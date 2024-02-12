@@ -37,4 +37,4 @@ What IdenX has to say about Narrative
 
 "Narrative allows us to quickly find, purchase, and aggregate the data that we need for specific projects. The flexibility of their data marketplace allows us to tap into dozens of global data providers without having to be concerned with duplicative data purchases, individual legal agreements with each vendor, and understanding how much data we will receive prior to purchase." - _John Baker, CDO_
 
-**Want to** [**find and buy**](https://www.narrative.io/buyer-studio) **the data you need to succeed? We can help you get started** [**here**](/contact)**.**
+**Want to** [**find and buy**](https://app.narrative.io/app/buyer-studio) **the data you need to succeed? We can help you get started** [**here**](/contact)**.**

@@ -318,7 +318,7 @@ In minutes we've created your first data stream!
 **Creating Access Rules**
 --------------------------
 
-Setting access rules is how you will make your data available for buyers to add to custom subscriptions through our app, [**Buyer Studio**](https://www.narrative.io/buyer-studio). By setting access rules for your data streams, you’re opening up another channel with which buyers can find and buy the precise data you want to sell.
+Setting access rules is how you will make your data available for buyers to add to custom subscriptions through our app, [**Buyer Studio**](https://app.narrative.io/app/buyer-studio). By setting access rules for your data streams, you’re opening up another channel with which buyers can find and buy the precise data you want to sell.
 
 To get started, click **Access Rules** on the left-side menu on **Seller Studio.**
 
