@@ -41,7 +41,7 @@ However, finding and acquiring this external data can be a tedious, time-consumi
 
 A data collaboration platform connects [data buyers](/products/data-marketplace) with many [data providers](https://www.narrative.io/distribute) in one place, so that buyers can purchase from multiple sources at once. It also gives buyers full control of what data they’re ingesting and from whom. You’ll be able to pick and choose the exact data points you want from the exact providers you want and have it delivered to your preferred endpoint all at once, without worrying about duplicate data.
 
-Buying from a data collaboration platform also [ensures that you won’t buy duplicate data points or data you don’t need](./blog/how-to-save-time-get-clean-data-automatically-streamline-data-wrangling). You won’t have to waste money on buying the same data points twice, or on data that you don’t really need. You’ll be able to filter through and select only the data that will benefit your financial planning needs.
+Buying from a data collaboration platform also [ensures that you won’t buy duplicate data points or data you don’t need](/blog/how-to-save-time-get-clean-data-automatically-streamline-data-wrangling). You won’t have to waste money on buying the same data points twice, or on data that you don’t really need. You’ll be able to filter through and select only the data that will benefit your financial planning needs.
 
 Improve internal data accessibility with data sharing
 ------------------------------------------------------
