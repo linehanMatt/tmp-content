@@ -8,11 +8,13 @@ image: '/img/blog/2019/07/narrative-101-pt-2.png'
 tags: ['insights']
 
 ---
+> **Please Note:** Narrative's offerings are constantly evolving. While some of the products mentioned below are no longer available, the foundational ideas they introduced are timeless and continue to inform our innovations. This article is preserved as a reference. For the latest on how Narrative is transforming data collaboration, [click here to learn more](https://www.narrative.io/).
+
 ### Learn how companies are leveraging Narrative to power their data strategies
 
 Welcome back to class, students.
 
-In our second installment of our "Narrative 101" series ([here's part one](/blog/narrative-101-what-is-narrative)), Narrative founder and CEO Nick Jordan provides some real-life examples of how companies are leveraging Narrative's [Acquire](https://www.narrative.io/platform-acquire) and [Distribute](https://www.narrative.io/platform-distribute) platforms to power their data strategies.
+In our second installment of our "Narrative 101" series ([here's part one](/blog/narrative-101-what-is-narrative)), Narrative founder and CEO Nick Jordan provides some real-life examples of how companies are leveraging Narrative's [Acquire](https://www.narrative.io/) and [Distribute](https://www.narrative.io/) platforms to power their data strategies.
 
 Watch the video or read the interview below to learn:
 
@@ -21,7 +23,7 @@ Watch the video or read the interview below to learn:
 
 ### How are companies using the Acquire platform?
 
-**Joe Apprendi:** Could you provide an example of a best practice client that's leveraging the Narrative platform on the [Acquire side](https://www.narrative.io/platform-acquire)?
+**Joe Apprendi:** Could you provide an example of a best practice client that's leveraging the Narrative platform on the [Acquire side](https://www.narrative.io/)?
 
 **Nick Jordan:** I think the most interesting case study we've seen is with a gaming company that we work with. They were effectively launching a new game, and they had a cold start problem. They couldn't just look at their other games and say, "We assume that these same behaviors are going to happen with this new game."
 
@@ -43,7 +45,7 @@ Learn more about [how to use Narrative Acquire to gather competitive intelligenc
 
 ### How are companies using the Distribute platform?
 
-**Joe Apprendi:** So on the other side of the market, on the [sell side](https://www.narrative.io/platform-distribute), give me an example how that's benefiting data providers. Is it strictly based on workflow efficiency, or really, engaging with new markets that they haven't engaged in the past?
+**Joe Apprendi:** So on the other side of the market, on the [sell side](https://www.narrative.io/), give me an example how that's benefiting data providers. Is it strictly based on workflow efficiency, or really, engaging with new markets that they haven't engaged in the past?
 
 **Nick Jordan:** It's a little bit of everything. We give the sell side turnkey solutions that make it really easy for them to sell without spinning up massive engineering teams, operations teams, etc.
 

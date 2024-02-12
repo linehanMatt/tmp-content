@@ -15,7 +15,7 @@ In a world where data is the lifeblood of many organizations, the inability to e
 
 ## What is a data collaboration platform?
 
-A [data collaboration platform](https://www.narrative.io/data-collaboration-platform) is software that simplifies, automates, and centralizes the collaboration and sharing of data assets. By centralizing data assets and providing automated self-service tools, these platforms make acquiring, distributing, and sharing data faster, easier, and more scalable than ever.
+A [data collaboration platform](https://www.narrative.io/) is software that simplifies, automates, and centralizes the collaboration and sharing of data assets. By centralizing data assets and providing automated self-service tools, these platforms make acquiring, distributing, and sharing data faster, easier, and more scalable than ever.
 
 ## Understanding what a data collaboration platform does
 
@@ -35,7 +35,7 @@ Data is automatically delivered to partners and clients at their preferred endpo
 
 ## Benefits of a data collaboration platform
 
-A [data collaboration platform](https://www.narrative.io/data-collaboration-platform) allows organizations to seamlessly collaborate on data projects both internally and externally. With the increasing importance of data in today's business landscape, data collaboration platforms are a critical tool for organizations looking to optimize the value of their data assets and remain competitive in the data-driven economy.
+A [data collaboration platform](https://www.narrative.io/) allows organizations to seamlessly collaborate on data projects both internally and externally. With the increasing importance of data in today's business landscape, data collaboration platforms are a critical tool for organizations looking to optimize the value of their data assets and remain competitive in the data-driven economy.
 
 ### Extract more value from data
 
@@ -57,7 +57,7 @@ Data collaboration platforms provide organizations with a centralized data manag
 
 ## Should you build or buy a data collaboration capability?
 
-Some organizations are well equipped to run their data collaboration efforts in-house. For most companies, though, it can be more time-consuming, more expensive, and ultimately a lot less adaptable than using a [data collaboration platform](https://www.narrative.io/data-collaboration-platform).
+Some organizations are well equipped to run their data collaboration efforts in-house. For most companies, though, it can be more time-consuming, more expensive, and ultimately a lot less adaptable than using a [data collaboration platform](https://www.narrative.io/).
 
 ### Questions to ask when considering build vs. buy
 
@@ -75,7 +75,7 @@ It can take months to find new data sources, test data quality, agree on terms, 
 
 ## How do you find the right data collaboration platform?
 
-Once you’ve decided to invest in a [data collaboration platform](https://www.narrative.io/data-collaboration-platform), your next step is to find the right one for your business requirements. When making your decision, consider the following capabilities.
+Once you’ve decided to invest in a [data collaboration platform](https://www.narrative.io/), your next step is to find the right one for your business requirements. When making your decision, consider the following capabilities.
 
 ### Interoperability  
 

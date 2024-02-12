@@ -8,6 +8,8 @@ image: '/img/blog/2020/03/selling-data.png'
 tags: ['data economy', 'distribute']
 authorSlug: 'nick-jordan'
 ---
+> **Please Note:** Narrative's offerings are constantly evolving. While some of the products mentioned below are no longer available, the foundational ideas they introduced are timeless and continue to inform our innovations. This article is preserved as a reference. For the latest on how Narrative is transforming data collaboration, [click here to learn more](https://www.narrative.io/).
+
 #### Build out a data monetization practice that maximizes revenue while minimizing time and effort
 
 Companies are realizing that their data as an asset has intrinsic value. With that realization often comes the desire to create a data monetization business to turn that valuable asset into revenue.
@@ -103,4 +105,4 @@ These regulations don’t prevent you from creating data monetization businesses
 
 Selling data can be a meaningful revenue stream for many companies. Like any other part of your business, data monetization requires a thoughtful approach. The companies that are the most successful at selling their data are the ones that start the process armed with information and ready to work.
 
-[Narrative Distribute](https://www.narrative.io/platform-distribute) helps companies tackle the complexities of data monetization. Data sellers can use Narrative Distribute as their data monetization platform of record. If you are looking to move ahead with your data selling strategy, Narrative Distribute can help you implement it and turn your strategy into reality.
+[Narrative Distribute](https://www.narrative.io/) helps companies tackle the complexities of data monetization. Data sellers can use Narrative Distribute as their data monetization platform of record. If you are looking to move ahead with your data selling strategy, Narrative Distribute can help you implement it and turn your strategy into reality.

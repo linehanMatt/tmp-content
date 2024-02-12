@@ -8,6 +8,8 @@ image: '/img/blog/2019/10/pixelated-customer-BLOG.jpg'
 tags: ['acquire', 'insights']
 authorSlug: 'nick-jordan'
 ---
+> **Please Note:** Narrative's offerings are constantly evolving. While some of the products mentioned below are no longer available, the foundational ideas they introduced are timeless and continue to inform our innovations. This article is preserved as a reference. For the latest on how Narrative is transforming data collaboration, [click here to learn more](https://www.narrative.io/).
+
 ### How to use third-party data to bring focus to who your customers actually are
 
 Understanding your customer is paramount to any successful growth strategy, and data acts as the building blocks for doing so.
@@ -89,7 +91,7 @@ The incentive for these companies is to collect as much data as possible from as
 
 Instead of using pre-packaged segments of questionably useful data from unknown sources, brands must be able to access precise data sets from verifiable suppliers. Only then will they be able to build the high-resolution view of their customers needed to generate actionable insights and informed decisions off of third-party data.
 
-Using the [Narrative Acquire](https://www.narrative.io/platform-acquire) platform, brands can utilize highly customizable filtering options to buy only the exact observations needed, and none they don’t. The platform also provides tools for analyzing dataset overlap, match rates, and truth sets to ensure the data being purchased is accurate and precise.
+Using the [Narrative Acquire](https://www.narrative.io/) platform, brands can utilize highly customizable filtering options to buy only the exact observations needed, and none they don’t. The platform also provides tools for analyzing dataset overlap, match rates, and truth sets to ensure the data being purchased is accurate and precise.
 
 In the end, data is going to be an important component of any brand’s strategy going forward. It’s our hope that they start to look at more precise data sets so they can encode a higher resolution composite view of their customers.
 

@@ -15,7 +15,7 @@ Data collaboration has the power to bring this data together and help you extrac
 What is data collaboration?
 ---------------------------
 
-[Data collaboration](https://www.narrative.io/data-collaboration-platform) is the sharing of data assets between parties with the aim of unlocking new insights, making better decisions, and driving growth and revenue.
+[Data collaboration](https://www.narrative.io/) is the sharing of data assets between parties with the aim of unlocking new insights, making better decisions, and driving growth and revenue.
 
 There are three main use cases for data collaboration:
 
@@ -64,7 +64,7 @@ Controlling ownership and accessibility when collaborating with data can be conf
 Data collaboration platforms make collaborating with data easy
 --------------------------------------------------------------
 
-Luckily, data collaboration doesn’t have to be as complicated as it sounds. By leveraging a [data collaboration platform](https://www.narrative.io/data-collaboration-platform), you can automate the most complicated and time-intensive parts of both data acquisition and data distribution in a safe and secure manner.
+Luckily, data collaboration doesn’t have to be as complicated as it sounds. By leveraging a [data collaboration platform](https://www.narrative.io/), you can automate the most complicated and time-intensive parts of both data acquisition and data distribution in a safe and secure manner.
 
 Narrative enables seamless data collaboration and eliminates the complexities of accessing and distributing data. Narrative’s data collaboration platform is an all-in-one solution that streamlines and simplifies data acquisition, monetization, and sharing, with powerful automations and easy-to-use, no-code workflows. With Narrative, you can find, access, and combine data from any source, in any format, with just a few clicks.
 

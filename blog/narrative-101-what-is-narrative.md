@@ -69,7 +69,7 @@ If you're a [seller](https://www.narrative.io/roles/sales) that's trying to opti
 
 If you're a finance team and you just want to see how much money you made last month, and what you're forecasted to make this month, we have tools for the finance team to do that. And then we'll take your actual revenue and push it into your backend systems.
 
-People are really thinking of the SaaS side of our offering as their platform of record for [acquisition](https://www.narrative.io/platform-acquire) and [monetization](https://www.narrative.io/platform-distribute).
+People are really thinking of the SaaS side of our offering as their platform of record for [acquisition](https://www.narrative.io/) and [monetization](https://www.narrative.io/).
 
 **If you want to learn how Narrative's solutions can help your company simplify their data acquisition and monetization strategy, [send us a message](/contact)—we'd love to chat.**
 

@@ -8,6 +8,7 @@ image: '/img/blog/2019/05/cookies_lo-1.jpg'
 tags: ['acquire', 'identity']
 
 ---
+> **Please Note:** Narrative's offerings are constantly evolving. While some of the products mentioned below are no longer available, the foundational ideas they introduced are timeless and continue to inform our innovations. This article is preserved as a reference. For the latest on how Narrative is transforming data collaboration, [click here to learn more](https://www.narrative.io/).
 ### As browsers move to block of third-party cookies, brands must shift strategy
 
 The end (of cookies) is near! Winter is coming (for everyone that uses cookies)! Are you prepared for the doom that will surely ensue when cookies go away?!
@@ -87,4 +88,4 @@ Once you back up your less-stable cookie data to a more stable ID, your data is 
 
 This is _not_ building a cross-device mapping which will only organize you the relationship of one ID to another. This is _not_ a cross-device graph which is simply a structure in which to make the data more retrievable. This _is_ providing you the ability to retain your valuable first party data, no matter where it lives and in what form.
 
-**Learn how [Narrative's Acquire platform](https://www.narrative.io/platform-acquire) can help you build your own native identity solution.**
+**Learn how [Narrative's Acquire platform](https://www.narrative.io/) can help you build your own native identity solution.**
