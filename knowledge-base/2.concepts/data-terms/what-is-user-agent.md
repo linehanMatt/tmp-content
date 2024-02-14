@@ -1,5 +1,4 @@
-# ---
-
+---
 title: 'What is User Agent?'
 description: 'User agent is a string of data from a user''s device that represents data points like OS, browser, carrier, and hardware. '
 lastUpdated: '2023-06-14T18:05:14.782Z'

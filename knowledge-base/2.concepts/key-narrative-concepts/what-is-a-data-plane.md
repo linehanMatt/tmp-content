@@ -2,7 +2,7 @@
 title: 'What is a Data Plane?'
 description: "A Data Plane is where data is stored and processed in a Data Collaboration Platform. It is the central hub for data collaboration, providing a unified interface for managing and governing data.  Data planes can be Narrative hosted or self-hosted."
 lastUpdated: '2023-04-29'
-tags: ['concepts', 'control plane']
+tags: ['concepts', 'control plane', 'data plane', 'clean room']
 ---
 
 ## What is a Data Plane?
@@ -26,6 +26,10 @@ The **Data Plane** is a fundamental component of Narrative's Data Collaboration 
 - **Narrative Hosting**: Narrative offers hosting services for the Data Plane, providing a streamlined and integrated experience.
 
 - **Customer Hosting**: Customers can choose to host the Data Plane on their infrastructure, such as AWS or Snowflake, offering flexibility and control over their data environment.
+
+## Viewing and Managing Data Planes
+
+The Data Plane can be viewed and managed through the Narrative platform.  To see the active data planes for your account visit the [Data Planes](https://app.narrative.io/platform/my-data/data-planes) page under "My Data".
 
 ## Conclusion
 

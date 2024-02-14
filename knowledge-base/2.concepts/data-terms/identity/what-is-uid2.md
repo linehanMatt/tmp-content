@@ -1,5 +1,5 @@
 ---
-title: 'What is UID2 in the Advertising Industry?'
+title: 'What is UID2?'
 description: 'Explore how UID2 identifiers revolutionize targeting and privacy in advertising by enabling a common language across the industry.'
 lastUpdated: '2024-01-31'
 tags: ['Data Egress Through Connector Apps', 'The Trade Desk', 'UID2', 'Privacy']
