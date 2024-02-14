@@ -16,7 +16,7 @@ Imagine a world where every piece of data speaks the same language, where the ba
 
 ### Benefits Across Industries
 
-#### Healthcare
+### Healthcare
 
 In the healthcare sector, interoperability means the difference between life and death. It allows for seamless exchanges of patient records, ensuring that medical professionals have instant access to critical information when emergencies occur, leading to timely and more effective treatments.  
 
