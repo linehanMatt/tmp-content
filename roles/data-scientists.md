@@ -6,7 +6,7 @@ layout: 'innovative-horizons'
 ---
 
 ::item-grid
-::feature-callout{title="Automate Data Standardization" description="Data from multiple sources is normalized into a single feed. Retain record level provenance by source. Spend your time doing data science, not ETL." prompt="Tell me about Narrative's patent-pending Rosetta Stone Technology."}
+::feature-callout{title="Automate Data Standardization" description="Data from multiple sources is normalized into a single feed. Retain record level provenance by source. Spend your time doing data science, not ETL." link-path="/products/rosetta-stone" link-text="Learn More"}
 ::
 
 ::feature-callout{title="Easily access high-fidelity data" description="100% declared or observed data. No aggregation or inference. Hundreds of data types and attributes" prompt="How does Narrative help data scientists access raw data?"}

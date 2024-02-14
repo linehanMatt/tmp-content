@@ -6,7 +6,7 @@ layout: 'digital-horizons'
 ---
 
 ::item-grid
-::feature-callout{title="Automate Data Standardization" description="Data from multiple sources is normalized into a single feed. Retain record level provenance by source. Spend your time doing data science, not ETL" prompt="Tell me about Narrative's patent-pending Rosetta Stone Technology."}
+::feature-callout{title="Automate Data Standardization" description="Data from multiple sources is normalized into a single feed. Retain record level provenance by source. Spend your time doing data science, not ETL" link-path="/products/rosetta-stone" link-text="Learn More"}
 ::
 
 ::feature-callout{title="Use a Single Point of Integration" description="Narrative simplifies integration, allowing for better, faster workflows." prompt="Tell me about Narrative's single point of integration and how it benefits data engineers."}

@@ -8,7 +8,7 @@ layout: 'nebula'
 ::feature-callout{title="Efficiency" description="Narrative's single point of integration optimizes your IT workflows, resulting in a significant reduction in operational time and resources." prompt="How much time can Narrative's solution save IT Managers on average?"}
 ::
 
-::feature-callout{title="Data Cohesion" description="Narrative ensures the standardization of diverse data sources, offering a unified, clean data feed. Focus on leveraging data insights rather than grappling with data integration complexities." prompt="How does clean, standardized data impact IT infrastructure management?"}
+::feature-callout{title="Data Cohesion" description="Narrative ensures the standardization of diverse data sources, offering a unified, clean data feed. Focus on leveraging data insights rather than grappling with data integration complexities." link-path="/products/rosetta-stone" link-text="Learn More"}
 ::
 
 ::feature-callout{title="Your Data, Your Cloud" description="Narrative Anywhere allows you to deploy and manage your data collaboration efforts without moving your data out of your cloud" link-path="/products/narrative-anywhere" link-text="Learn more"}
