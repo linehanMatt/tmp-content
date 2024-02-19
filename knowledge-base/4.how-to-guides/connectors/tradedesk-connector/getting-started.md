@@ -10,15 +10,21 @@ First, determine the use case for your data and whether it should be shared with
 
 ### Third Party vs First Party Data in TTD
 
-Simply put, TTD considers any data that is licensed off of their platform to be “first party” and any data that is being licensed within TTD’s platform via their marketplace to be “third party.” If you are uncertain which use case you need, read more on What is the difference between 1P and 3P data in TTD?
+Simply put, TTD considers any data that is owned by the advertiser or licensed and shared with an advertiser outside of TTD to be “first party”, and any data that is being sold within TTD’s marketplace to be “third party.” Read on for more details on both types.
 
-### TTD 3P Connector App
+### TTD 1P Data
 
-If you are interested in pushing third party data to TTD, you will want to utilize the TTD 3P Connector App.
+If you want to share your own data with your own advertiser account on The Trade Desk or with another advertiser that has given you their Advertiser ID and Secret Key, you are looking to push first party data to The Trade Desk.  Read more at [How to Share Your Data with an Advertiser Using The Trade Desk Connector (1P)].
 
-#### Install the Narrative 3P Connector App
+### TTD 3P Data
 
-Install the Narrative 3P Connector App and provide your TTD Brand ID \(which can be obtained from your TTD account representative.\)
+If you are interested in pushing third party data to TTD, you will want to utilize the TTD 3P Connector App. Read more below to learn about pushing 3P Data.
+
+#### Install the Narrative TTD Connector App
+
+Install the Narrative TTD Connector App and provide your The Trade Desk Brand ID \(which can be obtained from your TTD account representative.\)
+
+All users will need a TTD Brand ID in order to deliver data to the Trade Desk marketplace.  IF you do not have one, reach out to your Narrative relationship manager who can help facilitate getting a new Brand ID using Narrative's connection with The Trade Desk. 
 
 ![Install the Narrative 3P Connector](https://solutions.narrative.io/hubfs/image-png.png)
 
