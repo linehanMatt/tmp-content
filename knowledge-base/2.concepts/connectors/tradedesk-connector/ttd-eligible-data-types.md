@@ -1,7 +1,7 @@
 ---
 title: 'Accepted Data Types by the Narrative The Trade Desk Connector'
 description: 'Overview of data types such as Hashed Email, Phone Number, UID2s, MAIDs, and cookies that can be pushed to The Trade Desk’s marketplace via Narrative’s Connector.'
-lastUpdated: '2024-01-31'
+lastUpdated: '2024-02-19'
 tags: ['Data Egress Through Connector Apps', 'The Trade Desk']
 ---
 
