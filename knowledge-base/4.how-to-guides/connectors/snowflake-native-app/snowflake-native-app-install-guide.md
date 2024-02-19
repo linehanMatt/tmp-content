@@ -1,4 +1,3 @@
-```markdown
 ---
 title: 'How to Install "Narrative Data Collaboration powered by Rosetta Stone" in Snowflake Marketplace'
 description: 'Step-by-step guide on installing and configuring the Narrative Data Collaboration app in Snowflake for advanced data collaboration and integration functionalities.'
@@ -68,4 +67,3 @@ Configure how often the Narrative Data Collaboration app should poll the Narrati
 > **Note:** Disabling polling will stop the application from querying data or delivering it to your endpoints as scheduled.
 
 By following these steps, you'll successfully install and configure the **"Narrative Data Collaboration powered by Rosetta Stone"** application within your Snowflake environment, enabling advanced data collaboration and integration functionalities.
-```
