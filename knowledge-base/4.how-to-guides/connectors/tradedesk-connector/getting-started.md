@@ -14,7 +14,8 @@ Simply put, TTD considers any data that is owned by the advertiser or licensed a
 
 ### TTD 1P Data
 
-If you want to share your own data with your own advertiser account on The Trade Desk or with another advertiser that has given you their Advertiser ID and Secret Key, you are looking to push first party data to The Trade Desk.  Read more at [How to Share Your Data with an Advertiser Using The Trade Desk Connector (1P)].
+If you want to share your own data with your own advertiser account on The Trade Desk or with another advertiser that has given you their Advertiser ID and Secret Key, you are looking to push first party data to The Trade Desk.  Read more at [How to Share Your Data with an Advertiser Using The Trade Desk Connector (1P)](/knowledge-base/how-to-guides/connectors/tradedesk-connector/ttd-1p-data).
+
 
 ### TTD 3P Data
 
