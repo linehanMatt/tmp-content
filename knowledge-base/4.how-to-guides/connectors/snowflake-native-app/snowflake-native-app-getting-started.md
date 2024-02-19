@@ -1,5 +1,5 @@
 ---
-title: 'Narrative Data Collaboration with Snowflake Native App'
+title: 'Overview of Snowflake Native App'
 description: 'Learn how to connect your Snowflake account with Narrative for enhanced data collaboration, leveraging the power of Rosetta Stone.'
 lastUpdated: '2023-04-24T23:05:19.054Z'
 tags: ['Snowflake', 'Narrative Data Collaboration', 'Rosetta Stone', 'Data Integration']
@@ -23,6 +23,10 @@ The **Narrative Data Collaboration powered by Rosetta Stone Snowflake Native App
 - **Secure Data Handling**: Ensure the security and privacy of your data with the dedicated Data Plane, where all queries are executed within your own Snowflake account.
 
 For more detailed information on Data Planes and how they enhance your data collaboration experience, please refer to our [Data Planes knowledge base article](#).
+
+## Installing the Snowflake Native App
+
+For a comprehensive guide on installing and configuring the **"Narrative Data Collaboration powered by Rosetta Stone"** application within the Snowflake Marketplace, see [Installing the Snowflake Native App](/knowledge-base/how-to-guides/connectors/snowflake-native-app/snowflake-native-app-install-guide). Note that you must have the ACCOUNTADMIN role or equivalent privileges in Snowflake to install this Snowflake Native App.  However, this installation and configuration step is generally a one-time setup step, required to allow users to interact with data stored in the Snowflake Data Plane from the Narrative platform. 
 
 ---
 
