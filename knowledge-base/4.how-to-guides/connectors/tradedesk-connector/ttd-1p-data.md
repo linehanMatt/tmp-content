@@ -7,9 +7,9 @@ tags: ['The Trade Desk', 'Data Sharing', 'First Party Data', 'Connector Guide']
 
 # How to Share Your Data with an Advertiser Using The Trade Desk Connector
 
-Sharing your data directly with advertisers using The Trade Desk Connector (aka First Party data) involves a straightforward process, allowing for efficient data delivery directly within the Narrative platform. This guide outlines the steps to configure the connector and send data to The Trade Desk, specifically for first-party deliveries. Before proceeding, ensure you are familiar with the distinction between sharing data to The Trade Desk (first-party data deliveries) and selling data in The Trade Desk's Data Marketplace (third-party data deliveries). You can read more about that in What is the difference between TTD 3rd party and 1st party.
+Sharing your data directly with advertisers using The Trade Desk Connector (aka First Party data) involves a straightforward process, allowing for efficient data delivery directly within the Narrative platform. This guide outlines the steps to configure the connector and send data to The Trade Desk, specifically for first-party deliveries. Before proceeding, ensure you are familiar with the distinction between sharing data to The Trade Desk (first-party data deliveries) and selling data in The Trade Desk's Data Marketplace (third-party data deliveries). You can read more about that in [What is the difference between TTD 3rd party and 1st party](/knowledge-base/2.concepts/connectors/tradedesk-connector/index.md).
 
-For more information about The Trade Desk Connector generally, as well as supported datasets, see [The Trade Desk Connector](/knowledge-base/2.concepts/tradedesk-connector).
+For more information about The Trade Desk Connector generally, as well as supported datasets, see [The Trade Desk Connector](/knowledge-base/2.concepts/connectors/tradedesk-connector).
 
 ## Configuring the Connector
 
