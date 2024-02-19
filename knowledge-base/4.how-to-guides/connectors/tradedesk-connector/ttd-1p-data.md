@@ -7,9 +7,9 @@ tags: ['The Trade Desk', 'Data Sharing', 'First Party Data', 'Connector Guide']
 
 # How to Share Your Data with an Advertiser Using The Trade Desk Connector
 
-Sharing your data directly with advertisers using The Trade Desk Connector (aka First Party data) involves a straightforward process, allowing for efficient data delivery directly within the Narrative platform. This guide outlines the steps to configure the connector and send data to The Trade Desk, specifically for first-party deliveries. Before proceeding, ensure you are familiar with the distinction between sharing data to The Trade Desk (first-party data deliveries) and selling data in The Trade Desk's Data Marketplace (third-party data deliveries). You can read more about that in [What is the difference between TTD 3rd party and 1st party](/knowledge-base/concepts/connectors/tradedesk-connector/what-is-the-difference-between-ttd-3rd-party-and-1st-party).
+Sharing your data directly with advertisers using The Trade Desk Connector (aka First Party data) involves a straightforward process, allowing for efficient data delivery directly within the Narrative platform. This guide outlines the steps to configure the connector and send data to The Trade Desk, specifically for first-party deliveries. Before proceeding, ensure you are familiar with the distinction between sharing data to The Trade Desk (first-party data deliveries) and selling data in The Trade Desk's Data Marketplace (third-party data deliveries). You can read more about that in What is the difference between TTD 3rd party and 1st party.
 
-For more information about The Trade Desk Connector generally, as well as supported datasets, see [The Trade Desk Connector](/knowledge-base/concepts/connectors/tradedesk-connector).
+For more information about The Trade Desk Connector generally, as well as supported datasets, see The Trade Desk Connector.
 
 ## Configuring the Connector
 
@@ -40,7 +40,7 @@ After completing the Trade Desk Connector setup, you can send data to the connec
 
 Note that in order to send data to The Trade Desk Connector, you must work with a Dataset that contains data that has been mapped to one of the Narrative Rosetta Stone Attributes that is supported by The Trade Desk Connector.
 
-To read more about which data types are eligible for delivery to The Trade Desk, see [Eligible Data Types](/knowledge-base/2.concepts/connectors/tradedesk-connector/ttd-eligible-data-types).
+To read more about which data types are eligible for delivery to The Trade Desk, see Eligible Data Types.
 
 If you select a Dataset that is _not_ mapped to one of the supported attributes, you will not see options for sending data to The Trade Desk.
 
