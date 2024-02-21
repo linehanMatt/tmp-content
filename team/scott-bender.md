@@ -5,7 +5,7 @@ email: scott@narrative.io
 department: Sales
 image: /img/team/headshots/scott-bender.png
 linkedin: https://www.linkedin.com/in/scottlbender/
-bio: A visionary sales leader with a comprehensive background in both national and global markets
+bio: An experienced sales leader with a strong background in both national and global markets.
 ---
 Scott is an experienced sales leader with a strong background in both national and global markets, blending his knowledge of media with ad technology skills. His areas of expertise include data, video, programmatic, and cross-platform sales, with a proven track record in leading national digital sales teams and showcasing strategic thinking in the digital field.
 
