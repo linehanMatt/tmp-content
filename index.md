@@ -1,6 +1,6 @@
 ---
-title: Drive growth with AI-Enabled Data Collaboration'
-description: "Give your entire organization the power of advanced analytics, effortless management, and unparalleled efficiency with the world’s most advanced data collaboration platform."
+title: Drive growth with AI-Enabled Data Collaboration
+description: "Give your entire organization the power of advanced analytics, effortless management, and unparalleled efficiency with the world's most advanced data collaboration platform."
 ---
 
 ::item-grid
