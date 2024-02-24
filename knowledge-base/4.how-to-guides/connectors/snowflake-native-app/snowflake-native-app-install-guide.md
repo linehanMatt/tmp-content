@@ -33,8 +33,8 @@ The app requires an API token for accessing the Narrative Platform API.
 1. Sign up or log in at Narrative Platform.
 2. Follow the guide to **"Create a Long-Lived Access Token"**.
 3. Ensure your API token has the following permissions:
-   - Datasets: Read and Write
    - Data Planes: Read and Write
+   - Datasets: Read and Write
    - Jobs: Read and Write
 
 ### Step 3: Setup Compute Warehouse
