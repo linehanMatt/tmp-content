@@ -1,5 +1,5 @@
 ---
-title: Video Guide to Installing the Trade Desk Connector
+title: Video Guide to Installing the Snowflake Native App
 description: How-to guide for Snowflake Administrators to install and configure the Narrative Data Collaboration Snowflake Native App. 
 youtubeId: 4b0bf64a148529c21be5cee671d3d06b
 ---
