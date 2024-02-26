@@ -1,7 +1,7 @@
 ---
-title: Narrative Snowflake Native App Install Guide
-description: How-to guide for Snowflake Administrators to install and configure the Narrative Data Collaboration Snowflake Native App. 
-youtubeId: 4b0bf64a148529c21be5cee671d3d06b
+title: Video Guide to Querying and Delivering Data from Snowflake Data Plane
+description: How-to video showing how easy it is to query and interact with your data in the Snowflake data plane. 
+youtubeId: cf47ad5602ac1d9199d7f0e9865910fa
 ---
 
 ::item-grid
