@@ -14,41 +14,41 @@ description: Give your entire organization the power of advanced analytics, effo
 
   :::feature-callout
   ---
-  description: Designed for simplicity, our platform allows users of all skill levels to navigate and manage data effectively, without the need for extensive technical knowledge.
-  prompt: How does the platform's ease of use benefit users with varying levels of technical expertise?
-  title: Empower Every User, Any Skill Level
-  ---
-  :::
-
-  :::feature-callout
-  ---
-  description: Ensure the highest level of data security and compliance, protecting sensitive information while fostering collaboration.
-  prompt: What measures does the platform take to maintain data security and compliance?
-  title: Uphold The Highest Security Standards
-  ---
-  :::
-
-  :::feature-callout
-  ---
   description: Facilitate instant data sharing and collaboration, enabling teams to work together in real-time, regardless of their location.
-  prompt: How does real-time data sharing improve team collaboration and efficiency?
+  prompt: How do customizable access controls contribute to responsible data sharing?
   title: Enable Real-Time Data Sharing
   ---
   :::
 
   :::feature-callout
   ---
-  description: Manage who has access to what data with customizable permissions, ensuring data is shared responsibly and efficiently.
-  prompt: How do customizable access controls contribute to responsible data sharing?
-  title: Control Permissions, Share Responsibly
+  description: Narrative upholds the highest security standards, ensuring you’re always compliant in an ever-changing landscape.
+  prompt: What measures does the platform take to maintain data security and compliance?
+  title: Clean room equipped for peace of mind
   ---
   :::
 
   :::feature-callout
   ---
   description: Easily scale your data operations up or down according to your business needs, ensuring flexibility and efficiency.
-  prompt: Can you discuss how the platform's scalable infrastructure adapts to changing business needs?
+  prompt: How does real-time data sharing improve team collaboration and efficiency?
   title: Easily Scale Up or Down
+  ---
+  :::
+
+  :::feature-callout
+  ---
+  description: Facilitate instant data sharing and collaboration, enabling teams to work together in real-time, regardless of their location.
+  prompt: How do customizable access controls contribute to responsible data sharing?
+  title: Enable Real-Time Data Sharing
+  ---
+  :::
+
+  :::feature-callout
+  ---
+  description: Designed for simplicity, users of all skill levels can navigate and manage data effectively, without the need for extensive technical knowledge.
+  prompt: Can you discuss how the platform's scalable infrastructure adapts to changing business needs?
+  title: Empower Every User, Any Skill Level
   ---
   :::
 ::
