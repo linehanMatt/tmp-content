@@ -51,7 +51,8 @@ WHERE
   (
     narrative.rosetta_stone."iso_3166_1_country" = 'US'
     AND
-    narrative.rosetta_stone."event_timestamp" BETWEEN ASYMMETRIC '2024-02-01T05:38:18.000Z' AND '2024-02-21T05:38:35.000Z'
+    narrative.rosetta_stone."event_timestamp" BETWEEN
+    '2024-02-01' AND '2024-02-21'
   )
 LIMIT
   300 USD PER CALENDAR_MONTH

@@ -1,7 +1,7 @@
 ---
 title: 'Streamlining Data Collaboration with NQL: Commingling Standardized and Raw Data'
 description: 'NQL allows users to effortlessly blend their own data with standardized attributes from first-party and third-party sources in a single query.'
-publishDate: '2024-01-22 16:33:10'
+publishDate: '2024-02-22 16:33:10'
 author: 'Matt Linehan'
 ogImage: '/img/blog/2024/02/collaborating-with-NQL.png'
 image: '/img/blog/2024/02/collaborating-with-NQL.png'
