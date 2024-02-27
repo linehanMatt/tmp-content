@@ -34,7 +34,7 @@ Narrative’s Data Collaboration Platform offered an innovative solution:
 
 
 <b>Direct Connector Framework:</b><br>
-Enabled <b><a href="https://next.narrative.io/blog/the-trade-desk-connector">seamless data transmission to The Trade Desk</a></b>, eliminating the need for extensive engineering resources.
+Enabled <ins><a href="https://www.narrative.io/blog/the-trade-desk-connector">seamless data transmission to The Trade Desk</a></ins>, eliminating the need for extensive engineering resources.
 
 <b>AI-Powered Segmentation:</b><br>
 Automated segmentation of raw data, further reducing the need for technical intervention.
@@ -46,7 +46,7 @@ Streamlined conversion processes, enhancing data usability for clients.
 Authorized data to Narrative's marketplace as an additional revenue stream without extra storage or processing.
 
 <b>Data Cleaning and Standardization:</b><br>
-<b><a href="https://next.narrative.io/blog/seamlessly-acquire-data-with-rosetta-stone">Ensured data consistency and quality</a></b> before delivery, enhancing its market value.
+<ins><a href="https://www.narrative.io/blog/seamlessly-acquire-data-with-rosetta-stone">Ensured data consistency and quality</a></ins> before delivery, enhancing its market value.
 
 <b>Audience Building and Data Transfer:</b><br>
 Simplified query writing and data transfer to customer endpoints, broadening market opportunities.

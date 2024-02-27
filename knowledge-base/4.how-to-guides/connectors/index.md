@@ -1,5 +1,5 @@
 ---
-title: Narratve Connectors
+title: Narrative Connectors
 description: Guides to help you connect to various platforms and services using the Narrative Connector Framework
 ---
 
