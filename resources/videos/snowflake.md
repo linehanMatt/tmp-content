@@ -1,5 +1,5 @@
 ---
-title: Sending Snowflake data to The Trade Desk
+title: Snowflake to The Trade Desk
 videoId: cf47ad5602ac1d9199d7f0e9865910fa
 description: A quick video showing how to send data from Snowflake to The Trade Desk using Rosetta Stone
 type: video
