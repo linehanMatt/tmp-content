@@ -1,56 +1,54 @@
 ---
 title: Drive growth with AI-Enabled Data Collaboration
 description: Give your entire organization the power of advanced analytics, effortless management, and unparalleled efficiency with the world's most advanced data collaboration platform.
-title: Drive growth with AI-Enabled Data Collaboration
-description: Give your entire organization the power of advanced analytics, effortless management, and unparalleled efficiency with the world's most advanced data collaboration platform.
 ---
 
 ::item-grid
   :::feature-callout
   ---
-  description: Automated data standardization makes your data interoperable and easier to use for your organization & partners across all ecosystems.
+  description: Create a centralized hub for all of your data needs, enabling seamless collaboration across different departments and teams.
   prompt: How can a unified data ecosystem enhance collaboration in my organization?
-  title: Instantly increase the value of your data
+  title: Powerful tools. One platform.
   ---
   :::
 
   :::feature-callout
   ---
-  description: With no-code software and AI assistants to automate mundane, time-intensive tasks, your teams will get back time for more important things.
+  description: Designed for simplicity, our platform allows users of all skill levels to navigate and manage data effectively, without the need for extensive technical knowledge.
   prompt: How does the platform's ease of use benefit users with varying levels of technical expertise?
-  title: Save massive amounts of time & money
+  title: Empower Every User, Any Skill Level
   ---
   :::
 
   :::feature-callout
   ---
-  description: Narrative upholds the highest security standards, ensuring you’re always compliant in an ever-changing landscape.
+  description: Ensure the highest level of data security and compliance, protecting sensitive information while fostering collaboration.
   prompt: What measures does the platform take to maintain data security and compliance?
-  title: Clean room equipped for peace of mind
-  ---
-  :::
-
-  :::feature-callout
-  ---
-  description: Easily scale your data operations up or down according to your business needs, ensuring flexibility and efficiency.
-  prompt: How does real-time data sharing improve team collaboration and efficiency?
-  title: Easily Scale Up or Down
+  title: Uphold The Highest Security Standards
   ---
   :::
 
   :::feature-callout
   ---
   description: Facilitate instant data sharing and collaboration, enabling teams to work together in real-time, regardless of their location.
-  prompt: How do customizable access controls contribute to responsible data sharing?
+  prompt: How does real-time data sharing improve team collaboration and efficiency?
   title: Enable Real-Time Data Sharing
   ---
   :::
 
   :::feature-callout
   ---
-  description: Designed for simplicity, users of all skill levels can navigate and manage data effectively, without the need for extensive technical knowledge.
+  description: Manage who has access to what data with customizable permissions, ensuring data is shared responsibly and efficiently.
+  prompt: How do customizable access controls contribute to responsible data sharing?
+  title: Control Permissions, Share Responsibly
+  ---
+  :::
+
+  :::feature-callout
+  ---
+  description: Easily scale your data operations up or down according to your business needs, ensuring flexibility and efficiency.
   prompt: Can you discuss how the platform's scalable infrastructure adapts to changing business needs?
-  title: Empower Every User, Any Skill Level
+  title: Easily Scale Up or Down
   ---
   :::
 ::
