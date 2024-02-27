@@ -6,9 +6,9 @@ description: Give your entire organization the power of advanced analytics, effo
 ::item-grid
   :::feature-callout
   ---
-  description: Create a centralized hub for all of your data needs, enabling seamless collaboration across different departments and teams.
+  description: Automated data standardization makes your data interoperable and easier to use for your organization & partners across all ecosystems.
   prompt: How can a unified data ecosystem enhance collaboration in my organization?
-  title: Powerful tools. One platform.
+  title: Instantly increase the value of your data
   ---
   :::
 
