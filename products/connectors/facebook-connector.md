@@ -1,7 +1,7 @@
 ---
 title: Facebook Connector
 description: Move your data to Amazon's S3 storage with ease and efficiency.
-image: /img/products/connectors/facebook_connector.png
+image: /img/products/connectors/facebook_connector_example.png
 ---
 
 ::item-grid
