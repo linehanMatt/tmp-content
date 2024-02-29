@@ -1,7 +1,7 @@
 ---
 title: S3 Connector
 description: Move your data to Amazon's S3 storage with ease and efficiency.
-image: /img/products/connectors/aws_connector.png
+image: /img/products/connectors/s3_connector_example.png
 ---
 
 ::item-grid
