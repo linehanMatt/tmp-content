@@ -5,7 +5,7 @@ description: Use our advanced data cleanroom solutions to collaborate confidentl
 layout: 'nebula'
 ogTextColor: '#F1C05C'
 ogBackgroundColor: '#110E16'
-ogBorderColor: '#986422'
+ogBorderColor: '#966322'
 ---
 
 ::item-grid
