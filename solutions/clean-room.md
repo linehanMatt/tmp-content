@@ -3,6 +3,9 @@ short_title: Data Cleanroom
 title: World Class Cleanroom
 description: Use our advanced data cleanroom solutions to collaborate confidently, normalize disparate data, and maintain data privacy across multiple clouds.
 layout: 'nebula'
+ogTextColor: '#F1C05C'
+ogBackgroundColor: '#110E16'
+ogBorderColor: '#986422'
 ---
 
 ::item-grid
