@@ -6,8 +6,8 @@ description: Give your entire organization the power of advanced analytics, effo
 ::item-grid
   :::feature-callout
   ---
-  title: Instantly increase the value of your data
   description: Automated data standardization makes your data interoperable and easier to use for your organization & partners across all ecosystems.
+  title: Instantly increase the value of your data
   linkPath: /products/rosetta-stone
   ---
   :::
