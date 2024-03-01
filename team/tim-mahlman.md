@@ -5,7 +5,7 @@ email: tm@narrative.io
 department: Leadership
 image: /img/team/headshots/tim-mahlman.jpeg
 linkedin: https://www.linkedin.com/in/tim-mahlman-a7203820/
-bio: Tim Mahlman is a renowned figure in the technology and media industry.
+bio: Tim has more than 25 years of entrepreneurial leadership working and living in Asia, Europe and the United States specializing in software management platforms, data analytics and digital advertising platforms.
 ---
 Tim has more than 25 years of entrepreneurial leadership working and living in Asia, Europe and the United States specializing in software management platforms, data analytics and digital advertising platforms. 
 
