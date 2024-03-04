@@ -48,6 +48,7 @@ image: /img/products/connectors/ttd_advertisers.png
     - [Unified ID 2.0](https://www.thetradedesk.com/us/about-us/industry-initiatives/unified-id-solution-2-0)
     - [The Trade Desk, Snowflake, and Narrative](/blog/narrative-snowflake-thetradedesk)
     - [Getting Started Deck](/resources/decks/ttd-connector-integration-overview)
+    - [Snowflake Interoptability](/knowledge-base/how-to-guides/connectors/snowflake-native-app)
     ::::
   :::
 
