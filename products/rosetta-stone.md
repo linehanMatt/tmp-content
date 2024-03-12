@@ -16,7 +16,7 @@ image: /img/products/my-data/dataset-details-mappings.png
 
   :::feature-callout
   ---
-  description: Kick back and relax. Your data transformation is on autopilot with Rosetta Stone's normalization AI. 
+  description: Kick back and relax. Your data transformation is on autopilot with Rosetta Stone's normalization AI.
   prompt: Does Rosetta Stone work its magic automatically?
   title: Fully Automated
   ---
