@@ -1,6 +1,6 @@
 ---
-title: 'Understanding Data Planes: The Heart of Narrative\'s Data Collaboration Platform'
-description: 'At Narrative, we've engineered a state-of-the-art data collaboration platform that leverages the power of data planes to revolutionize how businesses handle information.'
+title: "Understanding Data Planes: The Heart of Narrative's Data Collaboration Platform"
+description: 'At Narrative, we have engineered a state-of-the-art data collaboration platform that leverages the power of data planes to revolutionize how businesses handle information.'
 publishDate: '2024-03-26 12:14:30'
 author: 'Narrative'
 ogImage: '/img/blog/2024/01/data-planes.png'
