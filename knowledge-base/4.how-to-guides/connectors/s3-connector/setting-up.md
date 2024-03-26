@@ -45,3 +45,32 @@ Click "Save And Finish" to complete the setup.
 3. **Multiple Profiles:** To send data to multiple buckets, select "Add An Additional Profile" and configure each as needed.
 
 Confirm the settings and complete the checkout process to start receiving data in your specified S3 bucket. Contact <support@narrative.io> for further assistance.
+
+### Advanced Settings
+
+The S3 Connector offers advanced settings that can be configured exclusively through the API. These settings provide more control over how data is processed and delivered to your AWS S3 bucket. One notable setting is the `remove_metadata` flag, which allows for more refined data management.
+
+#### **API-Only Configuration Options**
+
+Below is an example of advanced settings available through the API:
+
+```json
+{
+  "bucket_prefix": "Delivery_dataset_for_Fanatics_Data_Delivery_to_CadentTV_Real",
+  "historical_data_enabled": true,
+  "remove_metadata": true
+}
+```
+
+#### Understanding the remove_metadata Flag
+Functionality: When set to true, the `remove_metadata` option instructs the S3 Connector to remove all fields beginning with _nio from the delivered data. This is particularly useful for users looking to streamline their datasets by excluding metadata that may not be relevant to their analysis or storage needs.
+
+#### Behavior with Different File Types:
+
+- CSV Files: Regardless of the `remove_metadata` setting, all materialized fields are always removed to ensure a cleaner dataset. If remove_metadata is set to true, `_nio.*` fields are also excluded from the final dataset.
+
+- JSON and Parquet Files: If `remove_metadata` is set to true, both materialized fields and `_nio.*` fields are removed. This ensures that the delivered data is free of unnecessary metadata, optimizing storage and simplifying data processing.
+
+This advanced functionality provides users with greater flexibility and control over their data deliveries, allowing for customization to meet specific needs or preferences. 
+
+For further assistance or to enable these advanced settings, please contact support@narrative.io.
