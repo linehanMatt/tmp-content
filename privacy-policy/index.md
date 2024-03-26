@@ -1,99 +1,173 @@
-# Narrative Website Privacy Policy
+# Narrative Privacy Notice
 
-This Privacy Policy is effective May 10th, 2021.
+Last Updated: March 26, 2024
 
-Narrative I/O, Inc. (“Narrative”, “us”, “we”, “our”, and “ours”) is committed to protecting your privacy. The Privacy Policy (the “Privacy Policy”) applies to data collected by us from you (“you”, “your”, “yours”, and “Client”) through our proprietary software (the “Software”), content and related documentation and information (collectively with the Software, the “Services”) and through our website (<https://narrative.io/>, the “Site”) including all content and functionality available through the Site. By registering for an account and accessing or using any of our Services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Terms not defined herein shall have the meaning as provided in Narrative’s Terms of Service and incorporated herein.
+This Narrative Privacy Notice (this “Notice”) describes how Narrative I/O, Inc. (“Narrative”, “us”, “we”, “our”, and “ours”) collect, store, use, disclose and otherwise process “Personal Information”, which means any information that can be used to identify an individual person. This Notice also provides information about your choices and privacy rights.
 
-WE MAY MODIFY THIS PRIVACY POLICY AT ANY TIME, IN OUR SOLE DISCRETION, AND SUCH MODIFICATION SHALL BE EFFECTIVE IMMEDIATELY UPON EITHER POSTING OF THE MODIFIED PRIVACY POLICY ON THE SITE OR NOTIFYING YOU. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. YOU AGREE TO REVIEW THIS PRIVACY POLICY PERIODICALLY TO ENSURE THAT YOU ARE AWARE OF ANY MODIFICATIONS. YOUR CONTINUED ACCESS OR USE OF THE SITE SERVICES AND/OR SOFTWARE SHALL BE DEEMED YOUR CONCLUSIVE ACCEPTANCE OF THE MODIFIED PRIVACY POLICY.
+We encourage you to review this Notice on a regular basis, as we may make any changes to it to keep up with changing law and for other reasons. 
 
-## Information Covered in This Privacy Policy
+## Information Covered in This Privacy Notice
 
-This Privacy Policy covers Narrative's treatment of Personal Information (as defined herein) that Narrative gathers when you access the Site and when you use any part of the Service. This Privacy Policy also covers Narrative's treatment of any Personal Information that Narrative's business partners share with Narrative. This Privacy Policy does not apply to the practices of companies that Narrative does not own or control, or to individuals that Narrative does not employ or manage.
+This Notice applies to all Personal Information that we collect, store, use, disclose and otherwise process about our Customers in the course of our business, including through our websites that link to this Notice (such as [www.narrative.io](http://www.narrative.io)) (the “Sites“), our cloud-based data collaboration platform (the “Service”) and through other business activities like our and our partner’s events, sales and marketing activities (the Sites, Service and other business activities are referred to as the “Data Services”).
 
-## Collection of Your Information
+Narrative’s business operations involve provision of data, including Personal Information, by Narrative’s Customers to Narrative and the Data Services to enable Narrative to provide Customers with the services they have requested. This Notice does not apply to any information that Narrative processes on behalf of its Customers, such as the data and information that our Customers upload, process and store in the Service (“Customer Data”). Narrative processes Customer Data on behalf of those Customers and the Customer’s privacy policy applies to the Customer’s collection, use, disclosure and other processing of the Customer Data. All questions about Customer Data should be directed to that Customer. Narrative has no responsibility or liability for any Customer’s use of its Customer Data. “Customer” means any business or organization that has interacted with Narrative or has bought or uses the Data Services, including each of their individual users.
 
-In order to access the Service, a Narrative account (an “Account”) will be created for you. In order to create an Account, you must provide certain personally identifiable information such as, your name, e-mail address, addresses, and telephone number. Any information that can readily identify a person is considered “Personal Information” and includes any personally sensitive information as well such as political opinions and religious or philosophical beliefs. It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date.
+This Notice also does not apply to Personal Information processed when you access third party sites through our Data Services. Third party websites are governed by their own privacy policies that describe how your Personal Information is used. Narrative has no responsibility or liability for third party websites.
 
-Narrative will not be responsible for any problems or liability related to inaccurate or incomplete Personal Information, whether due to your failure to update such Personal Information or otherwise.
+## Personal Information Collected by Narrative
 
-In addition to the Personal Information, we may collect the following information you provide (collectively with Personal Information, the “Information”): certain standard browser information, such as your browser type and IP address, and pages of the Site visited and access times.
+Personal Information that we collect from or about you includes information you provide, information we collect automatically, and information we receive from other sources.
 
-In using and/or accessing the Services or the Software, you expressly authorize us to collect and use your Information in connection with the Services. You further acknowledge and agree that Narrative may, but is not obligated to, maintain copies of your Information indefinitely, or delete any or all Information, at our sole discretion. When you receive promotional e-mails or newsletters from Narrative, if any, we may use customized links or similar technologies to determine whether such newsletters or e-mail has been opened and which links you click. This information is used to provide you more focused e-mail communications and/or other information.
+### Information You Provide
+
+When you interact with our Data Services or our personnel, we collect certain Personal Information that you provide to us, which may include Personal Information you provide to subscribe to our Data Services or content, to attend our events, or for any other purpose you determine. You are also asked to provide Personal Information to set up your Narrative account and Personal Information obtained during our interactions during our business relationship. Personal Information you provide may include, but is not limited to:  
+
+- **Contact and Account Information**: your name and email address, phone number, and other related account data you provide;
+
+- **Employment Information**: the company you work for, your role at that company, company industry information, company contact information and business address;
+
+- **Commercial information**: records of your history of past purchases and transactions with us (e.g. when you signed up for a free trial)
+
+- **Communication Preferences**: in connection with marketing content, areas of interest, records of consent, or other correspondence;
+
+- **Communication Data**: data provided in your interactions with us, such as customer support;
+
+- **Payment Information**: payment and billing, including payment card or direct debit details if chosen by you as a payment method, which may be collected by or disclosed to our third-party payment and billing service providers.
+
+
+### Information We Automatically Collect
+
+We use standard automated data collection tools, such as cookies, web beacons, tracking pixels, tags, and similar tools, to collect information about use of our Data Services and interactions with our emails and other communications. The automatically collected information may include without limitation:
+
+- **Device Information**: data about hardware and software, browser, operating system, unique identifiers, including unique device identifiers, and IP addresses (we may also use your IP address to derive your general location information);
+
+- **Activity Information**: information about your activities on our Data Services, such asihow you came to and used our Data Services, event information (like access times, browser type, and language);
+
+- **Cookie data**: data collected through cookies and other similar technologies stored on your device, including cookie IDs and settings. We may also use web beacons and pixels in our newsletters and other emails.
+
+Narrative uses this information for (a) providing, supporting, and operating our products and services, (b) network and information security, and (c) analyzing, developing, and improving our products and services.The types of data collection tools we use may change over time as technology evolves.
+
+### Personal Information from Other Sources
+
+Narrative may also receive Personal Information about you from other individuals, organizations, users, affiliates, or third parties, including without limitation:
+
+- Third party websites or applications that are integrated into the Data Services that a Customer may elect to use may provide us with account and usage information from the third party website or application, or information to verify the Customer, your identity, or location for legal or regulatory or other reasons such as fraud prevention (but your use of those third party websites and applications are governed by the terms and privacy notices of those third parties);
+
+- Resellers, partners, or third party service providers who may provide us with contact or commercial information, or who support us with advertising functions; and
+
+- Public Sources, such as  information made publicly available on social media networks or other websites, or government entities that maintain public records
 
 ## Use of Your Personal Information
 
-Narrative collects and uses your Information to operate and improve the Site and better deliver the Services. These uses may include performing analysis aimed at improving the Service and making the Site or Services more user friendly by reducing the need for you to repeatedly enter the same information. Narrative may also use your Information to communicate with you, such as providing you with mandatory notices or discretionary notices about the Service. From time to time, Narrative may also send you surveys or promotional mailings to inform you of other products or services available from Narrative and its affiliates.
+Narrative uses your Personal Information for our business operations, which may include, without limitation, to:
 
-Narrative may support the Site and the Service by selling non-Personal Information (e.g. data that does not personally identify you, such as demographic data such as ZIP code or aggregated data, or Personal Information, such as an email address, that has been processed through a “hash” function which reformats the data into an irreversible non-Personal Information form) to third parties. Narrative is headquartered in the United States of America. Information may be accessed by us or transferred to us in the United States or to our affiliates, business partners, or service providers elsewhere in the world. By providing us with Information, you consent to this transfer. We will protect the privacy and security of Information according to our Privacy Policy, regardless of where it is processed or stored.
+- Provide, maintain, improve and update our Data Services;
 
-## Disclosing of Your Personal Information to Third Parties
+- Create and maintain your accounts on the Data Services;
 
-Except as described in this Privacy Policy, Narrative does not sell, rent, lease or disclose your Personal Information, and your Personal Information will be used only by Narrative and its controlled subsidiaries and affiliates, and your Personal Information will not be disclosed to any other third party without your consent.
+- Provide customer service and support; 
 
-Narrative may hire other companies to provide limited administrative and communication services on Narrative’ behalf, such as hosting Sites, the processing and delivery of mailings or providing customer support. Narrative has the right to disclose your Personal Information to these third party companies for the purpose of administering and maintaining the Site’s features, functions and operations. Those companies will be permitted to obtain only such Personal Information as necessary for them to deliver the respective services, and Narrative does not authorize these companies to use your Personal Information except for the sole purpose of providing those services requested by Narrative.
+- Communicate with you on various matters relating to our business relationship, including security alerts, invoices and payment, notices and administration; 
 
-Narrative may use third party analytics providers and products to obtain, compile and analyze Information about how Clients are using and interacting with Narrative and/or the Services. Narrative may provide Information to these analytics providers for the purpose of obtaining statistics and other information about how Clients are using and interacting with Narrative. These analytics providers may use a variety of established or new tracking technologies or tools (including, without limitation, cookies, web beacons, HTTP cache, local shared objects and persistent identifiers) to recognize your computer or device and/or to collect or compile this information. Narrative has no control over the technologies, tools or practices of the third parties that providing analytics products and services to Narrative. Narrative may use third party transcription service provides and products to transcribe information submitted or collected through the Services.
+- Monitor and enhance the safety and security of the Data Services and Customer accounts; 
 
-You understand and agree that Narrative may access and/or disclose Personal Information about you or your Account without your prior consent if Narrative has a good faith belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of Narrative (including the enforcement of our agreements); (iii) enforce the Terms of Service; (v) operate or conduct maintenance and repair of the Site or equipment as authorized by law; (vi) act in urgent circumstances to protect the personal safety of users of Narrative Site or members of the public; or (v) comply with a bankruptcy, merger, acquisition, transfer of control, joint venture of other business combination. Narrative is not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive. In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Narrative, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Narrative may continue to use your Information as set forth in this Privacy Policy.
+- Send you surveys or promotional mailings to inform you of other products or services available from Narrative and its affiliates (where you have permitted us to do so);
 
-Narrative may use a third party service provider to process payment transactions. Narrative does not collect, store or otherwise have access to credit card information. You should review such third party service provider’s privacy policy to ensure that you are comfortable with their use and disclosure of your information.
+- Process for other legitimate business purposes, such as for research and development, analyzing performance trends and usage to enhance our offerings, personalizing and improving your experience with our Data Services, marketing, research and/or development of our business, services or features, quality assurance;
+
+- Investigation of security issues, prevention of fraud, or to combat improper use of our Data Services;
+
+- Comply with our obligations under applicable law, legal process, or government regulation;
+
+- Create de-identified or anonymized information from other information we have collected, such that it cannot be reasonably identified with you or your device, and use and disclose the de-identified and anonymized information for any legal purpose.
+
+
+We may combine information we automatically collect or receive from other sources with the information we receive and collect from you.
+
+
+## How Narrative Shares Your Personal Information
+
+Narrative may share your Personal Information with third parties as follows:
+
+- **Service Providers**: with our third party vendors, consultants and service providers for the purpose of assisting us in operating our business including providing the Data Services, such as hosting, billing, payment card processing, customer support, sales and marketing, data analysis, detection and prevention of fraud, security threats or other illegal or improper behavior; 
+
+- **Business Partners**: with third party business partners, including integration partners, in connection with providing content, products, services or events to our prospects or Customers;
+
+- **Legal Reasons**: when authorized by law, in response to legal demands such as subpoenas, court orders, law enforcement requests, legal claims or government inquiries; to protect the rights, interests, safety, and security of Narrative, our Customers or the public, as well as of the Data Services and our other offerings;
+
+- **Your Consent**: when you have consented to the disclosure;
+
+- **Affiliates**: to Narrative affiliates for their use as described in this Notice; 
+
+- **Business Transactions**: to third parties in connection with negotiation and consummation of corporate transactions, such as financings, sales, mergers, or consolidations.
+
+## California Users
+
+If you are a California resident, the information below applies to you and supplements the information provided elsewhere in this Notice. Any terms defined in California privacy law (including the California Consumer Privacy Act of 2018 (CCPA) and California Privacy Rights Act (CPRA)) have the same meaning when used in this Notice in relation to California residents, notwithstanding any conflicting definitions elsewhere in this Notice. 
+
+This section describes how we collect, use, disclose and share Personal Information of California residents in our capacity as a “business” under the CCPA and their rights with respect to that Personal Information. 
+
+### Categories of Collected Data:
+
+We generally collect the following categories of Personal Information as defined by the CCPA when you use our Data Services:
+
+
+- Identifiers such as a name, address, unique personal identifier, email, phone number, your device’s IP address, software, and identification numbers associated with your devices;
+
+- Commercial information, such as records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies; 
+
+- Internet or other electronic information regarding your browsing and search history, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information; 
+
+- Your geolocation (such as approximate location inferred from your IP address, city, country), to the extent you have configured your device to permit us to collect such information.
+
+- Professional or employment-related information, such as your title or other employment attributes supplied in your interactions with us.
+
+For more information about the Personal Information we collect and how we collect it, please refer to the applicable sections above. Narrative does not knowingly collect Personal Data from individuals who are less than 16 years of age. 
+
+### Sale and Sharing:
+
+Narrative does not sell any Personal Information of consumers, including individuals interacting with the Data Services. Narrative shares each category of Personal Information listed above as described in the section of this Notice entitled “How Narrative Shares Your Personal Information“. In addition, we may disclose Identifiers and Internet or other similar network activity to advertising providers that tailor online ads to your interests based on information they collect about your online activity (known as interest-based advertising).
+
+**Sources**: Narrative collects the categories of Personal Information listed above that you provide, that we automatically collect or from third party sources as described in the section of this Notice entitled “Personal Information Collected by Narrative”.
+
+**Purpose**: Narrative uses the Personal Information for its Business Purposes and as described in the section of this Notice entitled “Use of Your Personal Information“. The CCPA defines a “business purpose” as the use of Personal Information for the business’s operational purposes, or other notified purposes, provided the use of Personal Information is reasonably necessary and proportionate to achieve the operational purpose for which the Personal Information was collected or another operational purpose that is compatible with the context in which the Personal Information was collected.
+
+**California Consumer Rights**: California residents can make requests described below relating to Personal Information that Narrative processes on our own behalf. Any request relating to Customer Data must be made directly to the relevant Customer which is the entity controlling that Customer Data. You can request:
+
+(i) Access to a copy the Personal Information that we have collected about you in the 12 months prior to your request;
+
+(ii) Correction of any such Personal Information that is inaccurate; and/or
+
+(iii) Deletion of Personal Information, subject to certain exceptions.
+
+(iv) Right to Opt-Out of Selling. “Personal Information” and “selling” are broadly defined in the CCPA such that sharing identifiers linked to you for a benefit may be considered a sale. We do not “sell” your Personal Information in the traditional sense; but as described in this Notice, we may share information about you with our partners, third parties or affiliates for our marketing purposes which the CCPA may consider a “sale” of Personal Information. Note - if you opt-out, we may be unable to offer you some of our Data Services which require sharing of Personal Information.
+
+To make any of the requests described above, please contact us by email at <privacy@narrative.io>. We will respond to your request consistent with, and subject to any exceptions in, the CCPA. Narrative does not discriminate against you for exercising your rights or offer you financial incentives related to the use of your Personal Information.
+
+## International 
+
+References to “Personal Information” in this Section have the same meaning as the term “personal data” as defined by European data protection legislation. This section relates to Personal Information that Narrative processes as a “controller”. Any Customer Data is processed by Narrative as a “processor” and is not governed by this Notice.
+
+Narrative’s data hosting is located in the United States. If you are located outside the United States and choose to provide Personal Information to us, you should understand that we transfer Personal Information to the United States. We use your Personal information for our legitimate business interests in conducting our operations, to comply with legal obligations, to fulfill our contractual obligations to your organization, or with your consent. We may use your Personal Information for reasons not described in this Notice if permitted by law and the reason is compatible with the purpose for which we collected it.  
+
+You can request access to your Personal Information and request that we correct, amend, or delete it if it is inaccurate or processed in violation of European data protection legislation by emailing <privacy@narrative.io>. We may request specific information from you to help us confirm your identity and process your request. If we decline your request as permitted or required by applicable law, we will tell you why to the extent legally permitted.
+
+## Data Retention
+
+Narrative retains the Personal Information covered by this Notice for as long as you use the Data Services, as may be required by law, as necessary for other legitimate business or commercial purposes described in this Notice (for example, to resolve disputes or enforce our agreements), or as otherwise communicated to you.
 
 ## Security of Your Personal Information
 
-The Personal Information Narrative collects is securely stored within our web servers and database (including those hosted on third party servers on behalf of Narrative), and we use standard, industry-wide practices such as firewalls, encryption, and (in certain areas) Secure Socket Layers (“SSL”) for protecting your information. However, as effective as encryption technology is, keep in mind that no security system is impenetrable. It may be possible for third parties to intercept or access Personal Information in spite of these measures. Narrative cannot guarantee the security of Personal Information and cannot be held responsible for unauthorized access to such Personal Information.
+Narrative implements and maintains appropriate technical and organizational security measures which are designed to protect the security and confidentiality of your Personal Information under our control. However, as effective as protective measures and technology are, no security system is impenetrable, and Narrative cannot guarantee the security of your Personal Information.
 
-## Information Collected Automatically
+## Children's Personal Information
 
-We may receive and store certain types of information whenever you interact with the Site and/or Service. We may choose to automatically receive and record information on our server logs from your browser including your IP address, cookie information, and the page you requested. Narrative uses "cookies" to collect non-personal data and information. Cookies are small text files a Site uses to recognize repeat users, and is typically placed on your hard disk by a web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. The way cookies function is by assigning a number to the user that has no meaning outside of the assigning Site. You should be aware that Narrative cannot control the use of cookies (or the resulting information) by Narrative's third-party partners. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of the Site and Service that depend on cookies.
+The Data Services are not directed towards children, and Narrative does not knowingly collect any Personal Information from children under the age of 13. If we discover that we have received Personal Information from a child under the age of 13, we will promptly delete that information or notify the relevant individual.
 
-## Collection and Use of Children's Personal Information
+## Updates to this Notice
 
-The Site is intended for general audiences and Narrative does not knowingly collect any Personal Information from children.
+Narrative may change this Notice from time to time, by posting those changes here and by changing the “Last Updated” date at the top of this Notice. If we make material changes, we will provide you with additional notice (such as adding a statement to the main website page, providing notice through the Services login page, or sending you an email notice).
 
-## E-mail Communications
+## Contact Narrative
 
-In using the Site and providing us with your email address, we may send you daily or weekly e-mails. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at <privacy@narrative.io> and include sufficient information for us to identify your Account, including your name, email address and the specifics of your request. However, after you unsubscribe to cease receiving e-mails, Narrative may still contact you via e-mail for administrative or informational purposes, including messages regarding the administration of your account and/or any services or events to which you have registered.
-
-## Questions or Comments Regarding this Privacy Policy
-
-Narrative welcomes any questions or comments you may have regarding this Privacy Policy or if you do not understand any information about how we collect, maintain, use, or share Information. Any such questions or comments should be submitted via email to <privacy@narrative.io>. We will make every effort to resolve or answer your concern.
-
-# Narrative Services Privacy Policy
-
-This Privacy Policy is effective September 24, 2016.
-
-Narrative I/O, Inc. (“Narrative”) encourages you (“you”, “your”, “yours” and the “Client”) to read and learn more about the rules and terms of our privacy policy (“Privacy Policy”). By accessing Narrative’s proprietary software (the “Software”) or using any of our services (collectively, with the Software, the “Service”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Terms not defined herein shall have the meaning as provided in the Services Agreement entered into by and between you and Narrative and incorporated herein.
-
-WE MAY MODIFY THIS PRIVACY POLICY AT ANY TIME, IN OUR SOLE DISCRETION, AND SUCH MODIFICATION SHALL BE EFFECTIVE IMMEDIATELY UPON EITHER POSTING OF THE MODIFIED PRIVACY POLICY ON THE SITE OR NOTIFYING YOU. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. YOU AGREE TO REVIEW THIS PRIVACY POLICY PERIODICALLY TO ENSURE THAT YOU ARE AWARE OF ANY MODIFICATIONS. YOUR CONTINUED ACCESS OR USE OF THE SITE SERVICES AND/OR SOFTWARE SHALL BE DEEMED YOUR CONCLUSIVE ACCEPTANCE OF THE MODIFIED PRIVACY POLICY.
-
-## Collection of Customer Data
-
-This Privacy Policy covers Narrative's treatment of Client Level Data and Third Party Level Data which may, at times, include or be linked to Personal Information (as defined herein) of Client’s customer (the “Customer”). This Privacy Policy does not apply to the practices of companies that Narrative does not own or control, or to individuals that Narrative does not employ or manage.
-
-The Service allows Narrative to collect and analyze Client Level Data supplied by Client, pursuant to a Service Agreement and an applicable Order Schedule, and helps Client evaluate and understand such data. This data may include such information as a Customer’s name, address, email address, site preference and phone number if permitted by Client through Client’s privacy notice or policy provided to its Customers. Any information that can readily identify a person is considered “Personal Information” and includes any personally sensitive information as well such as political opinions and religious or philosophical beliefs. Non-personally identifiable information such as IP address, zip codes, browser type, and geo-location (latitude and longitude) are additionally collected and made part of Client Level Data, as applicable, pursuant to an Order Schedule. Narrative processes and analyzes Client Level Data and allows Client (i) to license its own Client Level Data to other Third Party Recipients through the Services, or (ii) purchase other Third Party Level Data through the Services. You understand and agree that all licensing and purchasing of Client Level Data and Third Party Level Data, as applicable, are bound by and subject to the terms of a separate Service Agreement. Narrative does not retain or use Customer Data for its own internal business purposes unless permitted by our Clients.
-
-In using and/or accessing the Services or the Software, you expressly authorize us to (a) collect and use Client Level Data in connection with the Services, and (b) license out your Client Level Data to other Clients through the Services. You acknowledge and agree that Narrative may, but is not obligated to, maintain copies of your Client Level Data indefinitely, or delete any or all Client Level Data, at our sole discretion.
-
-Narrative is headquartered in the United States of America. Information may be accessed by us or transferred to us in the United States or to our affiliates, business partners, or service providers elsewhere in the world. By providing us with Client Level Data, you consent to this transfer. We will protect the privacy and security of Client Level Data according to our Privacy Policy, regardless of where it is processed or stored.
-
-## Disclosing of Customer Data to Third Parties
-
-Except as set forth in this Privacy, including the license to Clients of Third Party Level Data, Narrative does not sell, rent, lease or disclose Customer Data, and Customer Data will be used only by Narrative and its controlled subsidiaries and affiliates. Customer Data will not be disclosed to any other third party without your consent. Narrative may use third party transcription service provides and products to transcribe information submitted or collected through the Services. Customer Data, including any Personal Information contained therein, may also be shared with certain third-party companies and individuals that help facilitate technical and administrative aspects of the Service (e.g., credit card processing), or perform functions related to the administration of Narrative (e.g. hosting services). These third parties perform tasks on our behalf and are contractually obligated not to disclose or use Customer Data for any other purpose, and to employ adequate security measures to prevent unauthorized access to such data. However, Narrative is not responsible in the event that Customer Data, including any Personal Information contained therein, is disclosed at a result of a breach or security lapse by any such third party.
-
-You understand and agree that Narrative may access and/or disclose Customer Data (including Personal Information) without your prior consent if Narrative has a good faith belief that such action is necessary to: (a) comply with legal process or other legal requirements of any governmental authority; (b) protect and defend the rights or property of Narrative (including the enforcement of our agreements); (c) enforce the terms of the applicable Service Agreement; (v) operate or conduct maintenance and repair of the Narrative website, Services, or equipment as authorized by law; (d) act in urgent circumstances to protect the personal safety of Clients or members of the public; or (e) comply with a bankruptcy, merger, acquisition, transfer of control, joint venture of other business combination. Narrative is not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive. In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Narrative, or substantially all of its assets, were acquired, Customer Data, including any Personal Information contained therein, would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Narrative may continue to use Customer Data as set forth in this Privacy Policy.
-
-## Security of Customer Data
-
-The Customer Data Narrative collects is securely stored within our web servers and database (including those hosted on third party servers on behalf of Narrative), and we use standard, industry-wide practices such as firewalls, encryption, and (in certain areas) Secure Socket Layers (“SSL”) for protecting your information. However, as effective as encryption technology is, keep in mind that no security system is impenetrable. It may be possible for third parties to intercept or access Customer Data in spite of these measures. Narrative cannot guarantee the security of Customer Data and cannot be held responsible for unauthorized access to such Customer Data.
-
-## Notice to Customers
-
-You understand, acknowledge and agree that Narrative contractually requires you to (i) abide by all applicable state, federal and international laws, rules and regulations, including all terms and conditions set forth in the Service Agreement, as well as other applicable laws relating to privacy, data collection and transfer of Personal Information, and (ii) obtain any necessary consents from applicable third parties, including from your Customers, in connection with such use of its Services. You agree to comply with all applicable law, rules, and regulations regarding the collection of your Client Level Data, including, but not limited to, (a) posting an easily accessible privacy notice on your website (which shall be linked to conspicuously from the home page(s) of your website) which contains language that clearly conveys to your Customers that you collect data regarding Customer’s online activities over time and across non-affiliated web sites, mobile applications, or online services, as applicable, and that indicates such collected data (1) may include Customer Personal Information, and (2) is disclosed to Narrative in connection with the Services; and (b) providing links to industry-developed websites or other tools that permit your Customer to opt out of such data collection practices. You further agree that Narrative cannot be held responsible for any Client’s failure to make these disclosures on its website or for any Client’s use or collection of Client Level Data that is not permitted under this Privacy Policy or otherwise.
-
-## Collection and Use of Children's Personal Information
-
-The Services are intended for general audiences and Narrative does not knowingly collect any Customer Data, including Personal Information, from children. You represent and warrant that your Client Level Data will not contain any Personal Information of children.
-
-## Questions or Comments Regarding this Privacy Policy
-
-Narrative welcomes any questions or comments you may have regarding this Privacy Policy or if you do not understand any information about how we collect, maintain, use, or share Customer Data and Personal Information. Any such questions or comments should be submitted via email to <privacy@narrative.io>. We will make every effort to resolve or answer your concern.
+If you have any questions about this Notice, or privacy-related issues, please contact us by sending an  email to <privacy@narrative.io>. You can also write to us at 228 Park Ave South, PMB 23303, New York, NY 10003, Attn: Privacy. For inquiries related to our activities in the EEA, United Kingdom, and/or Switzerland, you may contact Narrative’s Data Protection Officer (DPO) at <dpo@narrative.io>.
