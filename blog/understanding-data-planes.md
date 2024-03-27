@@ -1,13 +1,17 @@
 ---
-title: "Understanding Data Planes: The Heart of Narrative's Data Collaboration Platform"
-description: 'At Narrative, we have engineered a state-of-the-art data collaboration platform that leverages the power of data planes to revolutionize how businesses handle information.'
+title: 'Understanding Data Planes: The Heart of Narrative''s Data Collaboration Platform'
+description: At Narrative, we have engineered a state-of-the-art data collaboration platform that leverages the power of data planes to revolutionize how businesses handle information.
 publishDate: '2024-03-26 12:14:30'
-author: 'Narrative'
-ogImage: '/img/blog/2024/01/data-planes.png'
-image: '/img/blog/2024/01/data-planes.png'
-tags: ['data collaboration', 'data standardization', 'data planes']
-authorSlug: 'frank-campanella'
+author: Narrative
+ogImage: /img/blog/2024/03/data-planes.png
+image: /img/blog/2024/03/data-planes.png
+tags:
+  - data collaboration
+  - data standardization
+  - data planes
+authorSlug: frank-campanella
 ---
+
 Data can change the way businesses work. Being able to handle, understand, and work together on large amounts of data is key to running a successful business. At Narrative, we've engineered a state-of-the-art data collaboration platform that leverages the power of data planes to revolutionize how businesses handle information. This blog post will unwrap the concepts of Control Plane and Data Plane, two critical components of our platform, and introduce you to the innovative use of snapshots within our Managed Data Plane, making data management a breeze for our users.
 
 ## **The Control Plane: Your Data Management Headquarters**
